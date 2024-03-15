@@ -92,7 +92,7 @@ cmp.setup({
 })
 
 
--- LSP servers
+-- NOTE: LSP servers
 require('mason').setup({})
 require('mason-lspconfig').setup({
     -- Replace the language servrs listed here
@@ -109,6 +109,7 @@ require('mason-lspconfig').setup({
         'bashls',
         'biome',
         'lemminx',
+        'marksman',
     },
     handlers = {
         lsp.default_setup,

@@ -6,14 +6,17 @@ vim.cmd [[packadd packer.nvim]]
 return require('packer').startup(function(use)
     -- Packer can manage itself
     use 'wbthomason/packer.nvim'
-    
+
     -- theme
     use { "catppuccin/nvim", as = "catppuccin"}
 
     -- TELESCOPE --- 
     use {
         'nvim-telescope/telescope.nvim', tag = '0.1.5',
-        requires = { {'nvim-lua/plenary.nvim'} }
+        requires = {
+            {'nvim-lua/plenary.nvim'},
+            {"folke/todo-comments.nvim"},
+        }
     }
 
     -- make everything look like telescope
@@ -78,7 +81,10 @@ return require('packer').startup(function(use)
     -- WARNING:
     use({
         "folke/todo-comments.nvim",
-        requires = { {'nvim-lua/plenary.nvim'} },
+        requires = {
+            {'nvim-lua/plenary.nvim'},
+            {'nvim-telescope/telescope.nvim'},
+        },
     })
 
     -- adds hotkeys for multi-commenting
