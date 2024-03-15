@@ -9,7 +9,16 @@ require("tabset").setup({
             expandtab = false
         },
         {
-            filetypes = { "javascript", "typescript", "javascriptreact", "typescriptreact", "json", "yaml" },
+            filetypes = {   
+                "javascript",
+                "typescript",
+                "javascriptreact",
+                "typescriptreact",
+                "json",
+                "yaml",
+                "html",
+                "css",
+            },
             config = {
                 tabwidth = 2
             }
