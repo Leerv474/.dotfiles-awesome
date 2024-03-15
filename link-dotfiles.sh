@@ -17,4 +17,6 @@ else
 fi
 
 ln ~/.dotfiles/.bash/.bashrc ~/.bashrc
+ln ~/.xbindkeysrc
+
 
