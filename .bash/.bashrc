@@ -16,6 +16,7 @@ BLUE="\033[34m"
 alias psd="${HOME}/.dotfiles/.bash/scripts/psd.sh"
 alias trash="${HOME}/.dotfiles/.bash/scripts/trash.sh"
 alias volume="${HOME}/.dotfiles/.bash/scripts/volume.sh"
+alias quick-git="${HOME}/.dotfiles/.bash/scripts/quick-git.sh"
 
 # personal
 alias vps-connect="${HOME}/.dotfiles/.bash/scripts/vps-connect"
@@ -75,24 +76,6 @@ alias :q="exit"
 alias cdate='date "+%Y-%m-%d %A %H:%M"'
 alias sd='shutdown now'
 alias cls='clear'
-
-# add commit push git with the current date 
-quick-git () {
-    git status
-    echo -e "[${BLUE}info\033[0m]: do you want to commit this? [Y/n]: \c" 
-    read confirm
-    if [[ $confirm = 'y' || $confirm = 'Y' || $confirm = '' ]]; then
-        echo -e "[${BLUE}info\033[0m]: adding files"
-        git add .
-        comDate=$(date "+%d-%m-%Y %H:%M:%S")
-        echo -e "[${BLUE}info\033[0m]: commiting \"${comDate}\""
-        git commit -m "${comDate}"
-        echo -e "[${BLUE}info\033[0m]: pushing files"
-        git push
-    else
-        echo -e "[${BLUE}info\033[0m]: cancelled"
-    fi
-}
 
 # web searching
 # search with url
