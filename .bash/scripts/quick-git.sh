@@ -26,10 +26,10 @@ git status --short
 echo -e "[${BLUE}info\033[0m]: do you want to commit this? [Y/n]: \c" 
 read confirm
 if [[ $confirm = 'y' || $confirm = 'Y' || $confirm = '' ]]; then
-    echo -e "[${BLUE}info\033[0m]: adding files"
+    echo -e "[${BLUE}info\033[0m]: adding files\n..."
     git add .
     comDate="update $(date "+%d-%m-%Y %H:%M:%S")"
-    echo -e "[${BLUE}info\033[0m]: commiting by name - \"${comDate}\""
+    echo -e "[${BLUE}info\033[0m]: commiting by name \"${comDate}\""
     git commit -m "${comDate}"
     echo -e "[${BLUE}info\033[0m]: pushing files"
     git push
