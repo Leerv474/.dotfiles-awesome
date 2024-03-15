@@ -16,7 +16,9 @@ else
     ln ~/.dotfiles/.config/polybar ~/.config/polybar
 fi
 
+rm ~/.bashrc
 ln ~/.dotfiles/.bash/.bashrc ~/.bashrc
+rm ~/.xbindkeysrc
 ln ~/.xbindkeysrc
 
 
