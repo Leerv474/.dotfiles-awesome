@@ -1,0 +1,30 @@
+# For the benefit of emacs users: -*- shell-script -*-
+###########################
+# xbindkeys configuration #
+###########################
+#
+# Version: 1.8.7
+#
+
+## VOLUME CONTROL
+# Use XF86AudioMute to mute volume
+"pactl set-sink-mute 0 toggle"
+   XF86AudioMute
+
+# Use XF86AudioRaiseVolume to raise volume
+"pactl set-sink-volume 0 +5%"
+   XF86AudioRaiseVolume
+
+# Use XF86AudioLowerVolume to lower volume
+"pactl set-sink-volume 0 -5%"
+   XF86AudioLowerVolume
+
+## SPECIAL BINDINGS
+"flameshot screen"
+   XF86Tools
+
+"flameshot gui"
+   Control + Shift + s
+##################################
+# End of xbindkeys configuration #
+##################################

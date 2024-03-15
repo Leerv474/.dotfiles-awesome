@@ -1,0 +1,130 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$SelectAll">
+      <i c="1" l="1710433471032" />
+    </e>
+    <e n="ActivateBookmarksToolWindow">
+      <i c="5" l="1710433513237" />
+    </e>
+    <e n="ActivateDebugToolWindow">
+      <i c="1" l="1710431070504" />
+    </e>
+    <e n="ActivateFindToolWindow">
+      <i c="6" l="1710433515442" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="3" l="1710433509016" />
+    </e>
+    <e n="ActivateRunToolWindow">
+      <i c="1" l="1710431070167" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="174" l="1710437881806" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="14" l="1710437841549" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="5" l="1710433127183" />
+    </e>
+    <e n="EditorDown">
+      <i c="69" l="1710437831494" />
+    </e>
+    <e n="EditorEnter">
+      <i c="38" l="1710437836958" />
+    </e>
+    <e n="EditorEscape">
+      <i c="30" l="1710437857290" />
+    </e>
+    <e n="EditorSelectWord">
+      <i c="4" l="1710433351408" />
+    </e>
+    <e n="EditorUp">
+      <i c="4" l="1710437616090" />
+    </e>
+    <e n="NewDir">
+      <i c="1" l="1710433312084" />
+    </e>
+    <e n="NewFile">
+      <i c="1" l="1710433322686" />
+    </e>
+    <e n="NewProject">
+      <i c="1" l="1710433099807" />
+    </e>
+    <e n="Run">
+      <i c="14" l="1710437899927" />
+    </e>
+    <e n="RunAnything">
+      <i c="1" l="1710433470879" />
+    </e>
+    <e n="SaveAll">
+      <i c="40" l="1710437898725" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="2" l="1710433468630" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="8" l="1710437854451" />
+    </e>
+    <e n="ShowSettings">
+      <i c="1" l="1710433164840" />
+    </e>
+    <e n="Switcher">
+      <i c="19" l="1710437778487" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1710430502416" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$DeleteBackspaceHandler">
+      <i c="14" l="1710437892150" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$EnterHandler">
+      <i c="6" l="1710437906451" />
+    </e>
+    <e n="com.intellij.ide.actions.ToolWindowViewModeAction">
+      <i c="2" l="1710433152611" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$ChangePluginStateAction">
+      <i c="1" l="1710410215246" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="1" l="1710410210556" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="1" l="1710433340086" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="210" l="1710437898024" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.ex.ActionUtil$InputEventDummyAction">
+      <i c="15" l="1710437778571" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="3" l="1710433471833" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="2" l="1710440960142" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="2" l="1710437771617" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1710433162307" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
+      <i c="1" l="1710410203691" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="6" l="1710433429761" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="2" l="1710433149587" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
+      <i c="1" l="1710433335239" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="43" l="1710437898721" />
+    </e>
+  </component>
+</application>

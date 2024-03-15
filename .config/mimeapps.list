@@ -1,0 +1,5 @@
+
+[Default Applications]
+application/octet-stream=nvim.desktop
+text/plain=nvim.desktop
+application/x-wine-extension-ini=nvim.desktop

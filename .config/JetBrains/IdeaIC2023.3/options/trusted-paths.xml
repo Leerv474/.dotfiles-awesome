@@ -1,0 +1,17 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda" value="true" />
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Documents/LeeRV-JAVA314/HW" />
+      </list>
+    </option>
+  </component>
+</application>

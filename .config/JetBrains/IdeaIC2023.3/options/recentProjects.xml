@@ -1,0 +1,42 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Lambda – Robot.java" projectWorkspaceId="2dgX6zGpOxeW5zr3khTbSpxwikc">
+              <option name="activationTimestamp" value="1710433136890" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14808.21" />
+              <option name="buildTimestamp" value="1710362280000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <frame x="10" y="44" width="1900" height="1026" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1710430524097" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Files – Main.java" opened="true" projectWorkspaceId="2dgcPOYGBnS5V6czkPhS9Z6mSl0">
+              <option name="activationTimestamp" value="1710440960240" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14808.21" />
+              <option name="buildTimestamp" value="1710362280000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="10" y="44" width="1900" height="1026" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1710433137335" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons" />
+  </component>
+</application>
