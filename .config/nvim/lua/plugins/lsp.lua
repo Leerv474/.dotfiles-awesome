@@ -1,7 +1,7 @@
 return {
     {
         'williamboman/mason.nvim',
-
+        priority = 1000,
 
         config = function ()
             require('mason').setup()
@@ -10,6 +10,7 @@ return {
     {
         --- lsp servers management
         'williamboman/mason-lspconfig.nvim',
+        lazy = false,
         config = function ()
             require('mason-lspconfig').setup({
                 -- Replace the language servrs listed here

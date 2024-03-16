@@ -22,7 +22,6 @@ return {
                         '--line-number',
                         '--column',
                         '--smart-case',
-                        '--no-ignore', -- **This is the added flag**
                         '--hidden' -- **Also this flag. The combination of the two is the same as `-uu`**
                     },
                     extensions = {

@@ -26,7 +26,7 @@ return {
             },
             sections = {
                 lualine_a = {{ 'mode', separator = { left = '', right = '' }, right_padding = 2 }},
-                lualine_b = {'branch', 'diagnostics'},
+                lualine_b = {'branch', 'diff', 'diagnostics'},
                 lualine_c = {'filename'},
                 lualine_x = {'encoding'},
                 lualine_y = {'filetype'},

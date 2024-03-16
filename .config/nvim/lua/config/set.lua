@@ -8,6 +8,7 @@ vim.opt.softtabstop = 4
 vim.opt.shiftwidth = 4
 vim.opt.smartindent = true
 vim.opt.showtabline = 0
+vim.opt.mouse = ""
 
 vim.wo.cursorline = true
 
