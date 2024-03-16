@@ -19,11 +19,11 @@ vmap K :m '<-2<CR>gv=gv
 nmap n nzzzv
 nmap N Nzzzv
 " So paste over doesn't change buffer
-nmap <leader>d "_d
-nmap <leader>d "_d
-xmap p "_dP
+nmap <leader>d \"_d
+nmap <leader>d \"_d
+xmap p \"_dP
 " better yap
-map <leader>y "+y
+vmap <leader>y \"+y
 " Don't use Ex mode, use Q for formatting.
 map Q gq
 
@@ -33,10 +33,11 @@ nmap <leader>fu :action FindUsages<cr>
 nmap <leader>fc :action GotoClass<cr>
 nmap <leader>fi :action GotoImplementation<cr>
 nmap <leader>fsm :action GotoSuperMethod<cr>
+nmap <leader>bn <Action>(NextTab)
+nmap <leaver>bp <Action>(PreviousTab)
 
 map <leader>pv :NERDTree<CR>
 
-" --- Enable IdeaVim plugins https://jb.gg/ideavim-plugins
 " Highlight copied text
 Plug 'machakann/vim-highlightedyank'
 " Commentary plugin

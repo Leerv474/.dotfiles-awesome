@@ -33,6 +33,7 @@ alias javacourse="cd ~/Documents/LeeRV-JAVA314"
 alias config="cd ~/.config"
 alias home="cd ~"
 alias dotfiles="cd ~/.dotfiles"
+alias projects="cd ~/Documents/Projects"
 
 
 # directory management
