@@ -34,9 +34,25 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Documents/Projects/comics-store-project/Project">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Project – Document.java" opened="true" projectWorkspaceId="2djRhgzhoZYRg5tcu2yLJDjC2im">
+              <option name="activationTimestamp" value="1710539380720" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14808.21" />
+              <option name="buildTimestamp" value="1710362280000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="10" y="44" width="1900" height="1026" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1710520746753" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files" />
-    <option name="lastProjectLocation" value="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/Projects/comics-store-project/Project" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents/Projects/comics-store-project" />
   </component>
 </application>
