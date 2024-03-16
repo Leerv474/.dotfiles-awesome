@@ -11,3 +11,4 @@ Includes:
 - bash (pure)
 
 
+ensure install of ripgrep for telescope in neovim
