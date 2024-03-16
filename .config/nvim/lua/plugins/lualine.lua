@@ -4,6 +4,7 @@ return {
         'nvim-tree/nvim-web-devicons',
     },
 
+
     config = function ()
         require("lualine").setup ({
             options = {
@@ -26,7 +27,16 @@ return {
             },
             sections = {
                 lualine_a = {{ 'mode', separator = { left = '', right = '' }, right_padding = 2 }},
-                lualine_b = {'branch', 'diff', 'diagnostics'},
+                lualine_b = {
+                    'branch',
+                    {
+                        'diff',
+                        colored = true, -- Displays a colored diff status if set to true
+                        symbols = {added = ' ', modified = '󰛿 ', removed = ' '}, -- Changes the symbols used by the diff.
+                        source = nil, -- A function that works as a data source for diff.
+                    },
+                    'diagnostics'
+                },
                 lualine_c = {'filename'},
                 lualine_x = {'encoding'},
                 lualine_y = {'filetype'},

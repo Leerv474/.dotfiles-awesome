@@ -93,7 +93,6 @@
       <jump line="35" column="18" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="31" column="49" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="36" column="8" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
-      <jump line="73" column="7" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="66" column="55" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="84" column="12" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
@@ -119,16 +118,33 @@
       <jump line="19" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" />
       <jump line="32" column="30" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" />
       <jump line="94" column="65" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="98" column="12" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="60" column="25" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" />
+      <jump line="61" column="25" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" />
+      <jump line="90" column="22" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="74" column="6" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="102" column="35" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="22" column="4" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="63" column="15" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="100" column="18" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="109" column="16" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="127" column="15" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="131" column="24" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
     </project>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <localmarks>
-      <file name="/Dummy.txt" timestamp="1710612077198">
+      <file name="/Dummy.txt" timestamp="1710622688515">
         <mark key="&quot;" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Main.java" timestamp="1710433137136">
         <mark key="&quot;" line="8" column="24" />
@@ -136,6 +152,9 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="8" column="24" />
         <mark key="^" line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/io/File.java" timestamp="1710622663089">
+        <mark key="&quot;" line="1039" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Direction.java" timestamp="1710433137201">
         <mark key="&quot;" line="21" column="27" />
@@ -149,19 +168,18 @@
         <mark key="^" line="4" column="13" />
         <mark key="." line="4" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" timestamp="1710612053653">
-        <mark key="&quot;" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" timestamp="1710622347467">
+        <mark key="&quot;" line="9" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="25" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" timestamp="1710611693407">
+      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" timestamp="1710621025159">
         <mark key="'" line="11" column="52" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="27" />
-        <mark key="^" line="20" column="28" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/" timestamp="1710433173090">
         <mark key="&quot;" line="0" column="0" />
@@ -188,12 +206,12 @@
         <mark key="^" line="0" column="12" />
         <mark key="." line="0" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" timestamp="1710612040803">
-        <mark key="'" line="68" column="55" />
-        <mark key="[" line="94" column="57" />
-        <mark key="]" line="94" column="66" />
-        <mark key="." line="94" column="65" />
-        <mark key="^" line="94" column="66" />
+      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" timestamp="1710623252249">
+        <mark key="&quot;" line="113" column="0" />
+        <mark key="[" line="132" column="26" />
+        <mark key="]" line="132" column="28" />
+        <mark key="." line="132" column="27" />
+        <mark key="^" line="132" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Robot.java" timestamp="1710433137182">
         <mark key="&quot;" line="100" column="29" />
@@ -218,49 +236,49 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="CHARACTER_WISE">
-        <text encoding="base64">aw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="+" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgU2ltcGxlRGF0ZUZvcm1hdCBkYXRlRm9ybWF0ID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQiKTsKICAgICAgICAgICAgU3RyaW5nIGRhdGVTdHJpbmcgPSBkYXRlRm9ybWF0LmZvcm1hdCh0aGlzLmNyZWF0aW9uRGF0ZSk7CiAgICAgICAgICAgIHdyaXRlci53cml0ZSgiQ3JlYXRpb24gRGF0ZTogIiArIGRhdGVTdHJpbmcgKyAiXG5cbiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoIWZpbGUuZXhpc3RzKCkpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGZpbGUuY3JlYXRlTmV3RmlsZSgpOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gMTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="-" type="CHARACTER_WISE">
-        <text encoding="base64">aw==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="." type="CHARACTER_WISE">
-        <text encoding="base64">Zm9ybWF0dGVy</text>
+        <text encoding="base64">aXc=</text>
       </register>
       <register name="/" type="CHARACTER_WISE">
         <text encoding="base64">b3V0</text>
       </register>
       <register name="0" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBuZXdDb250ZW50cy5hZGQoIkhlbGxvIik7Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQHJldHVybiBBbiBpbnRlZ2VyIHZhbHVlIGluZGljYXRpbmcgdGhlIHJlc3VsdDoKICAgICAqICAgICAgPHVsPgogICAgICogICAgICAgICAgPGxpPiAwIC0gc3VjY2VzczwvbGk+CiAgICAgKiAgICAgICAgICA8bGk+IDEgLSBmYWlsdXJlIDwvbGk+CiAgICAgKiAgICAgIDwvdWw+CiAgICAgKi8K</text>
       </register>
       <register name="1" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgU2ltcGxlRGF0ZUZvcm1hdCBkYXRlRm9ybWF0ID0gbmV3IFNpbXBsZURhdGVGb3JtYXQoInl5eXktTU0tZGQiKTsK</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudGV4dC5TaW1wbGVEYXRlRm9ybWF0Owo=</text>
       </register>
       <register name="2" type="LINE_WISE">
-        <text encoding="base64">VGl0bGU6IFRlc3RpbmcKQXV0aG9yOiBMZWUK</text>
+        <text encoding="base64">ICAgICAqCg==</text>
       </register>
       <register name="3" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAqIEBwYXJhbSBmaWxlQ29udGVudHMgCg==</text>
       </register>
       <register name="4" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJBdXRob3IgbmFtZSBpZiB0b28gc2hvcnQiKTsK</text>
       </register>
       <register name="5" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBMaXN0PFN0cmluZz4gZmlsZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJGaWxlIGNvbnRlbnRzIHdlcmVuJ3QgZ2l2ZW4iKTsK</text>
       </register>
       <register name="6" type="LINE_WISE">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLmVyci5wcmludGxuKCJUaXRsZSB3YXNuJ3QgZ2l2ZW4iKTsK</text>
       </register>
       <register name="7" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICB0aGlzLmZpbGVFeGlzdHMgPSB0cnVlOwo=</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZShwYXRoKTsK</text>
       </register>
       <register name="8" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5maWxlRXhpc3RzID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBGaWxlIGZpbGUgPSBuZXcgRmlsZQo=</text>
       </register>
       <register name="9" type="LINE_WISE">
-        <text encoding="base64">ICAgIHByaXZhdGUgYm9vbGVhbiBmaWxlRXhpc3RzOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gCg==</text>
       </register>
       <register name=":" type="CHARACTER_WISE">
         <text encoding="base64">dw==</text>

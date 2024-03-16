@@ -30,7 +30,7 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="376">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -41,10 +41,14 @@
       <file>
         <entry file="file://$PROJECT_DIR$/src/TextDocument/Document.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="98" column="12" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="12" />
+            <state relative-caret-position="403">
+              <caret line="132" column="26" selection-start-line="132" selection-start-column="26" selection-end-line="132" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#2881#2882#0" expanded="true" />
+                <element signature="e#2914#2915#0" expanded="true" />
+                <element signature="e#3024#3025#0" expanded="true" />
+                <element signature="e#3064#3065#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,10 +61,10 @@
       <summary usageCount="1" lastUsed="1710520122258" />
     </fileType>
     <fileType name="JAVA">
-      <summary usageCount="23" lastUsed="1710610182396" />
+      <summary usageCount="27" lastUsed="1710622559079" />
     </fileType>
     <fileType name="PLAIN_TEXT">
-      <summary usageCount="10" lastUsed="1710611884150" />
+      <summary usageCount="11" lastUsed="1710620980540" />
     </fileType>
     <fileType name="textmate">
       <summary usageCount="12" lastUsed="1710598471795" />
@@ -71,8 +75,8 @@
       <option value="$PROJECT_DIR$/src/test.txt" />
       <option value="$USER_HOME$/.ideavimrc" />
       <option value="$PROJECT_DIR$/src/TextDocument/EFileStatus.java" />
-      <option value="$PROJECT_DIR$/src/Main.java" />
       <option value="$PROJECT_DIR$/data/test.txt" />
+      <option value="$PROJECT_DIR$/src/Main.java" />
       <option value="$PROJECT_DIR$/src/TextDocument/Document.java" />
     </changedPaths>
   </component>
@@ -88,10 +92,10 @@
       <summary usageCount="1" lastUsage="1710520122258" />
     </language>
     <language id="JAVA">
-      <summary usageCount="23" lastUsage="1710610182396" />
+      <summary usageCount="27" lastUsage="1710622559079" />
     </language>
     <language id="TEXT">
-      <summary usageCount="10" lastUsage="1710611884150" />
+      <summary usageCount="11" lastUsage="1710620980540" />
     </language>
     <language id="textmate">
       <summary usageCount="12" lastUsage="1710598471795" />
@@ -161,14 +165,14 @@
       <unified_weights bottom="0.32990196" left="0.33025342" />
     </layoutV2>
     <recentWindows>
-      <value>Debug</value>
-      <value>Project</value>
-      <value>Run</value>
-      <value>Bookmarks</value>
       <value>Commit</value>
       <value>Messages</value>
-      <value>Pull Requests</value>
       <value>Version Control</value>
+      <value>Project</value>
+      <value>Debug</value>
+      <value>Run</value>
+      <value>Bookmarks</value>
+      <value>Pull Requests</value>
       <value>Find</value>
       <value>Problems View</value>
     </recentWindows>
@@ -226,14 +230,22 @@
     </state>
     <state width="1828" height="304" key="GridCell.Tab.1.right/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710539380705" />
     <state width="1828" height="304" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1710616129676" />
-    <state x="451" y="204" key="SettingsEditor" timestamp="1710588794432">
+    <state x="451" y="204" key="SettingsEditor" timestamp="1710622845982">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="451" y="204" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1710588794432" />
-    <state x="695" y="277" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1710590603893">
+    <state x="451" y="204" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1710622845982" />
+    <state x="557" y="305" key="Vcs.Push.Dialog.v2" timestamp="1710622702509">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="695" y="277" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1710590603893" />
+    <state x="557" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1710622702509" />
+    <state x="695" y="277" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1710621829901">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="695" y="277" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1710621829901" />
+    <state width="600" height="400" key="javadoc.popup" timestamp="1710622558909">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="400" key="javadoc.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1710622558909" />
     <state x="623" y="264" width="718" height="700" key="search.everywhere.popup" timestamp="1710611492562">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -253,24 +265,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TextDocument/EFileStatus.java" />
     <entry file="file://$PROJECT_DIR$/data/test.txt">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="439">
+          <caret line="1039" column="19" selection-start-line="1039" selection-start-column="19" selection-end-line="1039" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/TextDocument/Document.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="98" column="12" selection-start-line="98" selection-start-column="12" selection-end-line="98" selection-end-column="12" />
+        <state relative-caret-position="403">
+          <caret line="132" column="26" selection-start-line="132" selection-start-column="26" selection-end-line="132" selection-end-column="26" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#2881#2882#0" expanded="true" />
+            <element signature="e#2914#2915#0" expanded="true" />
+            <element signature="e#3024#3025#0" expanded="true" />
+            <element signature="e#3064#3065#0" expanded="true" />
           </folding>
         </state>
       </provider>

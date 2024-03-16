@@ -35,7 +35,6 @@ return {
     {
         -- LSP Support
         "neovim/nvim-lspconfig",
-        event = { "BufReadPre", "BufNewFile" },
         config = function ()
             local lspconfig = require("lspconfig")
 
