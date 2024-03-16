@@ -2,13 +2,13 @@
 
 Includes:
 - Awesome WM (includes polybar, picom and rofi)
-- neovim 
+- [neovim](https://github.com/Leerv474/.dotfiles/tree/master/.config/nvim)
 - JetBrains 
-- lf (terminal file manager)
-- kitty (terminal emulator)
+- [lf](https://github.com/Leerv474/.dotfiles/tree/master/.config/lf) (terminal file manager)
+- [kitty](https://github.com/Leerv474/.dotfiles/blob/master/.config/kitty/kitty.conf) (terminal emulator)
 - xbindkeys (for keybindings)
 - firefox (user.js and chrome folder for personalizatoin)
-- bash (pure)
+- [bash](https://github.com/Leerv474/.dotfiles/tree/master/.bash) (pure)
 
 
 ensure install of ripgrep for telescope in neovim
