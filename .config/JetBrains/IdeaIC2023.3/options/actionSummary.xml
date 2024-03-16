@@ -10,7 +10,7 @@
       <i c="1" l="1710433471032" />
     </e>
     <e n="ActivateBookmarksToolWindow">
-      <i c="8" l="1710524307486" />
+      <i c="10" l="1710611260571" />
     </e>
     <e n="ActivateDebugToolWindow">
       <i c="1" l="1710431070504" />
@@ -19,43 +19,43 @@
       <i c="6" l="1710433515442" />
     </e>
     <e n="ActivateProjectToolWindow">
-      <i c="21" l="1710598766521" />
+      <i c="22" l="1710610403395" />
     </e>
     <e n="ActivateRunToolWindow">
       <i c="1" l="1710431070167" />
     </e>
     <e n="AutoIndentLines">
-      <i c="91" l="1710603871743" />
+      <i c="95" l="1710611482582" />
     </e>
     <e n="Debug">
-      <i c="12" l="1710528569914" />
+      <i c="18" l="1710612044216" />
     </e>
     <e n="EditorBackSpace">
-      <i c="979" l="1710603859310" />
+      <i c="1116" l="1710611996276" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="57" l="1710603864331" />
+      <i c="73" l="1710612022656" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="1" l="1710602098418" />
+      <i c="2" l="1710610967422" />
     </e>
     <e n="EditorDelete">
       <i c="3" l="1710527941945" />
     </e>
     <e n="EditorDeleteToWordStart">
-      <i c="18" l="1710603773224" />
+      <i c="61" l="1710612069375" />
     </e>
     <e n="EditorDown">
       <i c="215" l="1710603862621" />
     </e>
     <e n="EditorEnter">
-      <i c="190" l="1710603838800" />
+      <i c="220" l="1710611986321" />
     </e>
     <e n="EditorEscape">
-      <i c="73" l="1710603864914" />
+      <i c="75" l="1710611765589" />
     </e>
     <e n="EditorNextWord">
-      <i c="1" l="1710519755149" />
+      <i c="2" l="1710610589883" />
     </e>
     <e n="EditorPreviousWord">
       <i c="1" l="1710519752985" />
@@ -78,6 +78,9 @@
     <e n="GotoClass">
       <i c="2" l="1710598627240" />
     </e>
+    <e n="GotoFile">
+      <i c="1" l="1710610408415" />
+    </e>
     <e n="GotoImplementation">
       <i c="3" l="1710590200904" />
     </e>
@@ -94,13 +97,13 @@
       <i c="6" l="1710527744003" />
     </e>
     <e n="NewFile">
-      <i c="2" l="1710527422382" />
+      <i c="3" l="1710610423254" />
     </e>
     <e n="NewProject">
       <i c="1" l="1710433099807" />
     </e>
     <e n="NextTab">
-      <i c="4" l="1710597010033" />
+      <i c="12" l="1710611896016" />
     </e>
     <e n="NextTemplateVariable">
       <i c="1" l="1710599103639" />
@@ -112,25 +115,25 @@
       <i c="7" l="1710590603159" />
     </e>
     <e n="RedesignedRunConfigurationSelector">
-      <i c="2" l="1710527656209" />
+      <i c="3" l="1710612061787" />
     </e>
     <e n="RenameElement">
       <i c="1" l="1710599096982" />
     </e>
     <e n="Run">
-      <i c="18" l="1710596999642" />
+      <i c="21" l="1710611628823" />
     </e>
     <e n="RunAnything">
       <i c="1" l="1710433470879" />
     </e>
     <e n="SaveAll">
-      <i c="167" l="1710603885106" />
+      <i c="185" l="1710612056577" />
     </e>
     <e n="SearchEverywhere">
-      <i c="3" l="1710527494605" />
+      <i c="5" l="1710611491818" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="37" l="1710602110578" />
+      <i c="42" l="1710611298587" />
     </e>
     <e n="ShowSettings">
       <i c="6" l="1710588365325" />
@@ -142,19 +145,19 @@
       <i c="15" l="1710528573865" />
     </e>
     <e n="Stop">
-      <i c="3" l="1710528584995" />
+      <i c="4" l="1710612060844" />
     </e>
     <e n="Switcher">
       <i c="46" l="1710590518779" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="2" l="1710528220625" />
+      <i c="3" l="1710611659894" />
     </e>
     <e n="Tree-selectNext">
-      <i c="48" l="1710598771211" />
+      <i c="50" l="1710610404835" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="38" l="1710598767264" />
+      <i c="48" l="1710610414812" />
     </e>
     <e n="WelcomeScreen.CreateNewProject">
       <i c="2" l="1710519518988" />
@@ -181,7 +184,7 @@
       <i c="3" l="1710603893956" />
     </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
-      <i c="1276" l="1710603859309" />
+      <i c="1448" l="1710612040801" />
     </e>
     <e n="com.intellij.openapi.actionSystem.ex.ActionUtil$InputEventDummyAction">
       <i c="27" l="1710590519385" />
@@ -190,19 +193,19 @@
       <i c="2" l="1710527477135" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="3" l="1710596953147" />
+      <i c="5" l="1710612053650" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="6" l="1710598628148" />
+      <i c="9" l="1710611492560" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="15" l="1710603898545" />
+      <i c="16" l="1710616129579" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="4" l="1710588794428" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="15" l="1710603732141" />
+      <i c="16" l="1710611881860" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
       <i c="9" l="1710588362875" />
@@ -211,7 +214,7 @@
       <i c="2" l="1710588153281" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="9" l="1710603892108" />
+      <i c="10" l="1710610210103" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1710519627523" />
@@ -223,7 +226,7 @@
       <i c="2" l="1710528591463" />
     </e>
     <e n="com.maddyhome.idea.vim.extension.nerdtree.NerdTree$NerdDispatcher">
-      <i c="87" l="1710598771210" />
+      <i c="99" l="1710610414812" />
     </e>
     <e n="com.maddyhome.idea.vim.group.NotificationService$OpenIdeaVimRcAction">
       <i c="7" l="1710598471346" />
@@ -238,10 +241,10 @@
       <i c="1" l="1710588787141" />
     </e>
     <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
-      <i c="203" l="1710603885102" />
+      <i c="222" l="1710612056574" />
     </e>
     <e n="editRunConfigurations">
-      <i c="1" l="1710527623661" />
+      <i c="2" l="1710612066444" />
     </e>
   </component>
 </application>

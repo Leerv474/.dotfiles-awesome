@@ -2,6 +2,7 @@
 set scrolloff=8
 set incsearch
 set nu
+set relativenumber
 set ignorecase
 set smartcase
 set NERDTree

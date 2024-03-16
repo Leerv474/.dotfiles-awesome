@@ -66,7 +66,7 @@
     </option>
     <option name="default" value="false" />
     <option name="ideVersion" value="2023.3.5" />
-    <option name="lastUpdateTime" value="1710519624306" />
+    <option name="lastUpdateTime" value="1710610183770" />
     <option name="supportedGradleVersions">
       <list>
         <option value="3.0" />
@@ -185,7 +185,7 @@
     "got.it.tooltip.speed.search.shown": "1",
     "gotit.previous.run": "IC-233.14808.21",
     "ide.memory.adjusted": "true",
-    "ideavim.statistics.timestamp": "1710519627139",
+    "ideavim.statistics.timestamp": "1710610187489",
     "ift.hide.welcome.screen.promo": "true",
     "installed.kotlin.plugin.version": "233.14808.21-IJ",
     "jdk.selected.JAVA_MODULE": "21",
