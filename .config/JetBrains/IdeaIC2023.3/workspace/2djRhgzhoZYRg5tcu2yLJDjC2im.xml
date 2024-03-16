@@ -12,9 +12,10 @@
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="186">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
               <folding>
-                <element signature="e#150#151#0" expanded="true" />
+                <element signature="e#94#95#0" expanded="true" />
+                <element signature="e#155#156#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -24,19 +25,28 @@
         <entry file="file://$PROJECT_DIR$/data/test.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="62">
-              <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TextDocument/Document.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file>
-        <entry file="file://$PROJECT_DIR$/src/TextDocument/Document.java">
+        <entry file="file://$USER_HOME$/.ideavimrc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="589">
-              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="433">
+              <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -48,10 +58,13 @@
       <summary usageCount="1" lastUsed="1710520122258" />
     </fileType>
     <fileType name="JAVA">
-      <summary usageCount="4" lastUsed="1710521210040" />
+      <summary usageCount="12" lastUsed="1710590171844" />
     </fileType>
     <fileType name="PLAIN_TEXT">
-      <summary usageCount="1" lastUsed="1710527426858" />
+      <summary usageCount="5" lastUsed="1710590171764" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="5" lastUsed="1710590171501" />
     </fileType>
   </component>
   <component name="IdeDocumentHistory">
@@ -60,6 +73,7 @@
       <option value="$PROJECT_DIR$/src/Main.java" />
       <option value="$PROJECT_DIR$/data/test.txt" />
       <option value="$PROJECT_DIR$/src/TextDocument/Document.java" />
+      <option value="$USER_HOME$/.ideavimrc" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -74,10 +88,13 @@
       <summary usageCount="1" lastUsage="1710520122258" />
     </language>
     <language id="JAVA">
-      <summary usageCount="4" lastUsage="1710521210040" />
+      <summary usageCount="12" lastUsage="1710590171844" />
     </language>
     <language id="TEXT">
-      <summary usageCount="1" lastUsage="1710527426858" />
+      <summary usageCount="5" lastUsage="1710590171764" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="5" lastUsage="1710590171505" />
     </language>
   </component>
   <component name="ProjectView">
@@ -130,9 +147,9 @@
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.32990196" />
       <window_info anchor="bottom" id="Terminal" order="3" />
       <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32990196" />
-      <window_info anchor="bottom" id="Services" order="4" />
-      <window_info anchor="bottom" id="Build" order="4" />
-      <window_info anchor="bottom" id="Debug" order="4" show_stripe_button="false" weight="0.32990196" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="bottom" id="Debug" order="7" show_stripe_button="false" weight="0.32990196" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
@@ -141,9 +158,9 @@
       <unified_weights bottom="0.32990196" left="0.33025342" />
     </layoutV2>
     <recentWindows>
+      <value>Project</value>
       <value>Debug</value>
       <value>Run</value>
-      <value>Project</value>
       <value>Problems View</value>
       <value>Bookmarks</value>
     </recentWindows>
@@ -197,14 +214,14 @@
     </state>
     <state width="1828" height="304" key="GridCell.Tab.1.right/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710539380705" />
     <state width="1828" height="304" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1710528586433" />
-    <state x="451" y="204" key="SettingsEditor" timestamp="1710520230738">
+    <state x="451" y="204" key="SettingsEditor" timestamp="1710588794432">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="451" y="204" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1710520230738" />
-    <state x="695" y="277" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1710522563482">
+    <state x="451" y="204" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1710588794432" />
+    <state x="695" y="277" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1710590113808">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="695" y="277" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1710522563482" />
+    <state x="695" y="277" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1710590113808" />
     <state x="623" y="264" width="718" height="700" key="search.everywhere.popup" timestamp="1710527495494">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -218,27 +235,35 @@
     <entry file="file://$PROJECT_DIR$/data/test.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
-          <caret line="2" column="13" lean-forward="true" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextDocument/Document.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="186">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
           <folding>
-            <element signature="e#150#151#0" expanded="true" />
+            <element signature="e#94#95#0" expanded="true" />
+            <element signature="e#155#156#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TextDocument/Document.java">
+    <entry file="file://$USER_HOME$/.ideavimrc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="433">
+          <caret line="23" column="10" selection-start-line="23" selection-start-column="10" selection-end-line="23" selection-end-column="10" />
         </state>
       </provider>
     </entry>

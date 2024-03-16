@@ -19,6 +19,9 @@ vim.keymap.set("n", "N", "Nzzzv")
 vim.keymap.set("n", "<leader>d", "\"_d")
 vim.keymap.set("v", "<leader>d", "\"_d")
 
+-- better yap
+vim.keymap.set("v", "<leader>y", "\"+y")
+
 vim.api.nvim_set_keymap('x', 'p', '"_dP', {noremap = true})
 
 vim.cmd [[ 

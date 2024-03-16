@@ -1,7 +1,7 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="2" l="1710528528904" />
+      <i c="4" l="1710590180292" />
     </e>
     <e n="$Delete">
       <i c="1" l="1710519728208" />
@@ -19,7 +19,7 @@
       <i c="6" l="1710433515442" />
     </e>
     <e n="ActivateProjectToolWindow">
-      <i c="12" l="1710524305794" />
+      <i c="15" l="1710590187431" />
     </e>
     <e n="ActivateRunToolWindow">
       <i c="1" l="1710431070167" />
@@ -31,7 +31,7 @@
       <i c="12" l="1710528569914" />
     </e>
     <e n="EditorBackSpace">
-      <i c="566" l="1710528623893" />
+      <i c="596" l="1710590227383" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="32" l="1710529939680" />
@@ -40,16 +40,16 @@
       <i c="3" l="1710527941945" />
     </e>
     <e n="EditorDeleteToWordStart">
-      <i c="9" l="1710525087477" />
+      <i c="12" l="1710588315069" />
     </e>
     <e n="EditorDown">
       <i c="212" l="1710528085953" />
     </e>
     <e n="EditorEnter">
-      <i c="101" l="1710529938186" />
+      <i c="120" l="1710590228939" />
     </e>
     <e n="EditorEscape">
-      <i c="44" l="1710538391389" />
+      <i c="56" l="1710590242294" />
     </e>
     <e n="EditorNextWord">
       <i c="1" l="1710519755149" />
@@ -69,6 +69,12 @@
     <e n="Git.Add">
       <i c="3" l="1710520258495" />
     </e>
+    <e n="GotoImplementation">
+      <i c="3" l="1710590200904" />
+    </e>
+    <e n="InspectCode">
+      <i c="1" l="1710589799565" />
+    </e>
     <e n="MoreRunToolbarActions">
       <i c="2" l="1710527620333" />
     </e>
@@ -85,7 +91,7 @@
       <i c="1" l="1710433099807" />
     </e>
     <e n="PasteMultiple">
-      <i c="1" l="1710522562587" />
+      <i c="5" l="1710590113077" />
     </e>
     <e n="RedesignedRunConfigurationSelector">
       <i c="2" l="1710527656209" />
@@ -97,16 +103,19 @@
       <i c="1" l="1710433470879" />
     </e>
     <e n="SaveAll">
-      <i c="93" l="1710529945701" />
+      <i c="117" l="1710590251193" />
     </e>
     <e n="SearchEverywhere">
       <i c="3" l="1710527494605" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="26" l="1710528116679" />
+      <i c="30" l="1710589802538" />
     </e>
     <e n="ShowSettings">
-      <i c="2" l="1710520134474" />
+      <i c="6" l="1710588365325" />
+    </e>
+    <e n="SpeedSearch">
+      <i c="1" l="1710588258305" />
     </e>
     <e n="StepOver">
       <i c="15" l="1710528573865" />
@@ -115,7 +124,7 @@
       <i c="3" l="1710528584995" />
     </e>
     <e n="Switcher">
-      <i c="25" l="1710527515208" />
+      <i c="27" l="1710590204879" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="2" l="1710528220625" />
@@ -139,16 +148,16 @@
       <i c="1" l="1710410215246" />
     </e>
     <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
-      <i c="1" l="1710410210556" />
+      <i c="2" l="1710588420489" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
       <i c="1" l="1710433340086" />
     </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
-      <i c="698" l="1710529945132" />
+      <i c="755" l="1710590250265" />
     </e>
     <e n="com.intellij.openapi.actionSystem.ex.ActionUtil$InputEventDummyAction">
-      <i c="20" l="1710527515359" />
+      <i c="21" l="1710590205182" />
     </e>
     <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
       <i c="2" l="1710527477135" />
@@ -160,19 +169,19 @@
       <i c="4" l="1710527495492" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="4" l="1710539380619" />
+      <i c="7" l="1710590161597" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
-      <i c="2" l="1710520230248" />
+      <i c="4" l="1710588794428" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="9" l="1710527875623" />
+      <i c="10" l="1710588268105" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="5" l="1710527874041" />
+      <i c="9" l="1710588362875" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
-      <i c="1" l="1710410203691" />
+      <i c="2" l="1710588153281" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
       <i c="7" l="1710528586430" />
@@ -180,14 +189,29 @@
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
       <i c="3" l="1710519627523" />
     </e>
+    <e n="com.intellij.ui.SearchTextField$FindAction">
+      <i c="3" l="1710588354647" />
+    </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
       <i c="2" l="1710528591463" />
+    </e>
+    <e n="com.maddyhome.idea.vim.extension.nerdtree.NerdTree$NerdDispatcher">
+      <i c="1" l="1710590175122" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$OpenIdeaVimRcAction">
+      <i c="2" l="1710588989026" />
     </e>
     <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
       <i c="1" l="1710433335239" />
     </e>
+    <e n="com.maddyhome.idea.vim.ui.HelpLink">
+      <i c="1" l="1710588798933" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ShortcutConflictsSettings">
+      <i c="1" l="1710588787141" />
+    </e>
     <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
-      <i c="101" l="1710529945699" />
+      <i c="127" l="1710590251189" />
     </e>
     <e n="editRunConfigurations">
       <i c="1" l="1710527623661" />
