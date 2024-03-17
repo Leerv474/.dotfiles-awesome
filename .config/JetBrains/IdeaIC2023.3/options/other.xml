@@ -169,18 +169,19 @@
     "MarketplacePluginsSearchHistory": "=\nnvi\nrain\ncatp\ncat",
     "NewProjectWizard.groupIdState": "org.example",
     "PluginConfigurable.selectionTab": "1",
-    "SettingsSearchHistory": "smart\nautoclo\nvim\nsingle\nensure",
+    "SettingsSearchHistory": "soft wraps\nsmart\nautoclo\nvim\nsingle",
     "SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION": "0.65",
     "ask.about.ctrl.y.shortcut.v2": "true",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
     "bundled.plugins.list.saved.version": "IC-233.14808.21",
     "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
     "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "debugger.smart.chooser.counter": "2",
     "defaultJdkConfigured": "true",
     "enter_selection_count": "5",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "233.14808.21",
-    "file.gist.reindex.count": "101",
+    "file.gist.reindex.count": "104",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "12.0",
     "fontSizeToResetEditor": "12.0",
@@ -220,4 +221,9 @@
   },
   &quot;tipsOrderSeed&quot;: 1710519628811
 }</component>
+  <component name="TerminalCommandHistoryManager">
+    <command-history-files>
+      <command-history-file filename="Project-history" project-path="/home/roman/Documents/Projects/comics-store-project/Project" last-access-time="1710679644857" />
+    </command-history-files>
+  </component>
 </application>
