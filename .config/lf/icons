@@ -195,6 +195,8 @@ fi             # FILE
 *makefile               
 *cmakelists.txt         
 *robots.txt             󰚩
+*README.md              
+*README.MD              
 
 # file names (case-sensitive adaptations)
 *Gruntfile.coffee       

@@ -15,13 +15,19 @@
         <entry encoding="base64">Z2V0Q3JlYXRpb25n</entry>
         <entry encoding="base64">Z2V0Q3JlYXRvaW5n</entry>
         <entry encoding="base64">Z2V0</entry>
+        <entry encoding="base64">bmV4dFBhZ2U=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ZpbGUvRmlsZVJlYWRlci9n</entry>
         <entry encoding="base64">VGVsZXNjb3BlIGZpbmRfZmlsZXM=</entry>
         <entry encoding="base64">ZQ==</entry>
+        <entry encoding="base64">c3BsaXQ=</entry>
         <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">c3BsaXQgcmlnaHQ=</entry>
+        <entry encoding="base64">cnNwbGl0</entry>
+        <entry encoding="base64">Vw==</entry>
         <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">d3E=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -63,24 +69,6 @@
       <jump line="21" column="33" filename="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files/src/Main.java" />
     </project>
     <project id="$USER_HOME$/Documents/Projects/comics-store-project/Project">
-      <jump line="18" column="39" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" />
-      <jump line="20" column="27" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" />
-      <jump line="98" column="12" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
-      <jump line="60" column="25" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" />
-      <jump line="61" column="25" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
-      <jump line="74" column="6" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
-      <jump line="102" column="35" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
-      <jump line="8" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
-      <jump line="63" column="15" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
-      <jump line="100" column="18" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
-      <jump line="109" column="16" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
-      <jump line="127" column="15" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
-      <jump line="131" column="24" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" />
       <jump line="154" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="62" column="38" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="83" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
@@ -119,7 +107,6 @@
       <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" />
-      <jump line="12" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" />
       <jump line="104" column="39" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
@@ -134,19 +121,14 @@
       <jump line="26" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="29" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="35" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
-      <jump line="52" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" />
       <jump line="32" column="61" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="45" column="23" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="103" column="24" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
-      <jump line="102" column="24" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
       <jump line="7" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
       <jump line="111" column="23" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
-      <jump line="106" column="12" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
       <jump line="100" column="44" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
-      <jump line="94" column="30" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
       <jump line="110" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
-      <jump line="114" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
       <jump line="91" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
       <jump line="107" column="45" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
       <jump line="64" column="37" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
@@ -155,40 +137,72 @@
       <jump line="44" column="58" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="56" column="32" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="99" column="12" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
-      <jump line="11" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" />
       <jump line="76" column="33" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
-      <jump line="88" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
       <jump line="79" column="30" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
       <jump line="82" column="18" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
       <jump line="49" column="27" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
-      <jump line="73" column="16" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="90" column="16" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="73" column="15" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="70" column="3" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="80" column="30" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="83" column="23" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="97" column="27" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="73" column="37" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="94" column="24" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="87" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="52" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" />
+      <jump line="78" column="59" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="88" column="29" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="90" column="51" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="102" column="29" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="156" column="24" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="106" column="20" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" />
+      <jump line="113" column="62" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="127" column="62" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="123" column="15" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="0" column="13" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" />
+      <jump line="37" column="28" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="36" column="15" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="120" column="29" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="11" column="27" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" />
+      <jump line="53" column="19" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="1" column="10" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" />
     </project>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <localmarks>
+      <file name="/Dummy.txt" timestamp="1710700055048">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="27" />
+        <mark key="^" line="0" column="27" />
+        <mark key="." line="0" column="26" />
+      </file>
       <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/io/File.java" timestamp="1710622663089">
         <mark key="&quot;" line="1039" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/.gitignore" timestamp="1710520125950">
         <mark key="&quot;" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" timestamp="1710683039296">
-        <mark key="&quot;" line="59" column="0" />
-        <mark key="[" line="59" column="5" />
-        <mark key="]" line="59" column="5" />
-        <mark key="^" line="0" column="25" />
-        <mark key="." line="59" column="5" />
+      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/test.txt" timestamp="1710527461944">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="13" />
+        <mark key="^" line="4" column="13" />
+        <mark key="." line="4" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" timestamp="1710751345844">
+        <mark key="^" line="53" column="0" />
       </file>
       <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/nio/file/Files.java" timestamp="1710683780947">
         <mark key="&quot;" line="4206" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" timestamp="1710683283458">
-        <mark key="[" line="12" column="29" />
-        <mark key="]" line="13" column="8" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="8" />
+      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" timestamp="1710751326545">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentInterface.java" timestamp="1710673002753">
         <mark key="&quot;" line="4" column="29" />
@@ -203,21 +217,28 @@
         <mark key="." line="12" column="20" />
         <mark key="^" line="12" column="21" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1710598538803">
-        <mark key="&quot;" line="7" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="/" timestamp="1710749422350">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1710751529404">
+        <mark key="&quot;" line="37" column="14" />
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="37" column="15" />
+        <mark key="." line="37" column="14" />
+        <mark key="^" line="37" column="15" />
       </file>
       <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/Objects.java" timestamp="1710685350020">
         <mark key="&quot;" line="233" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" timestamp="1710685642298">
-        <mark key="&quot;" line="44" column="58" />
+      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/ImmutableCollections.java" timestamp="1710685350009">
+        <mark key="&quot;" line="944" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" timestamp="1710751512009">
+        <mark key="&quot;" line="73" column="15" />
         <mark key="'" line="43" column="48" />
-        <mark key="[" line="59" column="25" />
-        <mark key="]" line="61" column="29" />
-        <mark key="." line="61" column="28" />
+        <mark key="[" line="53" column="20" />
+        <mark key="]" line="53" column="21" />
+        <mark key="." line="53" column="20" />
         <mark key="^" line="61" column="29" />
       </file>
       <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/jdk/internal/misc/VM.java" timestamp="1710685350029">
@@ -232,32 +253,6 @@
       <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/sun/nio/fs/UnixPath.java" timestamp="1710685350032">
         <mark key="&quot;" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" timestamp="1710685608363">
-        <mark key="'" line="101" column="36" />
-        <mark key="[" line="82" column="22" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-        <mark key="^" line="80" column="24" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1710685550524">
-        <mark key="&quot;" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="27" />
-        <mark key="^" line="0" column="27" />
-        <mark key="." line="0" column="26" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/test.txt" timestamp="1710527461944">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="13" />
-        <mark key="^" line="4" column="13" />
-        <mark key="." line="4" column="12" />
-      </file>
-      <file name="/" timestamp="1710680577613">
-        <mark key="&quot;" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/ImmutableCollections.java" timestamp="1710685350009">
-        <mark key="&quot;" line="944" column="0" />
-      </file>
       <file name="/fragment.java" timestamp="1710685105079">
         <mark key="&quot;" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -265,57 +260,62 @@
       <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/nio/file/FileSystems.java" timestamp="1710685350024">
         <mark key="&quot;" line="182" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" timestamp="1710751354395">
+        <mark key="&quot;" line="102" column="57" />
+        <mark key="'" line="109" column="20" />
+        <mark key="^" line="79" column="11" />
+      </file>
     </localmarks>
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBDb25zb2xlIGNvbnNvbGUgPSBTeXN0ZW0uY29uc29sZSgpOwo=</text>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">bCA=</text>
       </register>
       <register name="+" type="LINE_WISE">
         <text encoding="base64">ICAgICAgICBpZiAoIWZpbGUuZXhpc3RzKCkpIHsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGZpbGUuY3JlYXRlTmV3RmlsZSgpOwogICAgICAgICAgICB9IGNhdGNoIChJT0V4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gMTsKICAgICAgICAgICAgfQogICAgICAgIH0K</text>
       </register>
       <register name="-" type="CHARACTER_WISE">
-        <text encoding="base64">MzA=</text>
+        <text encoding="base64">bCA=</text>
       </register>
       <register name="." type="CHARACTER_WISE">
-        <text encoding="base64">dGhpcy5wYS50aXRsZS4gPSB0aXRsZTt0aGlzLnBhYXV0aG9yID0gYXV0aG9yOw==</text>
+        <text encoding="base64">bg==</text>
       </register>
       <register name="/" type="CHARACTER_WISE">
-        <text encoding="base64">Z2V0</text>
+        <text encoding="base64">bmV4dFBhZ2U=</text>
       </register>
       <register name="0" type="LINE_WISE">
-        <text encoding="base64">SGVsbG8K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpbnB1dC5lcXVhbHMoIi9lbmQiKSkgewogICAgICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBDb25zb2xlIGNvbnNvbGUgPSBTeXN0ZW0uY29uc29sZSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgY2xlYXJUZXJtaW5hbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0ZXN0LmFwcGVuZERvY3VtZW50KCk7Cg==</text>
       </register>
       <register name="3" type="LINE_WISE">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IGxhc3RQYWdlTGluZTsgaSA8IGNvbnRhaW5zLnNpemUoKTsgaSsrKSB7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbihjb250YWlucy5nZXQoaSkpOwo=</text>
       </register>
       <register name="4" type="LINE_WISE">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="LINE_WISE">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBjbGVhclRlcm1pbmFsKCkgewogICAgICAgIHRyeQogICAgICAgIHsKICAgICAgICAgICAgUnVudGltZS5nZXRSdW50aW1lKCkuZXhlYygiY2xlYXIiKTsKICAgICAgICB9CiAgICAgICAgY2F0Y2ggKGZpbmFsIEV4Y2VwdGlvbiBlKQogICAgICAgIHsKICAgICAgICAgICAgLy8gIEhhbmRsZSBhbnkgZXhjZXB0aW9ucy4KICAgICAgICB9CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZm9yIChpbnQgaSA9IGxhc3RQYWdlTGluZTsgaSA8IAo=</text>
       </register>
       <register name="6" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RyaW5nIG9zID0gU3lzdGVtLmdldFByb3BlcnR5KCJvcy5uYW1lIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnQoKG51bWJlck9mTGluZXMgKyAxKSArICIgIik7Cg==</text>
       </register>
       <register name="7" type="LINE_WISE">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludCgobnVtYmVyT2ZMaW5lcyArIDEpICsgIiAiKTsK</text>
       </register>
       <register name="8" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICBjb250YWlucy4K</text>
       </register>
       <register name="9" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9zLmNvbnRhaW5zKCJXaW5kb3dzIikpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIFJ1bnRpbWUuZ2V0UnVudGltZSgpLmV4ZWMoImNscyIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGVsc2UKICAgICAgICAgICAgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="CHARACTER_WISE">
-        <text encoding="base64">dw==</text>
+        <text encoding="base64">d3E=</text>
       </register>
     </registers>
   </component>

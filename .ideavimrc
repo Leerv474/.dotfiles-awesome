@@ -34,9 +34,9 @@ nmap <leader>fu :action FindUsages<cr>
 nmap <leader>fc :action GotoClass<cr>
 nmap <leader>fi :action GotoImplementation<cr>
 nmap <leader>fsm :action GotoSuperMethod<cr>
-nmap <leader>bn <Action>(NextTab)
-nmap <leaver>bp <Action>(PreviousTab)
-
+nmap <leader>bp :action PreviousTab<CR>
+nmap <leader>bn :action NextTab<CR>
+nmap <leader>bw :action CloseEditor<CR>
 map <leader>pv :NERDTree<CR>
 
 " Highlight copied text
