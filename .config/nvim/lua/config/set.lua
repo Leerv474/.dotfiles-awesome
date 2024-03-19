@@ -27,5 +27,5 @@ vim.opt.isfname:append("@-@")
 
 vim.opt.updatetime = 50
 
-vim.api.nvim_command('autocmd FileType xml set equalprg=xmllint\\ --format\\ -')
+vim.api.nvim_command("autocmd FileType xml set equalprg=xmllint\\ --format\\ -")
 vim.opt.ic = true

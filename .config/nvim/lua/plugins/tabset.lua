@@ -1,19 +1,19 @@
 return {
 	"FotiadisM/tabset.nvim",
 
-	config = function ()
+	config = function()
 		require("tabset").setup({
 			defaults = {
 				tabwidth = 4,
-				expandtab = true
+				expandtab = true,
 			},
 			languages = {
 				go = {
 					tabwidth = 4,
-					expandtab = false
+					expandtab = false,
 				},
 				{
-					filetypes = {   
+					filetypes = {
 						"javascript",
 						"typescript",
 						"javascriptreact",
@@ -24,10 +24,10 @@ return {
 						"css",
 					},
 					config = {
-						tabwidth = 2
-					}
-				}
-			}
+						tabwidth = 2,
+					},
+				},
+			},
 		})
-	end
+	end,
 }

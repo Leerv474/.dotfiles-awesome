@@ -29,22 +29,12 @@
       <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+            <state relative-caret-position="310">
+              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file>
-        <entry file="file://$PROJECT_DIR$/src/TextDocument/DocumentAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="557">
-              <caret line="120" column="29" selection-start-line="120" selection-start-column="29" selection-end-line="120" selection-end-column="29" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#179#180#0" expanded="true" />
+                <element signature="e#229#230#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -53,7 +43,7 @@
       <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/data/test.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="31">
+            <state relative-caret-position="-1318">
               <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
             </state>
           </provider>
@@ -62,8 +52,24 @@
       <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/TextDocument/Document.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="650">
-              <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+            <state relative-caret-position="170">
+              <caret line="100" column="16" selection-start-line="100" selection-start-column="16" selection-end-line="100" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#2261#2262#0" expanded="true" />
+                <element signature="e#2309#2310#0" expanded="true" />
+                <element signature="e#2839#2840#0" expanded="true" />
+                <element signature="e#2884#2885#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/TextDocument/DocumentAPI.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="217">
+              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -78,14 +84,28 @@
       <summary usageCount="1" lastUsed="1710520122258" />
     </fileType>
     <fileType name="JAVA">
-      <summary usageCount="57" lastUsed="1710751505622" />
+      <summary usageCount="74" lastUsed="1710797092423" />
     </fileType>
     <fileType name="PLAIN_TEXT">
-      <summary usageCount="17" lastUsed="1710751505462" />
+      <summary usageCount="23" lastUsed="1710797432373" />
     </fileType>
     <fileType name="textmate">
-      <summary usageCount="15" lastUsed="1710751505078" />
+      <summary usageCount="18" lastUsed="1710794675843" />
     </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$USER_HOME$</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="isProjectScope" value="true" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -93,11 +113,11 @@
       <option value="$PROJECT_DIR$/src/TextDocument/EFileStatus.java" />
       <option value="$PROJECT_DIR$/src/TextDocument/DocumentInterface.java" />
       <option value="$PROJECT_DIR$/src/TextDocument/DocumentFile.java" />
-      <option value="$PROJECT_DIR$/src/Main.java" />
       <option value="$PROJECT_DIR$/data/test.txt" />
-      <option value="$PROJECT_DIR$/src/TextDocument/DocumentAPI.java" />
-      <option value="$PROJECT_DIR$/src/TextDocument/Document.java" />
       <option value="$USER_HOME$/.ideavimrc" />
+      <option value="$PROJECT_DIR$/src/Main.java" />
+      <option value="$PROJECT_DIR$/src/TextDocument/Document.java" />
+      <option value="$PROJECT_DIR$/src/TextDocument/DocumentAPI.java" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -112,18 +132,37 @@
       <summary usageCount="1" lastUsage="1710520122258" />
     </language>
     <language id="JAVA">
-      <summary usageCount="57" lastUsage="1710751505622" />
+      <summary usageCount="74" lastUsage="1710797092423" />
     </language>
     <language id="TEXT">
-      <summary usageCount="17" lastUsage="1710751505462" />
+      <summary usageCount="23" lastUsage="1710797432373" />
     </language>
     <language id="textmate">
-      <summary usageCount="15" lastUsage="1710751505081" />
+      <summary usageCount="18" lastUsage="1710794675848" />
     </language>
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1" />
-    <panes />
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/Projects/comics-store-project/Project}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/Projects/comics-store-project/Project}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/Projects/comics-store-project/Project/data}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="RunConfigurationStartHistory">
     <history>
@@ -146,36 +185,36 @@
       <window_info id="Bookmarks" side_tool="true" weight="0.33025342" />
       <window_info id="Pull Requests" weight="0.33025342" />
       <window_info content_ui="combo" id="Project" internal_type="SLIDING" order="0" type="SLIDING" weight="0.33025342" />
-      <window_info id="Commit" order="1" weight="0.33025342" />
+      <window_info active="true" id="Commit" order="1" visible="true" weight="0.33025342" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Find" show_stripe_button="false" weight="0.32990196" />
+      <window_info anchor="bottom" id="Find" weight="0.32990196" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32990196" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.32990196" />
       <window_info anchor="bottom" id="Terminal" order="3" weight="0.87303925" />
-      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.42794117" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.41029412" />
       <window_info anchor="bottom" id="Services" order="5" />
       <window_info anchor="bottom" id="Build" order="6" weight="0.32990196" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.24656862" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.41029412" />
       <window_info anchor="bottom" id="Debug" order="8" show_stripe_button="false" weight="0.425" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.42794117" left="0.33025342" />
+      <unified_weights bottom="0.41029412" left="0.33025342" />
     </layoutV2>
     <recentWindows>
-      <value>Run</value>
-      <value>Project</value>
       <value>Commit</value>
       <value>Messages</value>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Find</value>
       <value>Debug</value>
       <value>Terminal</value>
       <value>Bookmarks</value>
       <value>Version Control</value>
       <value>Pull Requests</value>
-      <value>Find</value>
       <value>Problems View</value>
     </recentWindows>
   </component>
@@ -200,26 +239,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="745" y="327" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1710597128396" />
-    <state width="1828" height="404" key="GridCell.Tab.0.bottom" timestamp="1710751329414">
+    <state width="1828" height="386" key="GridCell.Tab.0.bottom" timestamp="1710798604237">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1828" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710539380712" />
-    <state width="1828" height="404" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1710751329414" />
-    <state width="1828" height="404" key="GridCell.Tab.0.center" timestamp="1710751329413">
+    <state width="1828" height="386" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1710798604237" />
+    <state width="1828" height="386" key="GridCell.Tab.0.center" timestamp="1710798604236">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1828" height="304" key="GridCell.Tab.0.center/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710539380710" />
-    <state width="1828" height="404" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1710751329413" />
-    <state width="1828" height="404" key="GridCell.Tab.0.left" timestamp="1710751329413">
+    <state width="1828" height="386" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1710798604236" />
+    <state width="1828" height="386" key="GridCell.Tab.0.left" timestamp="1710798604235">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1828" height="304" key="GridCell.Tab.0.left/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710539380710" />
-    <state width="1828" height="404" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1710751329413" />
-    <state width="1828" height="404" key="GridCell.Tab.0.right" timestamp="1710751329414">
+    <state width="1828" height="386" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1710798604235" />
+    <state width="1828" height="386" key="GridCell.Tab.0.right" timestamp="1710798604236">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1828" height="304" key="GridCell.Tab.0.right/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710539380711" />
-    <state width="1828" height="404" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1710751329414" />
+    <state width="1828" height="386" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1710798604236" />
     <state width="1828" height="401" key="GridCell.Tab.1.bottom" timestamp="1710685669702">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -240,18 +279,22 @@
     </state>
     <state width="1828" height="304" key="GridCell.Tab.1.right/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710539380705" />
     <state width="1828" height="401" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1710685669701" />
-    <state x="0" y="34" width="1920" height="1046" key="SettingsEditor" timestamp="1710751403748">
+    <state x="0" y="34" width="1920" height="1046" key="SettingsEditor" timestamp="1710796915690">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="0" y="34" width="1920" height="1046" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1710751403748" />
-    <state x="557" y="305" key="Vcs.Push.Dialog.v2" timestamp="1710685664790">
+    <state x="0" y="34" width="1920" height="1046" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1710796915690" />
+    <state x="557" y="305" key="Vcs.Push.Dialog.v2" timestamp="1710798600102">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="557" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1710685664790" />
-    <state x="695" y="277" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1710751473793">
+    <state x="557" y="305" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1710798600102" />
+    <state x="695" y="277" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1710782939393">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="695" y="277" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1710751473793" />
+    <state x="695" y="277" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1710782939393" />
+    <state x="705" y="185" width="662" height="524" key="find.popup" timestamp="1710783109102">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="705" y="185" width="662" height="524" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1710783109102" />
     <state width="600" height="400" key="javadoc.popup" timestamp="1710622558909">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -264,10 +307,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="621" y="258" width="672" height="699" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1710681730546" />
-    <state x="623" y="264" width="718" height="700" key="search.everywhere.popup" timestamp="1710679352179">
+    <state x="623" y="264" width="718" height="171" key="search.everywhere.popup" timestamp="1710797092370">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="623" y="264" width="718" height="700" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1710679352179" />
+    <state x="623" y="264" width="718" height="171" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1710797092370" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Store.java" />
@@ -331,44 +374,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/Scanner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="309">
+          <caret line="1651" column="18" selection-start-line="1651" selection-start-column="18" selection-end-line="1651" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/TextDocument/Document.java">
+    <entry file="file://$USER_HOME$/.ideavimrc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="650">
-          <caret line="53" column="19" selection-start-line="53" selection-start-column="19" selection-end-line="53" selection-end-column="19" />
+        <state relative-caret-position="526">
+          <caret line="36" column="11" selection-start-line="36" selection-start-column="11" selection-end-line="36" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/newFile.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
+            <element signature="e#179#180#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="31">
+        <state relative-caret-position="-1318">
           <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.ideavimrc">
+    <entry file="file://$PROJECT_DIR$/src/TextDocument/Document.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="37" column="14" selection-start-line="37" selection-start-column="14" selection-end-line="37" selection-end-column="14" />
+        <state relative-caret-position="170">
+          <caret line="100" column="16" selection-start-line="100" selection-start-column="16" selection-end-line="100" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2261#2262#0" expanded="true" />
+            <element signature="e#2309#2310#0" expanded="true" />
+            <element signature="e#2839#2840#0" expanded="true" />
+            <element signature="e#2884#2885#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TextDocument/DocumentAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="557">
-          <caret line="120" column="29" selection-start-line="120" selection-start-column="29" selection-end-line="120" selection-end-column="29" />
+        <state relative-caret-position="217">
+          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

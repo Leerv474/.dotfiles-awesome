@@ -37,6 +37,8 @@ nmap <leader>fsm :action GotoSuperMethod<cr>
 nmap <leader>bp :action PreviousTab<CR>
 nmap <leader>bn :action NextTab<CR>
 nmap <leader>bw :action CloseEditor<CR>
+nmap <leader>fs :action FindInPath<CR>
+nmap <leader>ff :action SearchEverywhere<CR>
 map <leader>pv :NERDTree<CR>
 
 " Highlight copied text

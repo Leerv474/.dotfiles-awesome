@@ -1,45 +1,45 @@
 return {
-	'nvim-treesitter/nvim-treesitter',
+	"nvim-treesitter/nvim-treesitter",
 	build = ":TSUpdate",
 
-	'theHamsta/nvim-treesitter-pairs',
+	"theHamsta/nvim-treesitter-pairs",
 	-- A list of parser names, or "all" (the five listed parsers should always be installed)
 	ensure_installed = {
-        "java",
-        "c",
-        "lua",
-        "vim",
-        "vimdoc",
-        "query",
-        "bash",
-        "html",
-        "css",
-        "javascript",
-        "json",
-        "python",
-        "xml",
-        "sql",
-        "json",
-        "json5",
-        "markdown",
-    },
+		"java",
+		"c",
+		"lua",
+		"vim",
+		"vimdoc",
+		"query",
+		"bash",
+		"html",
+		"css",
+		"javascript",
+		"json",
+		"python",
+		"xml",
+		"sql",
+		"json",
+		"json5",
+		"markdown",
+	},
 
 	sync_install = false,
 
 	auto_install = true,
 
-    highlight = {
-        enable = true,
-        disable = function(_, buf)
-            local max_filesize = 100 * 1024 -- 100 KB
-            local filename = vim.api.nvim_buf_get_name(buf)
-            local ok, stats = pcall(vim.uv.fs_stat, filename)
-            if ok and stats and stats.size > max_filesize then
-                return true
-            end
-        end,
-        additional_vim_regex_highlighting = false,
-    },
+	highlight = {
+		enable = true,
+		disable = function(_, buf)
+			local max_filesize = 100 * 1024 -- 100 KB
+			local filename = vim.api.nvim_buf_get_name(buf)
+			local ok, stats = pcall(vim.uv.fs_stat, filename)
+			if ok and stats and stats.size > max_filesize then
+				return true
+			end
+		end,
+		additional_vim_regex_highlighting = false,
+	},
 
 	pairs = {
 		enable = true,
@@ -57,8 +57,6 @@ return {
 			fallback_cmd_normal = nil, -- fallback command when no pair found, can be nil
 			longest_partner = false, -- whether to delete the longest or the shortest pair when multiple found.
 			-- E.g. whether to delete the angle bracket or whole tag in  <pair> </pair>
-		}
+		},
 	},
-
 }
-

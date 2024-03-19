@@ -4,7 +4,7 @@
       <i c="5" l="1710663999283" />
     </e>
     <e n="$Delete">
-      <i c="5" l="1710673240242" />
+      <i c="8" l="1710798199864" />
     </e>
     <e n="$SelectAll">
       <i c="1" l="1710433471032" />
@@ -13,13 +13,13 @@
       <i c="12" l="1710681237948" />
     </e>
     <e n="ActivateCommitToolWindow">
-      <i c="6" l="1710701066149" />
+      <i c="12" l="1710798522299" />
     </e>
     <e n="ActivateDebugToolWindow">
       <i c="1" l="1710431070504" />
     </e>
     <e n="ActivateFindToolWindow">
-      <i c="6" l="1710433515442" />
+      <i c="7" l="1710782895929" />
     </e>
     <e n="ActivateProjectToolWindow">
       <i c="30" l="1710749107797" />
@@ -28,13 +28,13 @@
       <i c="1" l="1710431070167" />
     </e>
     <e n="AutoIndentLines">
-      <i c="150" l="1710751354378" />
+      <i c="168" l="1710798173434" />
     </e>
     <e n="CloseAllEditors">
       <i c="1" l="1710685350005" />
     </e>
     <e n="CodeCompletion">
-      <i c="1" l="1710622205660" />
+      <i c="2" l="1710772767811" />
     </e>
     <e n="ConfigurationXDebuggerResumeAction">
       <i c="3" l="1710685114730" />
@@ -43,10 +43,10 @@
       <i c="27" l="1710685052986" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2464" l="1710751527922" />
+      <i c="2973" l="1710798554459" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="188" l="1710750982148" />
+      <i c="273" l="1710798444926" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="2" l="1710610967422" />
@@ -55,22 +55,22 @@
       <i c="1" l="1710621896505" />
     </e>
     <e n="EditorCopy">
-      <i c="1" l="1710681729468" />
+      <i c="2" l="1710783108681" />
     </e>
     <e n="EditorDelete">
-      <i c="5" l="1710665659914" />
+      <i c="42" l="1710796940519" />
     </e>
     <e n="EditorDeleteToWordStart">
-      <i c="122" l="1710751399733" />
+      <i c="174" l="1710798537778" />
     </e>
     <e n="EditorDown">
-      <i c="224" l="1710705723380" />
+      <i c="265" l="1710797190011" />
     </e>
     <e n="EditorEnter">
-      <i c="555" l="1710751065241" />
+      <i c="689" l="1710798443669" />
     </e>
     <e n="EditorEscape">
-      <i c="132" l="1710751489865" />
+      <i c="150" l="1710798053848" />
     </e>
     <e n="EditorLeft">
       <i c="1" l="1710705722808" />
@@ -88,19 +88,25 @@
       <i c="10" l="1710536416730" />
     </e>
     <e n="EditorTab">
-      <i c="46" l="1710704653435" />
+      <i c="51" l="1710795717776" />
     </e>
     <e n="EditorTabsEntryPoint">
       <i c="3" l="1710701090786" />
     </e>
     <e n="EditorUp">
-      <i c="101" l="1710669321573" />
+      <i c="129" l="1710774896023" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1710782854275" />
+    </e>
+    <e n="FindInPath">
+      <i c="2" l="1710783101745" />
     </e>
     <e n="Git.Add">
       <i c="3" l="1710520258495" />
     </e>
     <e n="Git.Commit.And.Push.Executor">
-      <i c="8" l="1710685660126" />
+      <i c="12" l="1710798595015" />
     </e>
     <e n="GotoClass">
       <i c="2" l="1710598627240" />
@@ -109,10 +115,13 @@
       <i c="1" l="1710610408415" />
     </e>
     <e n="GotoImplementation">
-      <i c="6" l="1710679160859" />
+      <i c="20" l="1710798509206" />
     </e>
     <e n="HideActiveWindow">
-      <i c="1" l="1710622543511" />
+      <i c="13" l="1710798518547" />
+    </e>
+    <e n="IdeaVim.ReloadVimRc.reload">
+      <i c="5" l="1710794710985" />
     </e>
     <e n="InspectCode">
       <i c="1" l="1710589799565" />
@@ -133,19 +142,22 @@
       <i c="2" l="1710749525671" />
     </e>
     <e n="NextTab">
-      <i c="39" l="1710751518699" />
+      <i c="42" l="1710797972821" />
     </e>
     <e n="NextTemplateVariable">
-      <i c="9" l="1710707111654" />
+      <i c="10" l="1710773586123" />
     </e>
     <e n="OpenFile">
       <i c="1" l="1710597127544" />
     </e>
     <e n="PasteMultiple">
-      <i c="16" l="1710751473390" />
+      <i c="20" l="1710782938349" />
     </e>
     <e n="PreviousTab">
-      <i c="7" l="1710751522910" />
+      <i c="9" l="1710797799068" />
+    </e>
+    <e n="QuickChangeScheme">
+      <i c="1" l="1710774682878" />
     </e>
     <e n="QuickPreview">
       <i c="1" l="1710622554495" />
@@ -154,7 +166,7 @@
       <i c="3" l="1710612061787" />
     </e>
     <e n="RenameElement">
-      <i c="11" l="1710707108097" />
+      <i c="12" l="1710773583476" />
     </e>
     <e n="Rerun">
       <i c="1" l="1710685064562" />
@@ -163,25 +175,25 @@
       <i c="2" l="1710685101056" />
     </e>
     <e n="Run">
-      <i c="49" l="1710751094167" />
+      <i c="104" l="1710798450832" />
     </e>
     <e n="RunAnything">
       <i c="2" l="1710681729092" />
     </e>
     <e n="SaveAll">
-      <i c="301" l="1710751529317" />
+      <i c="372" l="1710798513585" />
     </e>
     <e n="SearchEverywhere">
-      <i c="8" l="1710679351113" />
+      <i c="24" l="1710797090935" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="1" l="1710751279797" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="111" l="1710751071388" />
+      <i c="130" l="1710797753283" />
     </e>
     <e n="ShowSettings">
-      <i c="14" l="1710751382213" />
+      <i c="17" l="1710789184244" />
     </e>
     <e n="SpeedSearch">
       <i c="2" l="1710680372109" />
@@ -193,7 +205,7 @@
       <i c="46" l="1710685100119" />
     </e>
     <e n="Stop">
-      <i c="7" l="1710685536466" />
+      <i c="14" l="1710796904157" />
     </e>
     <e n="Switcher">
       <i c="68" l="1710751197214" />
@@ -202,10 +214,10 @@
       <i c="10" l="1710685413621" />
     </e>
     <e n="Tree-selectNext">
-      <i c="127" l="1710749116582" />
+      <i c="132" l="1710798199202" />
     </e>
     <e n="Tree-selectPrevious">
-      <i c="95" l="1710749114341" />
+      <i c="102" l="1710798199607" />
     </e>
     <e n="WelcomeScreen.CreateNewProject">
       <i c="2" l="1710519518988" />
@@ -223,10 +235,19 @@
       <i c="2" l="1710663196832" />
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$DeleteBackspaceHandler">
-      <i c="61" l="1710751106787" />
+      <i c="266" l="1710798460375" />
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$EnterHandler">
-      <i c="263" l="1710751107654" />
+      <i c="608" l="1710798480049" />
+    </e>
+    <e n="com.intellij.execution.impl.ConsoleViewImpl$TabHandler">
+      <i c="1" l="1710774800128" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="1" l="1710782857357" />
+    </e>
+    <e n="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction">
+      <i c="2" l="1710782968559" />
     </e>
     <e n="com.intellij.ide.actions.ToolWindowViewModeAction">
       <i c="3" l="1710519630375" />
@@ -238,10 +259,10 @@
       <i c="2" l="1710588420489" />
     </e>
     <e n="com.intellij.notification.NotificationAction$Simple">
-      <i c="6" l="1710685662193" />
+      <i c="10" l="1710798598227" />
     </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
-      <i c="3413" l="1710751528465" />
+      <i c="4146" l="1710798593304" />
     </e>
     <e n="com.intellij.openapi.actionSystem.ex.ActionUtil$InputEventDummyAction">
       <i c="37" l="1710751197620" />
@@ -250,31 +271,31 @@
       <i c="2" l="1710527477135" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="6" l="1710683780942" />
+      <i c="8" l="1710797436304" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="13" l="1710681730545" />
+      <i c="28" l="1710797092368" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="26" l="1710751531325" />
+      <i c="37" l="1710798604155" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
-      <i c="5" l="1710622798259" />
+      <i c="7" l="1710782893626" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="25" l="1710750938725" />
+      <i c="29" l="1710798192061" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="18" l="1710751380423" />
+      <i c="23" l="1710797583185" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$4">
       <i c="2" l="1710588153281" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
-      <i c="32" l="1710751110871" />
+      <i c="49" l="1710798601304" />
     </e>
     <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
-      <i c="3" l="1710519627523" />
+      <i c="4" l="1710776066815" />
     </e>
     <e n="com.intellij.ui.SearchTextField$FindAction">
       <i c="3" l="1710588354647" />
@@ -283,10 +304,10 @@
       <i c="6" l="1710684930888" />
     </e>
     <e n="com.maddyhome.idea.vim.extension.nerdtree.NerdTree$NerdDispatcher">
-      <i c="225" l="1710749116581" />
+      <i c="231" l="1710797431671" />
     </e>
     <e n="com.maddyhome.idea.vim.group.NotificationService$OpenIdeaVimRcAction">
-      <i c="9" l="1710751360453" />
+      <i c="12" l="1710789178220" />
     </e>
     <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
       <i c="1" l="1710433335239" />
@@ -301,7 +322,7 @@
       <i c="1" l="1710588787141" />
     </e>
     <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
-      <i c="378" l="1710751529310" />
+      <i c="515" l="1710798513582" />
     </e>
     <e n="editRunConfigurations">
       <i c="2" l="1710612066444" />

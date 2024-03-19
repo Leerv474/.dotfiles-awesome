@@ -1,7 +1,7 @@
 return {
 	"lukas-reineke/indent-blankline.nvim",
 
-	config = function () 
+	config = function()
 		local ibl = require("ibl")
 		ibl.setup({
 			indent = {
@@ -14,8 +14,7 @@ return {
 				show_end = false,
 				show_exact_scope = true,
 				char = { "" },
-
-			}
+			},
 		})
-	end
+	end,
 }

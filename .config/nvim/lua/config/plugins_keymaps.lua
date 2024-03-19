@@ -1,0 +1,56 @@
+local gitsigns = require("gitsigns")
+
+vim.keymap.set("n", "gd", vim.lsp.buf.definition, {})
+vim.keymap.set("n", "<leader>gr", vim.lsp.buf.references, {})
+vim.keymap.set("n", "<leader>k", vim.lsp.buf.hover, {})
+vim.keymap.set("n", "<leader>ca", vim.lsp.buf.code_action, {})
+vim.keymap.set("n", "<leader>rr", vim.lsp.buf.rename, {})
+
+vim.keymap.set("n", "<leader>gp", gitsigns.preview_hunk_inline)
+
+vim.keymap.set("n", "<leader>u", vim.cmd.UndotreeToggle)
+
+local harpoon = require("harpoon")
+
+vim.keymap.set("n", "<leader>a", function()
+	harpoon:list():append()
+end)
+vim.keymap.set("n", "<C-e>", function()
+	harpoon.ui:toggle_quick_menu(harpoon:list())
+end)
+
+vim.keymap.set("n", "<C-1>", function()
+	harpoon:list():select(1)
+end)
+vim.keymap.set("n", "<C-2>", function()
+	harpoon:list():select(2)
+end)
+vim.keymap.set("n", "<C-3>", function()
+	harpoon:list():select(3)
+end)
+vim.keymap.set("n", "<C-4>", function()
+	harpoon:list():select(4)
+end)
+
+-- Toggle previous & next buffers stored within Harpoon list
+vim.keymap.set("n", "<leader>hp", function()
+	harpoon:list():prev()
+end)
+vim.keymap.set("n", "<leader>hn", function()
+	harpoon:list():next()
+end)
+
+local builtin = require("telescope.builtin")
+
+vim.keymap.set("n", "<leader>ff", function()
+	builtin.find_files({ hidden = true })
+end, {})
+vim.keymap.set("n", "<leader>fg", builtin.git_files, {})
+vim.keymap.set("n", "<leader>fs", function()
+	builtin.grep_string({ search = vim.fn.input("Grep > ") })
+end, {})
+vim.keymap.set("n", "<leader>fb", builtin.buffers, {})
+vim.keymap.set("n", "<leader>ft", function()
+	builtin.diagnostics({ previewer = false })
+end, {})
+vim.keymap.set("n", "<leader>td", ":TodoTelescope<CR>", { noremap = true, silent = true })
