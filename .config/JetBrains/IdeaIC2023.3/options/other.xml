@@ -164,13 +164,13 @@
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
     "INSPECTION_FILTER_HISTORY": "closing",
-    "InstalledPluginsSearchHistory": "vim\ngit add",
+    "InstalledPluginsSearchHistory": "view mode\nvim\ngit add",
     "KEYMAP": "Everywhere\nsearch",
-    "LAST_CALCULATED_COLOR_INDEX_KEY": "0",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "2",
     "MarketplacePluginsSearchHistory": "=\nnvi\nrain\ncatp\ncat",
     "NewProjectWizard.groupIdState": "org.example",
     "PluginConfigurable.selectionTab": "1",
-    "SettingsSearchHistory": "Every\neverywhere\nsearch\nfind\ncaret",
+    "SettingsSearchHistory": "layouts\nview mode\nview m\nuser\nmodifier",
     "SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION": "0.65",
     "ask.about.ctrl.y.shortcut.v2": "true",
     "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
@@ -178,11 +178,12 @@
     "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
     "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
     "debugger.smart.chooser.counter": "2",
+    "decompiler.legal.notice.accepted": "true",
     "defaultJdkConfigured": "true",
     "enter_selection_count": "5",
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "233.14808.21",
-    "file.gist.reindex.count": "104",
+    "file.gist.reindex.count": "668",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "12.0",
     "fontSizeToResetEditor": "12.0",
@@ -194,18 +195,20 @@
     "ift.hide.welcome.screen.promo": "true",
     "installed.kotlin.plugin.version": "233.14808.21-IJ",
     "jdk.selected.JAVA_MODULE": "21",
-    "last_opened_file_path": "/home/roman/Documents/Projects/comics-store-project",
+    "last_opened_file_path": "/home/roman/Documents/LeeRV-JAVA314/Lessons",
     "migrated.non.roamable.values.from.general.settings": "true",
     "previousColorScheme": "_@user_Catppuccin Mocha",
     "project.wizard.group": "NPW.simple-project",
     "registry.to.advanced.settings.migration.build": "IC-233.14808.21",
     "selected.color.option.type": "IDENTIFIER_UNDER_CARET_ATTRIBUTES",
-    "settings.code.style.selected.tab.JAVA": "Wrapping and Braces"
+    "settings.code.style.selected.tab.Groovy": "Spaces",
+    "settings.code.style.selected.tab.JAVA": "Spaces"
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
-      "/home/roman/Documents/Projects/comics-store-project",
       "/home/roman/Documents/LeeRV-JAVA314/Lessons",
+      "/home/roman/Documents/LeeRV-JAVA314/HW",
+      "/home/roman/Documents/Projects/comics-store-project",
       "/home/roman/Documents/LeeRV-JAVA314/HW/Lambda"
     ],
     "fileTypeDetectors": [
@@ -225,6 +228,7 @@
 }</component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
+      <command-history-file filename="Threads-history" project-path="/home/roman/Documents/LeeRV-JAVA314/Lessons/Threads" last-access-time="1710872318060" />
       <command-history-file filename="Project-history" project-path="/home/roman/Documents/Projects/comics-store-project/Project" last-access-time="1710679644857" />
     </command-history-files>
   </component>

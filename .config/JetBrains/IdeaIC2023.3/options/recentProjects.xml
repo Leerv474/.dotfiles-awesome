@@ -50,9 +50,41 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Stream – Person.java" opened="true" projectWorkspaceId="2dueAyK5qErRsAQnwqmxG9FUQou">
+              <option name="activationTimestamp" value="1710867055205" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14808.21" />
+              <option name="buildTimestamp" value="1710362280000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="10" y="44" width="1900" height="1026" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1710865114489" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Threads">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Threads – Main.java" opened="true" projectWorkspaceId="2duxd7NFayMJZzEnqMCuy8H3OjG">
+              <option name="activationTimestamp" value="1710873940321" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14808.21" />
+              <option name="buildTimestamp" value="1710362280000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="10" y="44" width="1900" height="1026" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1710871849644" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Documents/Projects/comics-store-project/Project" />
-    <option name="lastProjectLocation" value="$USER_HOME$/Documents/Projects/comics-store-project" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Threads" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons" />
   </component>
 </application>

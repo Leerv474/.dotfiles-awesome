@@ -26,6 +26,7 @@
         <entry encoding="base64">Y3JlYXRl</entry>
         <entry encoding="base64">cmVhZA==</entry>
         <entry encoding="base64">cHJpbnREb2N1bWVudA==</entry>
+        <entry encoding="base64">bWFpbg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zL0ZpbGUvRmlsZVJlYWRlci9n</entry>
@@ -183,11 +184,47 @@
       <jump line="104" column="19" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
       <jump line="100" column="16" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
     </project>
+    <project id="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream">
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="8" column="28" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Person.java" />
+      <jump line="4" column="23" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="7" column="47" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="21" column="51" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="18" column="26" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Person.java" />
+      <jump line="5" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="187" column="31" filename="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java" />
+      <jump line="44" column="46" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="46" column="32" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="17" column="26" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Person.java" />
+      <jump line="80" column="7" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/data/data.txt" />
+      <jump line="83" column="25" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="85" column="48" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="84" column="48" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="87" column="42" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="92" column="29" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/data/data.txt" />
+      <jump line="94" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="101" column="22" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="105" column="20" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="22" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="111" column="16" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="104" column="85" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="1083" column="47" filename="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/stream/IntStream.java" />
+    </project>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
     <localmarks>
-      <file name="/Dummy.txt" timestamp="1710798522545">
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Person.java" timestamp="1710863171477">
+        <mark key="[" line="16" column="5" />
+        <mark key="]" line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="18" column="26" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1710872292108">
         <mark key="&quot;" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="27" />
@@ -197,12 +234,12 @@
       <file name="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files/.gitignore" timestamp="1710782965572">
         <mark key="&quot;" line="2" column="11" />
       </file>
+      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/stream/Streams.java" timestamp="1710867051048">
+        <mark key="&quot;" line="65" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" timestamp="1710783103428">
         <mark key="&quot;" line="9" column="8" />
         <mark key="^" line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/nio/file/Files.java" timestamp="1710683780947">
-        <mark key="&quot;" line="4206" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" timestamp="1710796738822">
         <mark key="[" line="9" column="0" />
@@ -210,24 +247,22 @@
         <mark key="." line="9" column="0" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentInterface.java" timestamp="1710673002753">
-        <mark key="&quot;" line="4" column="29" />
-        <mark key="[" line="2" column="14" />
-        <mark key="]" line="25" column="8" />
-        <mark key="." line="25" column="7" />
-        <mark key="^" line="25" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentFile.java" timestamp="1710673255792">
-        <mark key="[" line="12" column="14" />
-        <mark key="]" line="12" column="21" />
-        <mark key="." line="12" column="20" />
-        <mark key="^" line="12" column="21" />
-      </file>
       <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/Scanner.java" timestamp="1710775737586">
         <mark key="&quot;" line="1651" column="18" />
       </file>
-      <file name="/" timestamp="1710796915686">
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Threads/src/Main.java" timestamp="1710873138765">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="/" timestamp="1710872152256">
         <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/data/data.txt" timestamp="1710865372260">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1710794801958">
         <mark key="&quot;" line="36" column="11" />
@@ -236,11 +271,8 @@
         <mark key="." line="40" column="43" />
         <mark key="^" line="40" column="44" />
       </file>
-      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/Objects.java" timestamp="1710685350020">
-        <mark key="&quot;" line="233" column="0" />
-      </file>
-      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/ImmutableCollections.java" timestamp="1710685350009">
-        <mark key="&quot;" line="944" column="0" />
+      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java" timestamp="1710863768722">
+        <mark key="&quot;" line="187" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files/src/Main.java" timestamp="1710782974099">
         <mark key="&quot;" line="3" column="22" />
@@ -253,21 +285,24 @@
         <mark key="." line="72" column="32" />
         <mark key="^" line="72" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" timestamp="1710867054267">
+        <mark key="&quot;" line="104" column="85" />
+        <mark key="[" line="104" column="90" />
+        <mark key="]" line="104" column="91" />
+        <mark key="." line="104" column="90" />
+        <mark key="^" line="104" column="91" />
+      </file>
+      <file name="$USER_HOME$/.jdks/openjdk-21.0.2!/java.base/java/util/stream/DoublePipeline.class" timestamp="1710866970015">
+        <mark key="&quot;" line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/newFile.txt" timestamp="1710797436310">
         <mark key="&quot;" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/jdk/internal/misc/VM.java" timestamp="1710685350029">
-        <mark key="&quot;" line="90" column="0" />
+      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/stream/IntStream.java" timestamp="1710867051655">
+        <mark key="&quot;" line="1083" column="47" />
       </file>
       <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/sun/nio/fs/UnixPath.java" timestamp="1710685350032">
         <mark key="&quot;" line="50" column="0" />
-      </file>
-      <file name="/fragment.java" timestamp="1710685105079">
-        <mark key="&quot;" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/nio/file/FileSystems.java" timestamp="1710685350024">
-        <mark key="&quot;" line="182" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" timestamp="1710798593305">
         <mark key="&quot;" line="18" column="144" />
@@ -281,50 +316,50 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="CHARACTER_WISE">
-        <text encoding="base64">ID0gLSAxOw==</text>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="+" type="CHARACTER_WISE">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgcGF0aCA9IGZpbGVQYXRoSW5wdXQoKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJFbnRlciB0aXRsZSBvZiB0aGUgZG9jdW1lbnQ6ICIpOwogICAgICAgIFN0cmluZyB0aXRsZTsKICAgICAgICBkbyB7CiAgICAgICAgICAgIHRpdGxlID0gc2Nhbm5lci5uZXh0TGluZSgpOwogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oImVudGVyaW5nIHR5dGxlIik7CiAgICAgICAgfSB3aGlsZSAodGl0bGUuaXNFbXB0eSgpKTsKICAgICAgICBkb2N1bWVudC5zZXRUaXRsZSh0aXRsZSk7CiAgICAgICAgU3RyaW5nIGF1dGhvcjsKICAgICAgICBkbyB7CiAgICAgICAgICAgIGF1dGhvciA9IHNjYW5uZXIubmV4dExpbmUoKTsKICAgICAgICB9IHdoaWxlIChhdXRob3IuaXNFbXB0eSgpKTsKICAgICAgICBkb2N1bWVudC5zZXRBdXRob3IoYXV0aG9yKTsKCiAgICAgICAgaW50IGNyZWF0aW9uUmVzdWx0ID0gZG9jdW1lbnQuY3JlYXRlRmlsZShwYXRoLCB0aXRsZSwgYXV0aG9yKTsKICAgICAgICBzd2l0Y2ggKGNyZWF0aW9uUmVzdWx0KSB7CiAgICAgICAgICAgIGNhc2UgMDoKICAgICAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRmlsZSBzdWNjZXNzZnVsbHkgY3JlYXRlZC4iKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgICAgICBjYXNlIDE6CiAgICAgICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZpbGUgd2l0aCB0aGlzIG5hbWUgYWxyZWFkeSBleGlzdHMuIik7CiAgICAgICAgICAgICAgICBicmVhazsKICAgICAgICAgICAgY2FzZSAyOgogICAgICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJGaWxlIGNyZWF0aW9uIGZhaWxlZC4iKTsKICAgICAgICAgICAgICAgIGJyZWFrOwogICAgICAgIH0KICAgICAgICBpbnQgc2F2aW5nUmVzdWx0ID0gZG9jdW1lbnQuc2F2ZURvY3VtZW50KCk7CiAgICAgICAgaWYgKHNhdmluZ1Jlc3VsdCA9PSAxKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVGhlcmUgaXMgbm90aGluZyB0byB3cml0ZSB0byBmaWxlIik7CiAgICAgICAgfQogICAgICAgIGlmIChzYXZpbmdSZXN1bHQgPT0gMikgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZhaWxlZCB0byB3cml0ZSB0byBmaWxlIik7CiAgICAgICAgfQ==</text>
+      <register name="+" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBMaXN0PEludGVnZXI+IG51bWJlcnMgPSBBcnJheXMuYXNMaXN0KDEyMywgNzg5LAo=</text>
       </register>
       <register name="-" type="CHARACTER_WISE">
-        <text encoding="base64">ID0gLSAxOw==</text>
+        <text encoding="base64">TGlzdA==</text>
       </register>
       <register name="." type="CHARACTER_WISE">
-        <text encoding="base64">Ow==</text>
+        <text encoding="base64" />
       </register>
       <register name="/" type="CHARACTER_WISE">
-        <text encoding="base64">cHJpbnREb2N1bWVudA==</text>
+        <text encoding="base64">bWFpbg==</text>
       </register>
       <register name="0" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJFbnRlciB0aXRsZSBvZiB0aGUgZG9jdW1lbnQ6ICIpOwo=</text>
+        <text encoding="base64">ICAgICAgICBzdGFydCA9IFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpOwo=</text>
       </register>
       <register name="1" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgU3lzdGVtLm91dC5wcmludGxuKCJlbnRlcmluZyB0eXRsZSIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBzcXVhcmVzLmZvckVhY2goU3lzdGVtLm91dDo6cHJpbnRsbik7Cg==</text>
       </register>
       <register name="3" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBpbnQgc2F2aW5nUmVzdWx0ID0gZG9jdW1lbnQuc2F2ZURvY3VtZW50KCk7CiAgICAgICAgaWYgKHNhdmluZ1Jlc3VsdCA9PSAxKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVGhlcmUgaXMgbm90aGluZyB0byB3cml0ZSB0byBmaWxlIik7CiAgICAgICAgfQogICAgICAgIGlmIChzYXZpbmdSZXN1bHQgPT0gMikgewogICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkZhaWxlZCB0byB3cml0ZSB0byBmaWxlIik7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBzd2l0Y2ggKHNhdmluZ1Jlc3VsdCkgewogICAgICAgICAgICBjYXNlCiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRmlsZSB3aXRoIHRoaXMgbmFtZSBhbHJlYWR5IGV4aXN0cyIpOwogICAgICAgICAgICAgICAgaWYgKHNhdmluZ1Jlc3VsdAo=</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBsaW5lcyA9IHJlYWRlci4KICAgICAgICAgICAgRmlsZVJlYWRlciByZWFkZXIgPSBuZXcgRmlsZVJlYWRlcigiZGF0YS9kYXRhLnR4dCIpOwogICAgICAgIH0gY2F0Y2ggKEZpbGVOb3RGb3VuZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgIFN5c3RlbS5vdXQucHJpbnRsbigiRmFpbGVkIHRvIHJlYWQgZmlsZSIpOwogICAgICAgIH0K</text>
       </register>
       <register name="6" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBpZiAoc2F2aW5nUmVzdWx0ID09IDEpIHsK</text>
+        <text encoding="base64">ICAgICAgICB0cnkgewogICAgICAgICAgICBsaW5lcyA9IHJlYWRlci4K</text>
       </register>
       <register name="7" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGZpbGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IFJ1bnRpbWVFeGNlcHRpb24oZSk7Cg==</text>
       </register>
       <register name="8" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLndyaXRlKCJUaXRsZTogIiArIHRoaXMudGl0bGUgKyAnXG4nKTsKICAgICAgICAgICAgd3JpdGVyLndyaXRlKCJBdXRob3I6ICIgKyB0aGlzLmF1dGhvciArICdcbicpOwogICAgICAgICAgICBTdHJpbmcgZGF0ZVN0cmluZyA9IGdldENyZWF0aW9uRGF0ZSgpOwogICAgICAgICAgICB3cml0ZXIud3JpdGUoIkNyZWF0aW9uIERhdGU6ICIgKyBkYXRlU3RyaW5nICsgIlxuXG4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBpZiAodGhpcy50aXRsZS5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgcmV0dXJuIDE7CiAgICAgICAgfQogICAgICAgIGlmICh0aGlzLmF1dGhvci5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgcmV0dXJuIDI7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICByZWFkZXIuCg==</text>
       </register>
       <register name=":" type="CHARACTER_WISE">
         <text encoding="base64">dw==</text>
