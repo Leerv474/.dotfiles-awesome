@@ -17,8 +17,6 @@ return {
 				json = { "prettier" },
 				yaml = { "prettier" },
 				markdown = { "prettier" },
-				xml = { "xmlformatter" },
-				cpp = { "clang-format" },
 			},
 
 			format_on_save = {
