@@ -1,5 +1,5 @@
 return {
-	'numToStr/Comment.nvim',
+	"numToStr/Comment.nvim",
 	opts = {
 		-- add any options here
 	},
@@ -14,16 +14,16 @@ return {
 	---LHS of toggle mappings in NORMAL mode
 	toggler = {
 		---Line-comment toggle keymap
-		line = 'gcc',
+		line = "gcc",
 		---Block-comment toggle keymap
-		block = 'gbc',
+		block = "gbc",
 	},
 	---LHS of operator-pending mappings in NORMAL and VISUAL mode
 	opleader = {
 		---Line-comment keymap
-		line = 'gc',
+		line = "gc",
 		---Block-comment keymap
-		block = 'gb',
+		block = "gb",
 	},
 	---Enable keybindings
 	---NOTE: If given `false` then the plugin won't create any mappings
