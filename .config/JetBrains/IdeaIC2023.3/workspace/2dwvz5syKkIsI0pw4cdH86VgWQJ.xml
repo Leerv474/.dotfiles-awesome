@@ -1,0 +1,235 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Files" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="493">
+              <caret line="124" column="26" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#task1#0;class#Main#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/text3.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/text2.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/text1.txt">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/text4.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="124">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="3" lastUsed="1710942001766" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="7" lastUsed="1710943026545" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find />
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/data/text.txt" />
+      <option value="$PROJECT_DIR$/src/Main.java" />
+      <option value="$PROJECT_DIR$/data/text4.txt" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="3" lastUsage="1710942001766" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="7" lastUsage="1710943026545" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/HW/Files}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Files" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/HW/Files}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/HW/Files/data}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Pull Requests" weight="0.33025342" />
+      <window_info content_ui="combo" id="Project" internal_type="SLIDING" order="0" type="SLIDING" weight="0.33025342" />
+      <window_info id="Commit" order="1" weight="0.33025342" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.33025342" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32990196" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32990196" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32990196" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <unified_weights bottom="0.32990196" left="0.33025342" />
+    </layoutV2>
+    <layout-to-restore>
+      <window_info id="Pull Requests" weight="0.33025342" />
+      <window_info content_ui="combo" id="Project" internal_type="SLIDING" order="0" type="SLIDING" weight="0.33025342" />
+      <window_info id="Commit" order="1" weight="0.33025342" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.33025342" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32990196" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.32990196" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32990196" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <unified_weights bottom="0.32990196" left="0.33025342" />
+    </layout-to-restore>
+    <recentWindows>
+      <value>Run</value>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1828" height="304" key="GridCell.Tab.0.bottom" timestamp="1710943599183">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1828" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1710943599183" />
+    <state width="1828" height="304" key="GridCell.Tab.0.center" timestamp="1710943599182">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1828" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1710943599182" />
+    <state width="1828" height="304" key="GridCell.Tab.0.left" timestamp="1710943599181">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1828" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1710943599181" />
+    <state width="1828" height="304" key="GridCell.Tab.0.right" timestamp="1710943599182">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1828" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1710943599182" />
+    <state x="451" y="204" key="SettingsEditor" timestamp="1710932396153">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="451" y="204" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1710932396153" />
+    <state x="693" y="265" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1710942826695">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="265" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1710942826695" />
+    <state x="623" y="264" width="718" height="700" key="search.everywhere.popup" timestamp="1710943584089">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="264" width="718" height="700" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1710943584089" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/nio/file/Files.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="3266" column="25" selection-start-line="3266" selection-start-column="25" selection-end-line="3266" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/text2.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/text1.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/text3.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/text4.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="124" column="26" selection-start-line="124" selection-start-column="26" selection-end-line="124" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#task1#0;class#Main#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

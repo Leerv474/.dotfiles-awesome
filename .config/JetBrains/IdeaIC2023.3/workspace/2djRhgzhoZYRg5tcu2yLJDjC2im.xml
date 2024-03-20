@@ -26,50 +26,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file current-in-tab="false">
+      <file>
         <entry file="file://$PROJECT_DIR$/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="310">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#179#180#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/test.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1318">
-              <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TextDocument/Document.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="100" column="16" selection-start-line="100" selection-start-column="16" selection-end-line="100" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#2261#2262#0" expanded="true" />
-                <element signature="e#2309#2310#0" expanded="true" />
-                <element signature="e#2839#2840#0" expanded="true" />
-                <element signature="e#2884#2885#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file>
-        <entry file="file://$PROJECT_DIR$/src/TextDocument/DocumentAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+              <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -84,10 +45,10 @@
       <summary usageCount="1" lastUsed="1710520122258" />
     </fileType>
     <fileType name="JAVA">
-      <summary usageCount="74" lastUsed="1710797092423" />
+      <summary usageCount="80" lastUsed="1710953662407" />
     </fileType>
     <fileType name="PLAIN_TEXT">
-      <summary usageCount="23" lastUsed="1710797432373" />
+      <summary usageCount="25" lastUsed="1710953662208" />
     </fileType>
     <fileType name="textmate">
       <summary usageCount="18" lastUsed="1710794675843" />
@@ -96,12 +57,14 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find />
+      <find>save</find>
     </findStrings>
     <replaceStrings>
       <replace />
     </replaceStrings>
     <dirStrings>
       <dir>$USER_HOME$</dir>
+      <dir>$PROJECT_DIR$/src/TextDocument</dir>
     </dirStrings>
   </component>
   <component name="FindInProjectScope">
@@ -116,8 +79,8 @@
       <option value="$PROJECT_DIR$/data/test.txt" />
       <option value="$USER_HOME$/.ideavimrc" />
       <option value="$PROJECT_DIR$/src/Main.java" />
-      <option value="$PROJECT_DIR$/src/TextDocument/Document.java" />
       <option value="$PROJECT_DIR$/src/TextDocument/DocumentAPI.java" />
+      <option value="$PROJECT_DIR$/src/TextDocument/Document.java" />
     </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
@@ -132,10 +95,10 @@
       <summary usageCount="1" lastUsage="1710520122258" />
     </language>
     <language id="JAVA">
-      <summary usageCount="74" lastUsage="1710797092423" />
+      <summary usageCount="80" lastUsage="1710953662407" />
     </language>
     <language id="TEXT">
-      <summary usageCount="23" lastUsage="1710797432373" />
+      <summary usageCount="25" lastUsage="1710953662208" />
     </language>
     <language id="textmate">
       <summary usageCount="18" lastUsage="1710794675848" />
@@ -155,7 +118,13 @@
             <path>
               <item name="Project" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///home/roman/Documents/Projects/comics-store-project/Project}" type="462c0819:PsiDirectoryNode" />
-              <item name="dir{file:///home/roman/Documents/Projects/comics-store-project/Project/data}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/Projects/comics-store-project/Project/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/Projects/comics-store-project/Project}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/Projects/comics-store-project/Project/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/Projects/comics-store-project/Project/src/TextDocument}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -184,8 +153,8 @@
     <layoutV2>
       <window_info id="Bookmarks" side_tool="true" weight="0.33025342" />
       <window_info id="Pull Requests" weight="0.33025342" />
-      <window_info content_ui="combo" id="Project" internal_type="SLIDING" order="0" type="SLIDING" weight="0.33025342" />
-      <window_info active="true" id="Commit" order="1" visible="true" weight="0.33025342" />
+      <window_info active="true" content_ui="combo" id="Project" internal_type="SLIDING" order="0" type="SLIDING" visible="true" weight="0.33025342" />
+      <window_info id="Commit" order="1" weight="0.33025342" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Find" weight="0.32990196" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32990196" />
@@ -205,10 +174,10 @@
       <unified_weights bottom="0.41029412" left="0.33025342" />
     </layoutV2>
     <recentWindows>
+      <value>Project</value>
       <value>Commit</value>
       <value>Messages</value>
       <value>Run</value>
-      <value>Project</value>
       <value>Find</value>
       <value>Debug</value>
       <value>Terminal</value>
@@ -291,10 +260,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="695" y="277" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1710782939393" />
-    <state x="705" y="185" width="662" height="524" key="find.popup" timestamp="1710783109102">
+    <state x="708" y="188" width="662" height="524" key="find.popup" timestamp="1710943710115">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="705" y="185" width="662" height="524" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1710783109102" />
+    <state x="708" y="188" width="662" height="524" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1710943710115" />
     <state width="600" height="400" key="javadoc.popup" timestamp="1710622558909">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -307,10 +276,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="621" y="258" width="672" height="699" key="run.anything.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1710681730546" />
-    <state x="623" y="264" width="718" height="171" key="search.everywhere.popup" timestamp="1710797092370">
+    <state x="623" y="264" width="718" height="171" key="search.everywhere.popup" timestamp="1710943704844">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="623" y="264" width="718" height="171" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1710797092370" />
+    <state x="623" y="264" width="718" height="171" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1710943704844" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Store.java" />
@@ -388,46 +357,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/data/newFile.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/data/newFile.txt" />
+    <entry file="file://$PROJECT_DIR$/src/TextDocument/Document.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="310">
-          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        <state relative-caret-position="276">
+          <caret line="117" column="19" selection-start-line="117" selection-start-column="19" selection-end-line="117" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#179#180#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/data/test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1318">
+        <state relative-caret-position="31">
           <caret line="1" column="10" selection-start-line="1" selection-start-column="10" selection-end-line="1" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TextDocument/Document.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="100" column="16" selection-start-line="100" selection-start-column="16" selection-end-line="100" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2261#2262#0" expanded="true" />
-            <element signature="e#2309#2310#0" expanded="true" />
-            <element signature="e#2839#2840#0" expanded="true" />
-            <element signature="e#2884#2885#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TextDocument/DocumentAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="217">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
+        <state relative-caret-position="341">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="310">
+          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

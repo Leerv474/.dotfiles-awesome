@@ -9,4 +9,7 @@
   <component name="EditorSettings">
     <option name="IS_CARET_BLINKING" value="false" />
   </component>
+  <component name="JavaCodeFoldingSettings">
+    <option name="collapseOneLineMethods" value="false" />
+  </component>
 </application>

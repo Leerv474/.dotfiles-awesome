@@ -34,22 +34,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Documents/Projects/comics-store-project/Project">
-          <value>
-            <RecentProjectMetaInfo frameTitle="Project – DocumentAPI.java" opened="true" projectWorkspaceId="2djRhgzhoZYRg5tcu2yLJDjC2im">
-              <option name="activationTimestamp" value="1710798604245" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-233.14808.21" />
-              <option name="buildTimestamp" value="1710362280000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="0" />
-              </option>
-              <frame x="10" y="44" width="1900" height="1026" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1710794676810" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream">
           <value>
             <RecentProjectMetaInfo frameTitle="Stream – Person.java" opened="true" projectWorkspaceId="2dueAyK5qErRsAQnwqmxG9FUQou">
@@ -82,9 +66,41 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Files – Main.java" opened="true" projectWorkspaceId="2dwvz5syKkIsI0pw4cdH86VgWQJ">
+              <option name="activationTimestamp" value="1710943599196" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14808.21" />
+              <option name="buildTimestamp" value="1710362280000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="10" y="44" width="1900" height="1026" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1710932477352" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Projects/comics-store-project/Project">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Project – Main.java" opened="true" projectWorkspaceId="2djRhgzhoZYRg5tcu2yLJDjC2im">
+              <option name="activationTimestamp" value="1710955185051" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14808.21" />
+              <option name="buildTimestamp" value="1710362280000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="10" y="44" width="1900" height="1026" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1710953662639" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Threads" />
-    <option name="lastProjectLocation" value="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/Projects/comics-store-project/Project" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents/LeeRV-JAVA314/HW" />
   </component>
 </application>
