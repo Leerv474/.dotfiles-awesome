@@ -29,3 +29,12 @@ vim.opt.updatetime = 50
 
 vim.api.nvim_command("autocmd FileType xml set equalprg=xmllint\\ --format\\ -")
 vim.opt.ic = true
+
+vim.api.nvim_create_autocmd("TextYankPost", {
+	group = vim.api.nvim_create_augroup("highlight_yank", {}),
+	desc = "Hightlight selection on yank",
+	pattern = "*",
+	callback = function()
+		vim.highlight.on_yank({ higroup = "IncSearch", timeout = 300 })
+	end,
+})
