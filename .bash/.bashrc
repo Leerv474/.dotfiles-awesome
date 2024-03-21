@@ -133,9 +133,10 @@ export VISUAL='nvim'
 RESET='\[\033[0m\]'
 BOLD='\[\033[1m\]'
 FBLUE='\[\[\033[38;2;138;173;244m\]'
+PS1=" ${FBLUE}${BOLD}_${RESET} "
+
 # PROMPT_DIRTRIM=3
 # update_prompt() {
 #     PS1="$("${HOME}/.dotfiles/.bash/scripts/prompt.sh")"
 # }
 # PROMPT_COMMAND=update_prompt
-PS1=" ${FBLUE}${BOLD}_${RESET} "
