@@ -9,11 +9,6 @@
 # if not running interactively, don't do anythin
 [[ $- != *i* ]] && return
 
-if [ -n "$PS1" ] && [ -z "$TMUX" ]; then
-  # Create session 'main' or attach to 'main' if already exists.
-  tmux new-session -A -s main
-fi
-
 # colors
 BLUE="\033[34m"
 ### ALIASES
@@ -91,21 +86,6 @@ web() {
 # search in the browser
 alias search='${HOME}/.scripts/web-search.sh'
 
-# save session
-save() {
-    rm ~/.bash_session > /dev/null 2>&1
-    pwd > ~/.bash_session
-}
-
-load() {
-    if [[ $(cat ~/.bash_session | grep "No such file or directory" | wc -c ) -eq 0 ]]; then
-        cd "$(cat ~/.bash_session)" || exit
-    else
-        echo -e "[${BLUE}info\033[0m]: no saved session"
-    fi
-}
-
-
 ### INFO: bash prompt configuration
 #
 ## history
@@ -130,13 +110,13 @@ bind "set colored-completion-prefix on"
 export EDITOR='nvim'
 export VISUAL='nvim'
 
-RESET='\[\033[0m\]'
-BOLD='\[\033[1m\]'
-FBLUE='\[\[\033[38;2;138;173;244m\]'
-PS1=" ${FBLUE}${BOLD}_${RESET} "
+# RESET='\[\033[0m\]'
+# BOLD='\[\033[1m\]'
+# FBLUE='\[\[\033[38;2;138;173;244m\]'
+# PS1=" ${FBLUE}${BOLD}_${RESET} "
 
-# PROMPT_DIRTRIM=3
-# update_prompt() {
-#     PS1="$("${HOME}/.dotfiles/.bash/scripts/prompt.sh")"
-# }
-# PROMPT_COMMAND=update_prompt
+PROMPT_DIRTRIM=3
+update_prompt() {
+    PS1="$("${HOME}/.dotfiles/.bash/scripts/prompt.sh")"
+}
+PROMPT_COMMAND=update_prompt
