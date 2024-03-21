@@ -9,6 +9,11 @@
 # if not running interactively, don't do anythin
 [[ $- != *i* ]] && return
 
+if [ -n "$PS1" ] && [ -z "$TMUX" ]; then
+  # Create session 'main' or attach to 'main' if already exists.
+  tmux new-session -A -s main
+fi
+
 # colors
 BLUE="\033[34m"
 ### ALIASES
@@ -22,7 +27,7 @@ alias quick-git="${HOME}/.dotfiles/.bash/scripts/quick-git.sh"
 alias vps-connect="${HOME}/.dotfiles/.bash/scripts/vps-connect"
 ### INFO: for freeglut
 glut-compile() {
-    g++ $1 -o $2 -lGL -lGLU -lglut -lstdc++
+    g++ "$1" -o "$2" -lGL -lGLU -lglut -lstdc++
 }
 
 # directories
@@ -51,7 +56,7 @@ alias open='xdg-open'
 neovim() {
     if [ -n "$1" ]; then
         if [ -d "$1" ]; then
-            cd "$1" 
+            cd "$1" || exit 
             nvim .
         elif [ -f "$1" ]; then
             nvim "$1"
@@ -68,8 +73,8 @@ alias vim="neovim"
 alias nv="neovim"
 
 cdmkdir() {
-    mkdir $1
-    cd $1
+    mkdir "$1"
+    cd "$1" || exit
 }
 
 # system management
@@ -94,7 +99,7 @@ save() {
 
 load() {
     if [[ $(cat ~/.bash_session | grep "No such file or directory" | wc -c ) -eq 0 ]]; then
-        cd $(cat ~/.bash_session)
+        cd "$(cat ~/.bash_session)" || exit
     else
         echo -e "[${BLUE}info\033[0m]: no saved session"
     fi
@@ -117,71 +122,20 @@ shopt -s checkwinsize
 # Ignore case on auto-completion
 bind "set completion-ignore-case on"
 bind "set show-all-if-ambiguous on"
+bind "set colored-stats on"
+bind "set colored-completion-prefix on"
 
 
 ## ENVIRONMENT VARIABLES
 export EDITOR='nvim'
 export VISUAL='nvim'
 
-
-### Colorful prompt
-# colors
 RESET='\[\033[0m\]'
 BOLD='\[\033[1m\]'
-
-# foreground
 FBLUE='\[\[\033[38;2;138;173;244m\]'
-FBASE='\[\033[38;2;30;30;46m\]'
-FLAVENDER='\[\033[38;2;180;190;254m\]'
-FSURFACE='\[\033[38;2;69;71;90m\]'
-FGREEN='\[\033[38;2;64;160;43m\]'
-FRED='\[\033[38;2;210;15;57m\]'
-
-# background
-BBLUE='\[\[\033[48;2;138;173;244m\]'
-BBASE='\[\033[48;2;30;30;46m\]'
-BSURFACE='\[\033[48;2;69;71;90m\]'
-BCRUST='\[\033[48;2;24;24;37m\]'
-BLAVENDER='\[\033[48;2;180;190;254m\]'
-
-# nerd characters 
-LEFTF=''
-LEFTE=''
-RIGHTF=''
-RIGHTE=''
-DIRICON=''
-COMMANDICON=''
-GIT=''
-CHECK=''
-CROSS=''
-
-# Function to get Git branch name
-parse_git_info() {
-    # Check if Git is detected
-    if ! git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
-        return
-    fi
-
-    local branch=$(git branch 2> /dev/null | sed -n 's/^* //p')
-    local status=$(git status --porcelain 2> /dev/null)
-
-    if [ -n "$branch" ]; then
-        if [[ "$status" == "" ]]; then
-            echo -e "${BLAVENDER}${FBASE} ${GIT} ${branch} ${FGREEN}${CHECK}"
-        else
-            echo -e "${BLAVENDER}${FBASE} ${GIT} ${branch} ${FRED}${CROSS}"
-        fi
-    fi
-}
-PROMPT_DIRTRIM=3
-
-update_prompt() {
-    # Check if Git is detected 
-    if ! git rev-parse --is-inside-work-tree >/dev/null 2>&1; then
-        PS1="${FBLUE}${LEFTF}${FBASE}${BBLUE}${DIRICON}${RESET}${BSURFACE}${FBLUE}${RIGHTF}${BOLD} \w${RESET}${FSURFACE}${RIGHTF}${RESET}\n${FBLUE} ${COMMANDICON}${RESET} "
-    else
-        PS1="${FBLUE}${LEFTF}${FBASE}${BBLUE}${DIRICON}${RESET}${BSURFACE}${FBLUE}${RIGHTF}${BOLD} \w${RESET}${BLAVENDER}${FSURFACE}${RIGHTF}${RESET}${FLAVENDER}${BOLD}$(parse_git_info)${RESET}${FLAVENDER}${RIGHTF}${RESET}\n${FBLUE} ${COMMANDICON}${RESET} "
-    fi
-}
-
-PROMPT_COMMAND=update_prompt
+# PROMPT_DIRTRIM=3
+# update_prompt() {
+#     PS1="$("${HOME}/.dotfiles/.bash/scripts/prompt.sh")"
+# }
+# PROMPT_COMMAND=update_prompt
+PS1=" ${FBLUE}${BOLD}_${RESET} "

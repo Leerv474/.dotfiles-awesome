@@ -9,6 +9,17 @@ return {
 
 	config = function()
 		-- sections
+		local mode = {
+			"mode",
+			separator = { left = "" },
+			padding = { right = 2, left = 1 },
+		}
+		local location = {
+			"location",
+			separator = { right = "" },
+			padding = { left = 1, right = 1 },
+		}
+
 		local diff = {
 			"diff",
 			icon = "",
@@ -17,9 +28,16 @@ return {
 			source = nil, -- a function that works as a data source for diff.
 		}
 
+		local filetype = {
+			"filetype",
+			colored = true,
+			icon_only = true,
+			separator = {},
+			padding = { right = 0 },
+		}
 		local filename = {
 			"filename",
-			file_status = true, -- Displays file status (readonly status, modified status)
+			file_status = false, -- Displays file status (readonly status, modified status)
 			newfile_status = false, -- Display new file status (new file means no write after created)
 			path = 0, -- 0: Just the filename
 
@@ -31,7 +49,7 @@ return {
 				unnamed = "[No Name]", -- Text to show for unnamed buffers.
 				newfile = "[New]", -- Text to show for newly created file before first write
 			},
-			left_padding = 0,
+			padding = { right = 2 },
 		}
 
 		local harpoonline = require("harpoonline").setup()
@@ -56,18 +74,18 @@ return {
 				},
 			},
 			sections = {
-				lualine_a = { { "mode", separator = { left = "", right = "" }, right_padding = 2 } },
+				lualine_a = { mode },
 				lualine_b = { "branch", diff, "diagnostics" },
-				lualine_c = { filename },
-				lualine_x = { harpoonline.format },
-				lualine_y = { "filetype" },
-				lualine_z = { { "location", separator = { left = "", right = "" }, right_padding = 2 } },
+				lualine_c = {},
+				lualine_x = { filetype, filename },
+				lualine_y = { { harpoonline.format, padding = { right = 2 } } },
+				lualine_z = { location },
 			},
 			inactive_sections = {
 				lualine_a = {},
 				lualine_b = {},
 				lualine_c = { filename },
-				lualine_x = { "location" },
+				lualine_x = { location },
 				lualine_y = {},
 				lualine_z = {},
 			},

@@ -22,10 +22,3 @@ vim.keymap.set("v", "<leader>d", '"_d')
 vim.keymap.set("v", "<leader>y", '"+y')
 
 vim.api.nvim_set_keymap("x", "p", '"_dP', { noremap = true })
-
-vim.cmd([[ 
-    sign define DiagnosticSignError text=  linehl= texthl=DiagnosticSignError numhl= 
-    sign define DiagnosticSignWarn text= linehl= texthl=DiagnosticSignWarn numhl= 
-    sign define DiagnosticSignInfo text=  linehl= texthl=DiagnosticSignInfo numhl= 
-    sign define DiagnosticSignHint text=  linehl= texthl=DiagnosticSignHint numhl= 
-    ]])

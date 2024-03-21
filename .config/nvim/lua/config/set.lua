@@ -27,8 +27,22 @@ vim.opt.isfname:append("@-@")
 
 vim.opt.updatetime = 50
 
+-- so split focuses new window
+vim.opt.splitright = true
+vim.opt.splitbelow = true
+
+-- xml formatting
 vim.api.nvim_command("autocmd FileType xml set equalprg=xmllint\\ --format\\ -")
+-- ignore case
 vim.opt.ic = true
+
+-- change diagnostic signs
+vim.cmd([[ 
+    sign define DiagnosticSignError text=  linehl= texthl=DiagnosticSignError numhl= 
+    sign define DiagnosticSignWarn text= linehl= texthl=DiagnosticSignWarn numhl= 
+    sign define DiagnosticSignInfo text=  linehl= texthl=DiagnosticSignInfo numhl= 
+    sign define DiagnosticSignHint text=  linehl= texthl=DiagnosticSignHint numhl= 
+    ]])
 
 vim.api.nvim_create_autocmd("TextYankPost", {
 	group = vim.api.nvim_create_augroup("highlight_yank", {}),
