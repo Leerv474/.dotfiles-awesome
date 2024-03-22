@@ -10,6 +10,10 @@ autoload -Uz compinit promptinit
 compinit
 promptinit
 
+
+export LC_ALL=en_US.UTF-8
+
+eval "$(zoxide init --cmd cd zsh)"
 ### ALIASES
 # scripts
 alias psd="${HOME}/.dotfiles/.bash/scripts/psd.sh"
@@ -32,14 +36,12 @@ alias home="cd ~"
 alias dotfiles="cd ~/.dotfiles"
 alias projects="cd ~/Documents/Projects"
 
-
 # directory management
 alias la='ls -lahq --color=auto --no-group'
 alias ls='ls -lhq --color=auto --no-group'
 alias ..='cd ..'
 alias ~='cd ~'
 alias сы='cd'
-
 
 # file management
 alias mkf='touch'
@@ -82,6 +84,31 @@ web() {
 }
 # search in the browser
 alias search='${HOME}/.scripts/web-search.sh'
+
+
+### INFO: ZSH settings
+HISTFILE=~/.zsh_history
+HISTSIZE=10000
+SAVEHIST=1000
+## History command configuration
+setopt extended_history       # record timestamp of command in HISTFILE
+setopt hist_expire_dups_first # delete duplicates first when HISTFILE size exceeds HISTSIZE
+setopt hist_ignore_dups       # ignore duplicated commands history list
+setopt hist_ignore_space      # ignore commands that start with space
+setopt hist_verify            # show command with history expansion to user before running it
+setopt share_history          # share command history data
+
+setopt nocaseglob
+setopt autocd 
+setopt globdots 
+setopt nomatch 
+setopt menucomplete
+setopt interactive_comments
+
+stty stop undef
+zle_highlight=('paste:none')
+unsetopt BEEP
+zstyle ':completion:*' menu select
 
 
 PROMPT_DIRTRIM=3

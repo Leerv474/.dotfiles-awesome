@@ -1,28 +1,28 @@
 # colors
-RESET='\033[0m'
-BOLD='\033[1m'
+RESET='%{\033[0m%}'
+BOLD='%{\033[1m%}'
 
 # foreground
-FBLUE='\033[38;2;138;173;244m'
-FBASE='\033[38;2;30;30;46m'
-FLAVENDER='\033[38;2;180;190;254m'
-FSURFACE='\033[38;2;69;71;90m'
-FGREEN='\033[38;2;64;160;43m'
-FRED='\033[38;2;210;15;57m'
+FBLUE='%{\033[38;2;138;173;244m%}'
+FBASE='%{\033[38;2;30;30;46m%}'
+FLAVENDER='%{\033[38;2;180;190;254m%}'
+FSURFACE='%{\033[38;2;69;71;90m%}'
+FGREEN='%{\033[38;2;64;160;43m%}'
+FRED='%{\033[38;2;210;15;57m%}'
 
 # background
-BBLUE='\033[48;2;138;173;244m'
-BSURFACE='\033[48;2;69;71;90m'
-BLAVENDER='\033[48;2;180;190;254m'
+BBLUE='%{\033[48;2;138;173;244m%}'
+BSURFACE='%{\033[48;2;69;71;90m%}'
+BLAVENDER='%{\033[48;2;180;190;254m%}'
 
 # nerd characters
-LEFTF=''
-RIGHTF=''
-DIRICON=''
-COMMANDICON=''
-GIT=''
-CHECK=''
-CROSS=''
+LEFTF='%{%G%}'
+RIGHTF='%{%G%}'
+DIRICON='%{%G%}'
+COMMANDICON='%{%G%}'
+GIT='%{%G%}'
+CHECK='%{%G%}'
+CROSS='%{%G%}'
 
 # Function to get Git branch name
 parse_git_info() {
