@@ -66,7 +66,7 @@
     </option>
     <option name="default" value="false" />
     <option name="ideVersion" value="2023.3.5" />
-    <option name="lastUpdateTime" value="1710932216254" />
+    <option name="lastUpdateTime" value="1711033091675" />
     <option name="supportedGradleVersions">
       <list>
         <option value="3.0" />
@@ -161,62 +161,62 @@
   <component name="NotRoamableUiSettings">
     <option name="presentationModeIdeScale" value="1.75" />
   </component>
-  <component name="PropertyService">{
-  &quot;keyToString&quot;: {
-    &quot;INSPECTION_FILTER_HISTORY&quot;: &quot;closing&quot;,
-    &quot;InstalledPluginsSearchHistory&quot;: &quot;view mode\nvim\ngit add&quot;,
-    &quot;KEYMAP&quot;: &quot;Everywhere\nsearch&quot;,
-    &quot;LAST_CALCULATED_COLOR_INDEX_KEY&quot;: &quot;3&quot;,
-    &quot;MarketplacePluginsSearchHistory&quot;: &quot;=\nnvi\nrain\ncatp\ncat&quot;,
-    &quot;NewProjectWizard.groupIdState&quot;: &quot;org.example&quot;,
-    &quot;PluginConfigurable.selectionTab&quot;: &quot;1&quot;,
-    &quot;SettingsSearchHistory&quot;: &quot;collapse\nlayouts\nview mode\nview m\nuser&quot;,
-    &quot;SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION&quot;: &quot;0.65&quot;,
-    &quot;ask.about.ctrl.y.shortcut.v2&quot;: &quot;true&quot;,
-    &quot;build.toolwindow.Build Output.selection.state&quot;: &quot;com.intellij.build.BuildTreeConsoleView&quot;,
-    &quot;bundled.plugins.list.saved.version&quot;: &quot;IC-233.14808.21&quot;,
-    &quot;com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep&quot;: &quot;IntelliJ&quot;,
-    &quot;com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep&quot;: &quot;Java&quot;,
-    &quot;debugger.smart.chooser.counter&quot;: &quot;2&quot;,
-    &quot;decompiler.legal.notice.accepted&quot;: &quot;true&quot;,
-    &quot;defaultJdkConfigured&quot;: &quot;true&quot;,
-    &quot;enter_selection_count&quot;: &quot;5&quot;,
-    &quot;experimental.ui.on.first.startup&quot;: &quot;true&quot;,
-    &quot;experimental.ui.used.version&quot;: &quot;233.14808.21&quot;,
-    &quot;file.gist.reindex.count&quot;: &quot;668&quot;,
-    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
-    &quot;fontSizeToResetConsole&quot;: &quot;12.0&quot;,
-    &quot;fontSizeToResetEditor&quot;: &quot;12.0&quot;,
-    &quot;got.it.tooltip.reader.mode.got.it&quot;: &quot;1&quot;,
-    &quot;got.it.tooltip.speed.search.shown&quot;: &quot;1&quot;,
-    &quot;gotit.previous.run&quot;: &quot;IC-233.14808.21&quot;,
-    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
-    &quot;ideavim.statistics.timestamp&quot;: &quot;1710932220253&quot;,
-    &quot;ift.hide.welcome.screen.promo&quot;: &quot;true&quot;,
-    &quot;installed.kotlin.plugin.version&quot;: &quot;233.14808.21-IJ&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;21&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/roman/Documents/LeeRV-JAVA314/Lessons&quot;,
-    &quot;migrated.non.roamable.values.from.general.settings&quot;: &quot;true&quot;,
-    &quot;previousColorScheme&quot;: &quot;_@user_Catppuccin Mocha&quot;,
-    &quot;project.wizard.group&quot;: &quot;NPW.simple-project&quot;,
-    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;IC-233.14808.21&quot;,
-    &quot;selected.color.option.type&quot;: &quot;IDENTIFIER_UNDER_CARET_ATTRIBUTES&quot;,
-    &quot;settings.code.style.selected.tab.Groovy&quot;: &quot;Spaces&quot;,
-    &quot;settings.code.style.selected.tab.JAVA&quot;: &quot;Spaces&quot;
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "INSPECTION_FILTER_HISTORY": "closing",
+    "InstalledPluginsSearchHistory": "view mode\nvim\ngit add",
+    "KEYMAP": "Everywhere\nsearch",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "3",
+    "MarketplacePluginsSearchHistory": "=\nnvi\nrain\ncatp\ncat",
+    "NewProjectWizard.groupIdState": "org.example",
+    "PluginConfigurable.selectionTab": "1",
+    "SettingsSearchHistory": "key\ncollapse\nlayouts\nview mode\nview m",
+    "SingleInspectionProfilePanel.VERTICAL_DIVIDER_PROPORTION": "0.65",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "build.toolwindow.Build Output.selection.state": "com.intellij.build.BuildTreeConsoleView",
+    "bundled.plugins.list.saved.version": "IC-233.14808.21",
+    "com.intellij.ide.projectWizard.generators.JavaNewProjectWizard$Step.selectedStep": "IntelliJ",
+    "com.intellij.ide.wizard.NewProjectWizardLanguageStep.selectedStep": "Java",
+    "debugger.smart.chooser.counter": "2",
+    "decompiler.legal.notice.accepted": "true",
+    "defaultJdkConfigured": "true",
+    "enter_selection_count": "5",
+    "experimental.ui.on.first.startup": "true",
+    "experimental.ui.used.version": "233.14808.21",
+    "file.gist.reindex.count": "668",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "got.it.tooltip.reader.mode.got.it": "1",
+    "got.it.tooltip.speed.search.shown": "1",
+    "gotit.previous.run": "IC-233.14808.21",
+    "ide.memory.adjusted": "true",
+    "ideavim.statistics.timestamp": "1711036814390",
+    "ift.hide.welcome.screen.promo": "true",
+    "installed.kotlin.plugin.version": "233.14808.21-IJ",
+    "jdk.selected.JAVA_MODULE": "21",
+    "last_opened_file_path": "/home/roman/Documents/LeeRV-JAVA314/Lessons",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Catppuccin Mocha",
+    "project.wizard.group": "NPW.simple-project",
+    "registry.to.advanced.settings.migration.build": "IC-233.14808.21",
+    "selected.color.option.type": "IDENTIFIER_UNDER_CARET_ATTRIBUTES",
+    "settings.code.style.selected.tab.Groovy": "Spaces",
+    "settings.code.style.selected.tab.JAVA": "Spaces"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;file.chooser.recent.files&quot;: [
-      &quot;/home/roman/Documents/LeeRV-JAVA314/Lessons&quot;,
-      &quot;/home/roman/Documents/LeeRV-JAVA314/HW&quot;,
-      &quot;/home/roman/Documents/Projects/comics-store-project&quot;,
-      &quot;/home/roman/Documents/LeeRV-JAVA314/HW/Lambda&quot;
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/roman/Documents/LeeRV-JAVA314/Lessons",
+      "/home/roman/Documents/LeeRV-JAVA314/HW",
+      "/home/roman/Documents/Projects/comics-store-project",
+      "/home/roman/Documents/LeeRV-JAVA314/HW/Lambda"
     ],
-    &quot;fileTypeDetectors&quot;: [
-      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
-      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
     ]
   }
-}</component>
+}]]></component>
   <component name="ShownTips">{
   &quot;shownTips&quot;: {
     &quot;SpeedSearch&quot;: 1710519629042
