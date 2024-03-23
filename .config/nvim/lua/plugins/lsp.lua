@@ -36,8 +36,6 @@ return {
 					"bashls",
 					-- markdown
 					"marksman",
-					-- sql
-					"sqls",
 				},
 			})
 		end,
