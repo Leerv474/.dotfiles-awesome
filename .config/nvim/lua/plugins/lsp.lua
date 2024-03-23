@@ -37,7 +37,7 @@ return {
 					-- markdown
 					"marksman",
 					-- sql
-					"sqlls",
+					"sqls",
 				},
 			})
 		end,

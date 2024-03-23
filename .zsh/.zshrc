@@ -27,7 +27,7 @@ glut-compile() {
 }
 
 # directories
-alias bmstu="cd ~/Documents/BMSTU"
+alias bmstu="cd ~/Documents/bmstu"
 alias downloads="cd ~/Downloads"
 alias documents="cd ~/Documents"
 alias javacourse="cd ~/Documents/LeeRV-JAVA314"
@@ -77,15 +77,6 @@ alias cdate='date "+%Y-%m-%d %A %H:%M"'
 alias sd='shutdown now'
 alias cls='clear'
 
-# web searching
-# search with url
-web() {
-    firefox "$1"
-}
-# search in the browser
-alias search='${HOME}/.scripts/web-search.sh'
-
-
 ### INFO: ZSH settings
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
@@ -108,10 +99,8 @@ setopt interactive_comments
 stty stop undef
 zle_highlight=('paste:none')
 unsetopt BEEP
-zstyle ':completion:*' menu select
+zstyle ':completion:*' menu select completer _history
 
-
-PROMPT_DIRTRIM=3
 precmd() {
     source ~/.dotfiles/.zsh/scripts/prompt.zsh
 }

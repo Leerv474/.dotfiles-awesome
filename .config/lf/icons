@@ -173,7 +173,7 @@ fi             # FILE
 *.gitattributes         󰊢
 *.gitlab-ci.yml         
 *.bashrc                
-*.zshrc                 
+*.zshrc                 
 *.zshenv                
 *.zprofile              
 *.vimrc                 
