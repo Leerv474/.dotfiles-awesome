@@ -1,11 +1,13 @@
-local gitsigns = require("gitsigns")
-
-vim.keymap.set("n", "gd", vim.lsp.buf.definition, {})
+-- LSP
+vim.keymap.set("n", "<leader>gd", vim.lsp.buf.definition, {})
 vim.keymap.set("n", "<leader>gr", vim.lsp.buf.references, {})
 vim.keymap.set("n", "<leader>k", vim.lsp.buf.hover, {})
 vim.keymap.set("n", "<leader>ca", vim.lsp.buf.code_action, {})
 vim.keymap.set("n", "<leader>rr", vim.lsp.buf.rename, {})
+vim.keymap.set("n", "<leader>gi", vim.lsp.buf.implementation, {})
 
+-- GIT SIGNS
+local gitsigns = require("gitsigns")
 vim.keymap.set("n", "<leader>gp", gitsigns.preview_hunk_inline)
 
 vim.keymap.set("n", "<leader>u", vim.cmd.UndotreeToggle)

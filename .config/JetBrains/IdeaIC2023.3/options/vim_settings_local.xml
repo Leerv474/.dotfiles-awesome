@@ -282,6 +282,11 @@
       <jump line="265" column="14" filename="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/io/OutputStreamWriter.java" />
       <jump line="227" column="17" filename="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/sun/nio/cs/StreamEncoder.java" />
     </project>
+    <project id="$USER_HOME$/Documents/projects/comics-store-project">
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/README.md" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
+    </project>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
@@ -340,8 +345,11 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java" timestamp="1710863768722">
-        <mark key="&quot;" line="187" column="31" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1711283321436">
+        <mark key="&quot;" line="41" column="12" />
+        <mark key="[" line="35" column="15" />
+        <mark key="]" line="35" column="15" />
+        <mark key="." line="35" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text.txt" timestamp="1710942734604">
         <mark key="&quot;" line="4" column="0" />
@@ -383,14 +391,14 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="LINE_WISE">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">bQ==</text>
       </register>
       <register name="+" type="LINE_WISE">
         <text encoding="base64">ICAgICAgICAgICAgRmlsZVdyaXRlciB3cml0ZXIgPSBuZXcgRmlsZVdyaXRlcihwYXRoc1szXSwgdHJ1ZSk7CiAgICAgICAgICAgIHdyaXRlci53cml0ZShuZXcgU3RyaW5nKGNvbnRlbnRzLmdldCgwKSwgU3RhbmRhcmRDaGFyc2V0cy5VVEZfOCkpOwogICAgICAgICAgICB3cml0ZXIud3JpdGUobmV3IFN0cmluZyhjb250ZW50cy5nZXQoMSksIFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgpKTsKICAgICAgICAgICAgd3JpdGVyLndyaXRlKG5ldyBTdHJpbmcoY29udGVudHMuZ2V0KDMpLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7Cg==</text>
       </register>
       <register name="-" type="CHARACTER_WISE">
-        <text encoding="base64">bmV3Q29udGVudHM=</text>
+        <text encoding="base64">bQ==</text>
       </register>
       <register name="." type="CHARACTER_WISE">
         <text encoding="base64" />

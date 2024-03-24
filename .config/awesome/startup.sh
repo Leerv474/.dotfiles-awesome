@@ -17,6 +17,7 @@ while pgrep -x polybar >/dev/null; do sleep 1; done
 #MONITOR=${DP-1} polybar secondary &
 if [[ $(xrandr -q | grep -w 'DP-1 connected') ]]; then
     xrandr --output eDP-1 --off &
+    xrandr --output DP-1 --auto &
     xrandr -r 75 &
     polybar secondary &
 fi

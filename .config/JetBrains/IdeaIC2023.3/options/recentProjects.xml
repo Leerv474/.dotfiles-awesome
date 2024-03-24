@@ -82,25 +82,25 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Documents/Projects/comics-store-project/Project">
+        <entry key="$USER_HOME$/Documents/projects/comics-store-project">
           <value>
-            <RecentProjectMetaInfo frameTitle="Project" opened="true" projectWorkspaceId="2djRhgzhoZYRg5tcu2yLJDjC2im">
-              <option name="activationTimestamp" value="1711038657890" />
+            <RecentProjectMetaInfo frameTitle="comics-store-project – README.md" opened="true" projectWorkspaceId="2e8PX2ipTl84SecqpD9UKMd0jNa">
+              <option name="activationTimestamp" value="1711283323239" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-233.14808.21" />
               <option name="buildTimestamp" value="1710362280000" />
               <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="0" />
+                <RecentProjectColorInfo associatedIndex="4" />
               </option>
-              <frame x="6" y="38" width="951" height="1036" />
+              <frame x="6" y="38" width="1908" height="1036" />
               <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1711037741898" />
+              <option name="projectOpenTimestamp" value="1711283267835" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Documents/Projects/comics-store-project/Project" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/projects/comics-store-project" />
     <option name="lastProjectLocation" value="$USER_HOME$/Documents/LeeRV-JAVA314/HW" />
   </component>
 </application>

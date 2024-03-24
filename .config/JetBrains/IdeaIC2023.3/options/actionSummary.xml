@@ -205,7 +205,7 @@
       <i c="2" l="1710681729092" />
     </e>
     <e n="SaveAll">
-      <i c="471" l="1711038650992" />
+      <i c="473" l="1711283319371" />
     </e>
     <e n="SearchEverywhere">
       <i c="68" l="1711037164891" />
@@ -253,7 +253,7 @@
       <i c="6" l="1710932195292" />
     </e>
     <e n="WelcomeScreen.OpenProject">
-      <i c="2" l="1710862194430" />
+      <i c="3" l="1711283252891" />
     </e>
     <e n="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction">
       <i c="1" l="1710680518408" />
@@ -322,7 +322,7 @@
       <i c="67" l="1711037165599" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="49" l="1711038657803" />
+      <i c="51" l="1711283323159" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="11" l="1710872437116" />
@@ -364,7 +364,7 @@
       <i c="276" l="1710953776825" />
     </e>
     <e n="com.maddyhome.idea.vim.group.NotificationService$OpenIdeaVimRcAction">
-      <i c="13" l="1710866997569" />
+      <i c="14" l="1711283280282" />
     </e>
     <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$1">
       <i c="1" l="1710433335239" />
@@ -379,7 +379,7 @@
       <i c="2" l="1710866993202" />
     </e>
     <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
-      <i c="659" l="1711038653896" />
+      <i c="662" l="1711283321426" />
     </e>
     <e n="editRunConfigurations">
       <i c="2" l="1710612066444" />

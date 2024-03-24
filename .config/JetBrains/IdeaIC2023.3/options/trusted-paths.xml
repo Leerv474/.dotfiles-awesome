@@ -8,6 +8,7 @@
         <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files" value="true" />
         <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Threads" value="true" />
         <entry key="$USER_HOME$/Documents/Projects/comics-store-project/Project" value="true" />
+        <entry key="$USER_HOME$/Documents/projects/comics-store-project" value="true" />
       </map>
     </option>
   </component>
@@ -15,6 +16,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/Documents/LeeRV-JAVA314/HW" />
+        <option value="$USER_HOME$/Documents/projects" />
       </list>
     </option>
   </component>
