@@ -36,6 +36,7 @@ return {
 					"bashls",
 					-- markdown
 					"marksman",
+					"sqls",
 				},
 			})
 		end,
@@ -100,7 +101,7 @@ return {
 			lspconfig.marksman.setup({
 				capabilities = capabilities,
 			})
-			lspconfig.sqlls.setup({
+			lspconfig.sqls.setup({
 				capabilities = capabilities,
 			})
 

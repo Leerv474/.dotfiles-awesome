@@ -84,8 +84,8 @@
         </entry>
         <entry key="$USER_HOME$/Documents/projects/comics-store-project">
           <value>
-            <RecentProjectMetaInfo frameTitle="comics-store-project – README.md" opened="true" projectWorkspaceId="2e8PX2ipTl84SecqpD9UKMd0jNa">
-              <option name="activationTimestamp" value="1711283323239" />
+            <RecentProjectMetaInfo frameTitle="comics-store-project – Main.class" opened="true" projectWorkspaceId="2e8PX2ipTl84SecqpD9UKMd0jNa">
+              <option name="activationTimestamp" value="1711357874304" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-233.14808.21" />
               <option name="buildTimestamp" value="1710362280000" />
@@ -94,7 +94,7 @@
               </option>
               <frame x="6" y="38" width="1908" height="1036" />
               <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1711283267835" />
+              <option name="projectOpenTimestamp" value="1711357701474" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

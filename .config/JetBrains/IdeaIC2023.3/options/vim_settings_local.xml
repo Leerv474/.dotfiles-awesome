@@ -284,8 +284,13 @@
     </project>
     <project id="$USER_HOME$/Documents/projects/comics-store-project">
       <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/README.md" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/README.md" />
       <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/README.md" />
+      <jump line="5" column="15" filename="$USER_HOME$/Documents/projects/comics-store-project/README.md" />
+      <jump line="9" column="51" filename="$USER_HOME$/Documents/projects/comics-store-project/README.md" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/README.md" />
+      <jump line="7" column="13" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/out/production/Project/Main.class" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/out/production/Project/Main.class" />
     </project>
   </component>
   <component name="VimMarksSettings">

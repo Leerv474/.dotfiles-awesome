@@ -73,7 +73,7 @@
       <i c="267" l="1710942227471" />
     </e>
     <e n="EditorDown">
-      <i c="518" l="1710942412016" />
+      <i c="523" l="1711357736982" />
     </e>
     <e n="EditorEnter">
       <i c="892" l="1711037169119" />
@@ -103,7 +103,7 @@
       <i c="3" l="1710701090786" />
     </e>
     <e n="EditorUp">
-      <i c="170" l="1710942218662" />
+      <i c="172" l="1711357736356" />
     </e>
     <e n="ExpandRegion">
       <i c="7" l="1711037016317" />
@@ -136,7 +136,7 @@
       <i c="1" l="1710943091040" />
     </e>
     <e n="HideActiveWindow">
-      <i c="29" l="1711037147857" />
+      <i c="30" l="1711357852554" />
     </e>
     <e n="HideAllWindows">
       <i c="1" l="1710943576976" />
@@ -199,7 +199,7 @@
       <i c="2" l="1710685101056" />
     </e>
     <e n="Run">
-      <i c="148" l="1711037133978" />
+      <i c="150" l="1711357774621" />
     </e>
     <e n="RunAnything">
       <i c="2" l="1710681729092" />
@@ -211,7 +211,7 @@
       <i c="68" l="1711037164891" />
     </e>
     <e n="SettingsEntryPoint">
-      <i c="6" l="1711036493562" />
+      <i c="9" l="1711357869016" />
     </e>
     <e n="ShowIntentionActions">
       <i c="231" l="1711037110190" />
@@ -265,10 +265,10 @@
       <i c="2" l="1710663196832" />
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$DeleteBackspaceHandler">
-      <i c="312" l="1711037142137" />
+      <i c="321" l="1711357837869" />
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$EnterHandler">
-      <i c="644" l="1711037144672" />
+      <i c="676" l="1711357846524" />
     </e>
     <e n="com.intellij.execution.impl.ConsoleViewImpl$TabHandler">
       <i c="1" l="1710774800128" />
@@ -322,19 +322,22 @@
       <i c="67" l="1711037165599" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$5">
-      <i c="51" l="1711283323159" />
+      <i c="53" l="1711357874203" />
     </e>
     <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
       <i c="11" l="1710872437116" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$2">
+      <i c="2" l="1711357863115" />
     </e>
     <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$3">
       <i c="1" l="1711036495076" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="44" l="1710943011869" />
+      <i c="49" l="1711357785863" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="39" l="1711036488302" />
+      <i c="44" l="1711357780593" />
     </e>
     <e n="com.intellij.openapi.wm.impl.status.widget.StatusBarWidgetsActionGroup$ToggleWidgetAction">
       <i c="4" l="1710932441368" />
