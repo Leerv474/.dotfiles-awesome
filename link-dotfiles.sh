@@ -21,4 +21,11 @@ ln ~/.dotfiles/.bash/.bashrc ~/.bashrc
 rm ~/.xbindkeysrc
 ln ~/.xbindkeysrc
 
+rm ~/.zshrc
+ln ~/.dotfiles/.zsh/.zshrc
 
+rm ~/.tmux.conf
+ln ~/.dotfiles/.tmux.conf
+
+rm -r ~/.tmux
+ln ~/.dotfiles/.tmux
