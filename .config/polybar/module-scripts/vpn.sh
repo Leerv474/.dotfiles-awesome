@@ -1,5 +1,9 @@
 #!/bin/sh
 
+if [[ $(nmcli | grep "wlp2s0: connected" | wc -c) -eq 0 ]];
+then
+    echo "%{F#66ffffff}󰌆"
+fi
 if [[ $(nmcli | grep "connected to wireguard" | wc -c) -eq 0 ]];
 then
     echo "%{F#66ffffff}󰌆"
