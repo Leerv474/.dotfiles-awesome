@@ -98,9 +98,25 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Multithreding – Main.java" opened="true" projectWorkspaceId="2eBTS6sJShJLFISB8Sy9fKjgh6B">
+              <option name="activationTimestamp" value="1711387252467" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.14808.21" />
+              <option name="buildTimestamp" value="1710362280000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="6" y="38" width="1908" height="1036" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1711384908850" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Documents/projects/comics-store-project" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding" />
     <option name="lastProjectLocation" value="$USER_HOME$/Documents/LeeRV-JAVA314/HW" />
   </component>
 </application>

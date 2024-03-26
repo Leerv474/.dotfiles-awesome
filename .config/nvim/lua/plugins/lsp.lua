@@ -16,7 +16,6 @@ return {
 				-- Replace the language servrs listed here
 				-- with the ones you want to install
 				ensure_installed = {
-					"rust_analyzer",
 					-- cpp
 					"cmake",
 					"clangd",

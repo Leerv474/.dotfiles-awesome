@@ -40,6 +40,7 @@ nmap <leader>bw :action CloseEditor<CR>
 nmap <leader>fs :action FindInPath<CR>
 nmap <leader>ff :action SearchEverywhere<CR>
 map <leader>pv :NERDTree<CR>
+nmap <leader>nf :action NewFile<CR>
 
 " Highlight copied text
 Plug 'machakann/vim-highlightedyank'

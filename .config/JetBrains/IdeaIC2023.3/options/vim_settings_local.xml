@@ -29,6 +29,8 @@
         <entry encoding="base64">Mg==</entry>
         <entry encoding="base64">dGFzazM=</entry>
         <entry encoding="base64">cmVhZGVy</entry>
+        <entry encoding="base64">ag==</entry>
+        <entry encoding="base64">YW1pbg==</entry>
         <entry encoding="base64">bWFpbg==</entry>
       </history-search>
       <history-cmd>
@@ -45,8 +47,14 @@
         <entry encoding="base64">JzwsJz5zLzIvMy9n</entry>
         <entry encoding="base64">JzwsJz5zLzIvNC9n</entry>
         <entry encoding="base64" />
-        <entry encoding="base64">dw==</entry>
+        <entry encoding="base64">c291cmNl</entry>
+        <entry encoding="base64">YWN0aW9ubGlzdA==</entry>
+        <entry encoding="base64">YWN0aW9u</entry>
+        <entry encoding="base64">YWN0aW9uIE5ld0phdmFDbGFzcw==</entry>
+        <entry encoding="base64">YWN0aW9uIEphdmFDbGFzcw==</entry>
         <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">JzwsJz5zL2ovaS8=</entry>
+        <entry encoding="base64">dw==</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -292,6 +300,30 @@
       <jump line="7" column="13" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/out/production/Project/Main.class" />
       <jump line="12" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/out/production/Project/Main.class" />
     </project>
+    <project id="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding">
+      <jump line="2" column="12" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="12" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="41" column="27" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="43" column="23" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="28" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="6" column="17" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="4" column="17" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="5" column="30" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="16" column="21" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="21" column="21" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="17" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="20" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="15" column="41" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="24" column="21" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+    </project>
   </component>
   <component name="VimMarksSettings">
     <globalmarks />
@@ -312,9 +344,6 @@
       <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text1.txt" timestamp="1710942536045">
         <mark key="&quot;" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/stream/Streams.java" timestamp="1710867051048">
-        <mark key="&quot;" line="65" column="13" />
-      </file>
       <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/sun/nio/cs/StreamEncoder.java" timestamp="1711037290450">
         <mark key="&quot;" line="232" column="17" />
       </file>
@@ -333,8 +362,18 @@
       <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" timestamp="1711038653905">
         <mark key="&quot;" line="8" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/.gitignore" timestamp="1711384494878">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/io/OutputStreamWriter.java" timestamp="1711037291417">
         <mark key="&quot;" line="265" column="14" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/Tutor.txt" timestamp="1711377011805">
+        <mark key="&quot;" line="148" column="45" />
+        <mark key="[" line="91" column="42" />
+        <mark key="]" line="91" column="46" />
+        <mark key="^" line="91" column="46" />
+        <mark key="." line="91" column="45" />
       </file>
       <file name="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Threads/src/Main.java" timestamp="1710873138765">
         <mark key="[" line="4" column="0" />
@@ -344,17 +383,20 @@
       <file name="/" timestamp="1710872152256">
         <mark key="&quot;" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/data/data.txt" timestamp="1710865372260">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1711385065415">
+        <mark key="&quot;" line="43" column="0" />
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="31" />
       </file>
-      <file name="$USER_HOME$/.ideavimrc" timestamp="1711283321436">
-        <mark key="&quot;" line="41" column="12" />
-        <mark key="[" line="35" column="15" />
-        <mark key="]" line="35" column="15" />
-        <mark key="." line="35" column="15" />
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" timestamp="1711386762637">
+        <mark key="'" line="37" column="0" />
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="33" column="82" />
+        <mark key="." line="33" column="81" />
+        <mark key="^" line="33" column="82" />
       </file>
       <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text.txt" timestamp="1710942734604">
         <mark key="&quot;" line="4" column="0" />
@@ -371,18 +413,14 @@
         <mark key="." line="129" column="26" />
         <mark key="^" line="129" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" timestamp="1710867054267">
-        <mark key="&quot;" line="104" column="85" />
-        <mark key="[" line="104" column="90" />
-        <mark key="]" line="104" column="91" />
-        <mark key="." line="104" column="90" />
-        <mark key="^" line="104" column="91" />
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/test" timestamp="1711384516872">
+        <mark key="&quot;" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.jdks/openjdk-21.0.2!/java.base/java/util/stream/DoublePipeline.class" timestamp="1710866970015">
-        <mark key="&quot;" line="21" column="0" />
-      </file>
-      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/stream/IntStream.java" timestamp="1710867051655">
-        <mark key="&quot;" line="1083" column="47" />
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" timestamp="1711386521514">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" timestamp="1711038652905">
         <mark key="&quot;" line="4" column="4" />
@@ -396,53 +434,53 @@
   </component>
   <component name="VimRegisterSettings">
     <registers>
-      <register name="&quot;" type="CHARACTER_WISE">
-        <text encoding="base64">bQ==</text>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCB0YXNrMSgpOwo=</text>
       </register>
       <register name="+" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgRmlsZVdyaXRlciB3cml0ZXIgPSBuZXcgRmlsZVdyaXRlcihwYXRoc1szXSwgdHJ1ZSk7CiAgICAgICAgICAgIHdyaXRlci53cml0ZShuZXcgU3RyaW5nKGNvbnRlbnRzLmdldCgwKSwgU3RhbmRhcmRDaGFyc2V0cy5VVEZfOCkpOwogICAgICAgICAgICB3cml0ZXIud3JpdGUobmV3IFN0cmluZyhjb250ZW50cy5nZXQoMSksIFN0YW5kYXJkQ2hhcnNldHMuVVRGXzgpKTsKICAgICAgICAgICAgd3JpdGVyLndyaXRlKG5ldyBTdHJpbmcoY29udGVudHMuZ2V0KDMpLCBTdGFuZGFyZENoYXJzZXRzLlVURl84KSk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmF4Lm5hbWluZy5QYXJ0aWFsUmVzdWx0RXhjZXB0aW9uOwoKcHVibGljIGNsYXNzIFBhcmFsbGVsU2VhcmNoIGltcGxlbWVudHMgUnVubmFibGV7CiAgICBwcml2YXRlIGludFtdIGFycmF5OwogICAgcHJpdmF0ZSBpbnRbXSByZXN1bHQ7CiAgICBwdWJsaWMgUGFyYWxsZWxTZWFyY2goaW50W10gYXJyYXkpIHsKICAgICAgICB0aGlzLmFycmF5ID0gYXJyYXk7CiAgICB9CiAgICBwdWJsaWMgaW50W10gc2VhcmNoQXJyYXkoKSB7CiAgICAgICAgaW50IG1pbiA9IEludGVnZXIuTUFYX1ZBTFVFOwogICAgICAgIGludCBtYXggPSBJbnRlZ2VyLk1JTl9WQUxVRTsKICAgICAgICBmb3IgKGludCBpIDogYXJyYXkpIHsKICAgICAgICAgICAgbWluID0gSW50ZWdlci5taW4oaSwgbWluKTsKICAgICAgICAgICAgbWF4ID0gSW50ZWdlci5tYXgoaSwgbWF4KTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG5ldyBpbnRbXXttaW4sIG1heH07CiAgICB9CiAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgcmVzdWx0ID0gc2VhcmNoQXJyYXkoKTsKICAgIH0KICAgIHB1YmxpYyBmaW5hbCBpbnRbXSBnZXRSZXN1bHQoKSB7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0KfQo=</text>
       </register>
       <register name="-" type="CHARACTER_WISE">
-        <text encoding="base64">bQ==</text>
+        <text encoding="base64">c3RhcnQ=</text>
       </register>
       <register name="." type="CHARACTER_WISE">
-        <text encoding="base64" />
+        <text encoding="base64">Ly9UT0RPOiDQl9Cw0LTQsNGH0LAgMi4g0KHRg9C80LzQsCDRjdC70LXQvNC10L3RgtC+0LIg0LIg0LzQsNGB0YHQuNCy0LU6CiAgICAvLyAgICDigKIg0KHQvtC30LTQsNC50YLQtSDQvNCw0YHRgdC40LIg0YbQtdC70YvRhSDRh9C40YHQtdC7LgogICAgLy8gICAg4oCiINCg0LDQt9C00LXQu9C40YLQtSDQtdCz0L4g0L3QsCDQvdC10YHQutC+0LvRjNC60L4g0YfQsNGB0YLQtdC5LgogICAgLy8gICAg4oCiINCh0L7Qt9C00LDQudGC0LUg0L3QtdGB0LrQvtC70YzQutC+INC/0L7RgtC+0LrQvtCyINC00LvRjyDQstGL0YfQuNGB0LvQtdC90LjRjyDRgdGD0LzQvNGLINGN0LvQtdC80LXQvdGC0L7QsiDQsiDQutCw0LbQtNC+0Lkg0YfQsNGB0YLQuCDQvNCw0YHRgdC40LLQsC4KICAgIC8vICAgIOKAoiDQodGD0LzQvNC40YDRg9C50YLQtSDRgNC10LfRg9C70YzRgtCw0YLRiyDQstGL0YfQuNGB0LvQtdC90LjQuSDQutCw0LbQtNC+0LPQviDQv9C+0YLQvtC60LAg0Lgg0LLQtdGA0L3QuNGC0LUg0L7QsdGJ0YPRjiDRgdGD0LzQvNGDLg==</text>
       </register>
       <register name="/" type="CHARACTER_WISE">
         <text encoding="base64">bWFpbg==</text>
       </register>
       <register name="0" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBwYXRoc1swXSA9ICJkYXRhL3RleHQxLnR4dCI7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZWFyY2gxLnJ1bigpOwo=</text>
       </register>
       <register name="1" type="LINE_WISE">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCB0YXNrMSgpOwo=</text>
       </register>
       <register name="2" type="LINE_WISE">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0YXNrMSgpOwo=</text>
       </register>
       <register name="3" type="LINE_WISE">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmaW5hbCBpbnRbXSBnZXRSZXN1bHQoKSBjb25zdCB7Cg==</text>
       </register>
       <register name="4" type="LINE_WISE">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0TGVuZ3RoKCkgY29uc3QgewogICAgICAgIAogICAgfQo=</text>
       </register>
       <register name="5" type="LINE_WISE">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="LINE_WISE">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CiAgICB7Cg==</text>
       </register>
       <register name="7" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICAgICAgd3JpdGVyLmZsdXNoKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzCg==</text>
       </register>
       <register name="8" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG51bWJlcnMubGVuZ3RoLwo=</text>
       </register>
       <register name="9" type="LINE_WISE">
-        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5BcnJheXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbnRbXSBudW1iZXJzID0gezU1LCA3MiwgMTQsIDM5LCA5MSwgMjcsIDY4LCA1LCA4MywgMjAsIDQ3LCAzLCA2NiwgOTgsIDEyLCA3NiwgMjUsIDU5LCAzNiwgODB9OwogICAgICAgIGludCBoYWxmTGVuZ3RoID0gbnVtYmVycy5sZW5ndGggLyAyOwogICAgICAgIGludFtdIGhhbGYxID0gbmV3IGludFtudW1iZXJzLmxlbmd0aCAvIDJdOwogICAgICAgIGludFtdIGhhbGYyID0gbmV3IGludFtudW1iZXJzLmxlbmd0aCAvIDJdOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbnVtYmVycy5sZW5ndGgvCg==</text>
       </register>
       <register name=":" type="CHARACTER_WISE">
-        <text encoding="base64">cQ==</text>
+        <text encoding="base64">dw==</text>
       </register>
     </registers>
   </component>
