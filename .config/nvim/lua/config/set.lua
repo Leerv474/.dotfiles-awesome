@@ -54,3 +54,4 @@ vim.api.nvim_create_autocmd("TextYankPost", {
 })
 
 vim.g.omni_sql_no_default_maps = 1
+
