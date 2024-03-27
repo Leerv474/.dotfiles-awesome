@@ -13,13 +13,10 @@
 BLUE="\033[34m"
 ### ALIASES
 # scripts
-alias psd="${HOME}/.dotfiles/.bash/scripts/psd.sh"
-alias trash="${HOME}/.dotfiles/.bash/scripts/trash.sh"
-alias volume="${HOME}/.dotfiles/.bash/scripts/volume.sh"
-alias quick-git="${HOME}/.dotfiles/.bash/scripts/quick-git.sh"
+alias psd="${HOME}/.dotfiles/scripts/psd.sh"
+alias trash="${HOME}/.dotfiles/scripts/trash.sh"
+alias quick-git="${HOME}/.dotfiles/scripts/quick-git.sh"
 
-# personal
-alias vps-connect="${HOME}/.dotfiles/.bash/scripts/vps-connect"
 ### INFO: for freeglut
 glut-compile() {
     g++ "$1" -o "$2" -lGL -lGLU -lglut -lstdc++
@@ -78,14 +75,6 @@ alias cdate='date "+%Y-%m-%d %A %H:%M"'
 alias sd='shutdown now'
 alias cls='clear'
 
-# web searching
-# search with url
-web() {
-    firefox "$1"
-}
-# search in the browser
-alias search='${HOME}/.scripts/web-search.sh'
-
 ### INFO: bash prompt configuration
 #
 ## history
@@ -117,6 +106,6 @@ export VISUAL='nvim'
 
 PROMPT_DIRTRIM=3
 update_prompt() {
-    PS1="$("${HOME}/.dotfiles/.bash/scripts/prompt.sh")"
+    PS1="$("${HOME}/.dotfiles/.bash/prompt.sh")"
 }
 PROMPT_COMMAND=update_prompt
