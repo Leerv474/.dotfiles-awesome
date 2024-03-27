@@ -21,10 +21,10 @@
    XF86AudioLowerVolume
 
 ## INFO: BRIGHTNESS CONTROL
-"light -A 5"
+"~/.dotfiles/scripts/brightness.sh +"
     XF86MonBrightnessUp
 
-"light -U 5"
+"~/.dotfiles/scripts/brightness.sh -"
     XF86MonBrightnessDown
 
 ##INFO: SCREENSHOTS

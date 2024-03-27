@@ -22,3 +22,9 @@ vim.keymap.set("v", "<leader>d", '"_d')
 vim.keymap.set("v", "<leader>y", '"+y')
 
 vim.api.nvim_set_keymap("x", "p", '"_dP', { noremap = true })
+
+-- better panes navigation
+vim.keymap.set("n", "<C-k>", ":wincmd k<CR>")
+vim.keymap.set("n", "<C-j>", ":wincmd j<CR>")
+vim.keymap.set("n", "<C-h>", ":wincmd h<CR>")
+vim.keymap.set("n", "<C-l>", ":wincmd l<CR>")
