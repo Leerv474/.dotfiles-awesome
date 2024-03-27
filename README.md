@@ -11,4 +11,16 @@ Includes:
 - [bash](https://github.com/Leerv474/.dotfiles/tree/master/.bash) (pure)
 
 
-ensure install of ripgrep for telescope in neovim
+Ensure to install:
+- picom
+- polybar
+- rofi
+- ripgrep
+- brightnessctl
+- xbindkeys
+- btop
+- nvim
+- lf
+- kitty
+- tmux
+- zsh / bash

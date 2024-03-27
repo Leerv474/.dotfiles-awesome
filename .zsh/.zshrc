@@ -16,10 +16,9 @@ export LC_ALL=en_US.UTF-8
 eval "$(zoxide init --cmd cd zsh)"
 ### ALIASES
 # scripts
-alias psd="${HOME}/.dotfiles/.bash/scripts/psd.sh"
-alias trash="${HOME}/.dotfiles/.bash/scripts/trash.sh"
-alias volume="${HOME}/.dotfiles/.bash/scripts/volume.sh"
-alias quick-git="${HOME}/.dotfiles/.bash/scripts/quick-git.sh"
+alias psd="${HOME}/.dotfiles/scripts/psd.sh"
+alias trash="${HOME}/.dotfiles/scripts/trash.sh"
+alias quick-git="${HOME}/.dotfiles/scripts/quick-git.sh"
 
 ### INFO: for freeglut
 glut-compile() {
@@ -102,7 +101,7 @@ unsetopt BEEP
 zstyle ':completion:*' menu select completer _history
 
 precmd() {
-    source ~/.dotfiles/.zsh/scripts/prompt.zsh
+    source ~/.dotfiles/.zsh/prompt.zsh
 }
 source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source ~/.dotfiles/.zsh/catppuccin_mocha-zsh-syntax-highlighting.zsh
