@@ -239,9 +239,6 @@ globalkeys = gears.table.join(
 	awful.key({ modkey }, "k", function()
 		awful.client.focus.byidx(-1)
 	end, { description = "focus previous by index", group = "client" }),
-	awful.key({ modkey }, "w", function()
-		awful.util.spawn("rofi -show window")
-	end, { description = "rofi show windows", group = "rofi" }),
 
 	-- Layout manipulation
 	awful.key({ modkey, "Shift" }, "j", function()

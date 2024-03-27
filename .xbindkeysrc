@@ -6,7 +6,8 @@
 # Version: 1.8.7
 #
 
-## VOLUME CONTROL
+# INFO: VOLUME CONTROL
+#
 # Use XF86AudioMute to mute volume
 "pactl set-sink-mute 0 toggle"
    XF86AudioMute
@@ -19,12 +20,16 @@
 "pactl set-sink-volume 0 -5%"
    XF86AudioLowerVolume
 
-## SPECIAL BINDINGS
-"flameshot screen"
-   XF86Tools
+## INFO: BRIGHTNESS CONTROL
+"light -A 5"
+    XF86MonBrightnessUp
 
+"light -U 5"
+    XF86MonBrightnessDown
+
+##INFO: SCREENSHOTS
 "flameshot gui"
-   Control + Shift + s
+    Control + Shift + s
 ##################################
 # End of xbindkeys configuration #
 ##################################
