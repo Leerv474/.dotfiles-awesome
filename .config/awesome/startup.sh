@@ -15,6 +15,7 @@ if [[ $(xrandr -q | grep -w 'DP-1 connected') ]]; then
     xrandr --output eDP-1 --off &
     xrandr --output DP-1 --auto &
     xrandr -r 75 &
+    polybar main &
 fi
 if [[ $(xrandr -q | grep -w 'DP-1 disconnected') ]]; then
     xrandr --output eDP-1 --mode 1920x1080 --rate 70 &

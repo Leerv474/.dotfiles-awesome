@@ -10,15 +10,15 @@
 #
 # Use XF86AudioMute to mute volume
 "pactl set-sink-mute 0 toggle"
-   XF86AudioMute
+    XF86AudioMute
 
 # Use XF86AudioRaiseVolume to raise volume
 "pactl set-sink-volume 0 +5%"
-   XF86AudioRaiseVolume
+    XF86AudioRaiseVolume
 
 # Use XF86AudioLowerVolume to lower volume
 "pactl set-sink-volume 0 -5%"
-   XF86AudioLowerVolume
+    XF86AudioLowerVolume
 
 ## INFO: BRIGHTNESS CONTROL
 "~/.dotfiles/scripts/brightness.sh +"

@@ -31,6 +31,7 @@
         <entry encoding="base64">cmVhZGVy</entry>
         <entry encoding="base64">ag==</entry>
         <entry encoding="base64">YW1pbg==</entry>
+        <entry encoding="base64">cmVzdWx0</entry>
         <entry encoding="base64">bWFpbg==</entry>
       </history-search>
       <history-cmd>
@@ -52,8 +53,8 @@
         <entry encoding="base64">YWN0aW9u</entry>
         <entry encoding="base64">YWN0aW9uIE5ld0phdmFDbGFzcw==</entry>
         <entry encoding="base64">YWN0aW9uIEphdmFDbGFzcw==</entry>
-        <entry encoding="base64">cQ==</entry>
         <entry encoding="base64">JzwsJz5zL2ovaS8=</entry>
+        <entry encoding="base64">cQ==</entry>
         <entry encoding="base64">dw==</entry>
       </history-cmd>
       <history-expr />
@@ -303,16 +304,13 @@
     <project id="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding">
       <jump line="2" column="12" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
       <jump line="12" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
-      <jump line="13" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
       <jump line="1" column="0" filename="$USER_HOME$/.ideavimrc" />
-      <jump line="4" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
       <jump line="41" column="27" filename="$USER_HOME$/.ideavimrc" />
       <jump line="43" column="23" filename="$USER_HOME$/.ideavimrc" />
       <jump line="28" column="0" filename="$USER_HOME$/.ideavimrc" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
       <jump line="6" column="17" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
       <jump line="4" column="17" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
-      <jump line="5" column="30" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
       <jump line="16" column="21" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
       <jump line="21" column="21" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
       <jump line="17" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
@@ -323,6 +321,52 @@
       <jump line="7" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
       <jump line="24" column="21" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
       <jump line="30" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="13" column="102" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="35" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="0" column="28" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Sum.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Sum.java" />
+      <jump line="5" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="14" column="26" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Sum.java" />
+      <jump line="17" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Sum.java" />
+      <jump line="2" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Sum.java" />
+      <jump line="47" column="30" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="22" column="30" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="16" column="20" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Sum.java" />
+      <jump line="61" column="26" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="33" column="13" filename="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/lang/ArrayIndexOutOfBoundsException.java" />
+      <jump line="4" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="48" column="50" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+    </project>
+    <project id="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized">
+      <jump line="8" column="46" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="4" column="110" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="18" column="18" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="8" column="19" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="5" column="10" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="12" column="95" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="15" column="11" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="21" column="41" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="25" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="34" column="7" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="27" column="22" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="14" column="24" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="40" column="7" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="1" column="3" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/SyncSortList.java" />
+      <jump line="25" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="3" column="6" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/SyncSortList.java" />
+      <jump line="7" column="34" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/SyncSortList.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/SyncSortList.java" />
+      <jump line="15" column="66" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/SyncSortList.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="16" column="12" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/SyncSortList.java" />
+      <jump line="39" column="31" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
     </project>
   </component>
   <component name="VimMarksSettings">
@@ -334,6 +378,13 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" timestamp="1711628764597">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="22" />
+        <mark key="^" line="27" column="23" />
+      </file>
       <file name="/Dummy.txt" timestamp="1710943692163">
         <mark key="&quot;" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -341,20 +392,8 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text1.txt" timestamp="1710942536045">
-        <mark key="&quot;" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/sun/nio/cs/StreamEncoder.java" timestamp="1711037290450">
         <mark key="&quot;" line="232" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text4.txt" timestamp="1710943579758">
-        <mark key="&quot;" line="0" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/nio/file/Files.java" timestamp="1710942023077">
-        <mark key="&quot;" line="3266" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" timestamp="1710953713634">
         <mark key="&quot;" line="1" column="10" />
@@ -375,14 +414,6 @@
         <mark key="^" line="91" column="46" />
         <mark key="." line="91" column="45" />
       </file>
-      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Threads/src/Main.java" timestamp="1710873138765">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-      </file>
-      <file name="/" timestamp="1710872152256">
-        <mark key="&quot;" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/.ideavimrc" timestamp="1711385065415">
         <mark key="&quot;" line="43" column="0" />
         <mark key="'" line="1" column="0" />
@@ -391,19 +422,30 @@
         <mark key="." line="43" column="0" />
         <mark key="^" line="42" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" timestamp="1711386762637">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="29" column="4" />
-        <mark key="]" line="33" column="82" />
-        <mark key="." line="33" column="81" />
-        <mark key="^" line="33" column="82" />
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" timestamp="1711563838188">
+        <mark key="&quot;" line="63" column="30" />
+        <mark key="'" line="63" column="26" />
+        <mark key="[" line="44" column="42" />
+        <mark key="]" line="44" column="38" />
+        <mark key="." line="44" column="37" />
+        <mark key="^" line="44" column="38" />
       </file>
-      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text.txt" timestamp="1710942734604">
-        <mark key="&quot;" line="4" column="0" />
-        <mark key="[" line="4" column="107" />
-        <mark key="]" line="4" column="107" />
-        <mark key="^" line="4" column="0" />
-        <mark key="." line="4" column="107" />
+      <file name="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/lang/ArrayIndexOutOfBoundsException.java" timestamp="1711563648995">
+        <mark key="&quot;" line="33" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/SyncSortList.java" timestamp="1711630262238">
+        <mark key="'" line="4" column="6" />
+        <mark key="[" line="16" column="12" />
+        <mark key="]" line="16" column="19" />
+        <mark key="." line="16" column="18" />
+        <mark key="^" line="16" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Sum.java" timestamp="1711563189281">
+        <mark key="'" line="2" column="15" />
+        <mark key="[" line="16" column="20" />
+        <mark key="]" line="16" column="20" />
+        <mark key="." line="16" column="20" />
+        <mark key="^" line="17" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" timestamp="1710953711887">
         <mark key="&quot;" line="117" column="19" />
@@ -416,11 +458,24 @@
       <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/test" timestamp="1711384516872">
         <mark key="&quot;" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" timestamp="1711630770298">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="61" column="4" />
+        <mark key="]" line="62" column="12" />
+        <mark key="." line="62" column="11" />
+        <mark key="^" line="62" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" timestamp="1711386521514">
         <mark key="'" line="24" column="0" />
         <mark key="[" line="20" column="35" />
         <mark key="]" line="20" column="35" />
         <mark key="." line="20" column="35" />
+      </file>
+      <file name="/fragment.java" timestamp="1711630695948">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" timestamp="1711038652905">
         <mark key="&quot;" line="4" column="4" />
@@ -435,49 +490,49 @@
   <component name="VimRegisterSettings">
     <registers>
       <register name="&quot;" type="LINE_WISE">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCB0YXNrMSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="+" type="LINE_WISE">
-        <text encoding="base64">aW1wb3J0IGphdmF4Lm5hbWluZy5QYXJ0aWFsUmVzdWx0RXhjZXB0aW9uOwoKcHVibGljIGNsYXNzIFBhcmFsbGVsU2VhcmNoIGltcGxlbWVudHMgUnVubmFibGV7CiAgICBwcml2YXRlIGludFtdIGFycmF5OwogICAgcHJpdmF0ZSBpbnRbXSByZXN1bHQ7CiAgICBwdWJsaWMgUGFyYWxsZWxTZWFyY2goaW50W10gYXJyYXkpIHsKICAgICAgICB0aGlzLmFycmF5ID0gYXJyYXk7CiAgICB9CiAgICBwdWJsaWMgaW50W10gc2VhcmNoQXJyYXkoKSB7CiAgICAgICAgaW50IG1pbiA9IEludGVnZXIuTUFYX1ZBTFVFOwogICAgICAgIGludCBtYXggPSBJbnRlZ2VyLk1JTl9WQUxVRTsKICAgICAgICBmb3IgKGludCBpIDogYXJyYXkpIHsKICAgICAgICAgICAgbWluID0gSW50ZWdlci5taW4oaSwgbWluKTsKICAgICAgICAgICAgbWF4ID0gSW50ZWdlci5tYXgoaSwgbWF4KTsKICAgICAgICB9CiAgICAgICAgcmV0dXJuIG5ldyBpbnRbXXttaW4sIG1heH07CiAgICB9CiAgICBwdWJsaWMgdm9pZCBydW4oKSB7CiAgICAgICAgcmVzdWx0ID0gc2VhcmNoQXJyYXkoKTsKICAgIH0KICAgIHB1YmxpYyBmaW5hbCBpbnRbXSBnZXRSZXN1bHQoKSB7CiAgICAgICAgcmV0dXJuIHJlc3VsdDsKICAgIH0KfQo=</text>
+        <text encoding="base64">ICAgICAgICBmb3IgKFRocmVhZCB0aHJlYWQgOiB0aHJlYWRzKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICB0aHJlYWQuam9pbigpOwogICAgICAgICAgICB9IGNhdGNoIChJbnRlcnJ1cHRlZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="CHARACTER_WISE">
-        <text encoding="base64">c3RhcnQ=</text>
+        <text encoding="base64">MQ==</text>
       </register>
       <register name="." type="CHARACTER_WISE">
-        <text encoding="base64">Ly9UT0RPOiDQl9Cw0LTQsNGH0LAgMi4g0KHRg9C80LzQsCDRjdC70LXQvNC10L3RgtC+0LIg0LIg0LzQsNGB0YHQuNCy0LU6CiAgICAvLyAgICDigKIg0KHQvtC30LTQsNC50YLQtSDQvNCw0YHRgdC40LIg0YbQtdC70YvRhSDRh9C40YHQtdC7LgogICAgLy8gICAg4oCiINCg0LDQt9C00LXQu9C40YLQtSDQtdCz0L4g0L3QsCDQvdC10YHQutC+0LvRjNC60L4g0YfQsNGB0YLQtdC5LgogICAgLy8gICAg4oCiINCh0L7Qt9C00LDQudGC0LUg0L3QtdGB0LrQvtC70YzQutC+INC/0L7RgtC+0LrQvtCyINC00LvRjyDQstGL0YfQuNGB0LvQtdC90LjRjyDRgdGD0LzQvNGLINGN0LvQtdC80LXQvdGC0L7QsiDQsiDQutCw0LbQtNC+0Lkg0YfQsNGB0YLQuCDQvNCw0YHRgdC40LLQsC4KICAgIC8vICAgIOKAoiDQodGD0LzQvNC40YDRg9C50YLQtSDRgNC10LfRg9C70YzRgtCw0YLRiyDQstGL0YfQuNGB0LvQtdC90LjQuSDQutCw0LbQtNC+0LPQviDQv9C+0YLQvtC60LAg0Lgg0LLQtdGA0L3QuNGC0LUg0L7QsdGJ0YPRjiDRgdGD0LzQvNGDLg==</text>
+        <text encoding="base64">Ly9URE9ETzog</text>
       </register>
       <register name="/" type="CHARACTER_WISE">
         <text encoding="base64">bWFpbg==</text>
       </register>
       <register name="0" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBzZWFyY2gxLnJ1bigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oc3VtMS5nZXRSZXN1bHQoKSk7Cg==</text>
       </register>
       <register name="1" type="LINE_WISE">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCB0YXNrMSgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICB0YXNrMSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="LINE_WISE">
-        <text encoding="base64">ICAgIHB1YmxpYyBmaW5hbCBpbnRbXSBnZXRSZXN1bHQoKSBjb25zdCB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBUaHJlYWQgdGhyZWFkOwo=</text>
       </register>
       <register name="4" type="LINE_WISE">
-        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0TGVuZ3RoKCkgY29uc3QgewogICAgICAgIAogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="LINE_WISE">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="LINE_WISE">
-        <text encoding="base64">CiAgICB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBzCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm47Cg==</text>
       </register>
       <register name="8" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IG51bWJlcnMubGVuZ3RoLwo=</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5MaW5rZWRMaXN0Owo=</text>
       </register>
       <register name="9" type="LINE_WISE">
-        <text encoding="base64">ICAgICAgICBpbnRbXSBudW1iZXJzID0gezU1LCA3MiwgMTQsIDM5LCA5MSwgMjcsIDY4LCA1LCA4MywgMjAsIDQ3LCAzLCA2NiwgOTgsIDEyLCA3NiwgMjUsIDU5LCAzNiwgODB9OwogICAgICAgIGludCBoYWxmTGVuZ3RoID0gbnVtYmVycy5sZW5ndGggLyAyOwogICAgICAgIGludFtdIGhhbGYxID0gbmV3IGludFtudW1iZXJzLmxlbmd0aCAvIDJdOwogICAgICAgIGludFtdIGhhbGYyID0gbmV3IGludFtudW1iZXJzLmxlbmd0aCAvIDJdOwogICAgICAgIGZvciAoaW50IGkgPSAwOyBpIDwgbnVtYmVycy5sZW5ndGgvCg==</text>
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5yYW5kb20uKjsK</text>
       </register>
       <register name=":" type="CHARACTER_WISE">
         <text encoding="base64">dw==</text>

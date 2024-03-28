@@ -552,7 +552,7 @@ end)
 -- }}}
 
 -- Customization
-beautiful.useless_gap = 2
+beautiful.useless_gap = 3
 beautiful.border_focus = "#89b4fa"
 
 -- Autostart Awesome

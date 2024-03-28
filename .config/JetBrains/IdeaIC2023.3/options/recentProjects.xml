@@ -101,22 +101,38 @@
         <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding">
           <value>
             <RecentProjectMetaInfo frameTitle="Multithreding – Main.java" opened="true" projectWorkspaceId="2eBTS6sJShJLFISB8Sy9fKjgh6B">
-              <option name="activationTimestamp" value="1711387252467" />
+              <option name="activationTimestamp" value="1711563848216" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-233.14808.21" />
-              <option name="buildTimestamp" value="1710362280000" />
+              <option name="build" value="IC-233.15026.9" />
+              <option name="buildTimestamp" value="1711100580000" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="5" />
               </option>
+              <frame x="4" y="36" width="1912" height="1040" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1711561941659" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Synchronized – SyncSortList.java" opened="true" projectWorkspaceId="2eJINNLPHLlJToOMG7KvhvQkJbf">
+              <option name="activationTimestamp" value="1711631276093" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-233.15026.9" />
+              <option name="buildTimestamp" value="1711100580000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
               <frame x="6" y="38" width="1908" height="1036" />
               <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1711384908850" />
+              <option name="projectOpenTimestamp" value="1711625986408" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized" />
     <option name="lastProjectLocation" value="$USER_HOME$/Documents/LeeRV-JAVA314/HW" />
   </component>
 </application>
