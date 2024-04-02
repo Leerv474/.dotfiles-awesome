@@ -15,4 +15,4 @@ vim.g.mapleader = " "
 require("config.set")
 require("config.remap")
 require("lazy").setup("plugins")
-require("config.plugins_keymaps")
+require("config.keymaps")
