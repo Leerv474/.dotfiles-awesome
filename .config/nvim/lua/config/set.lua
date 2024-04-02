@@ -6,9 +6,13 @@ vim.opt.relativenumber = true
 vim.opt.tabstop = 4
 vim.opt.softtabstop = 4
 vim.opt.shiftwidth = 4
+vim.opt.autoindent = true
 vim.opt.smartindent = true
 vim.opt.showtabline = 0
 vim.opt.mouse = ""
+
+vim.opt.showcmd = true
+vim.opt.cmdheight = 1
 
 vim.wo.cursorline = true
 
@@ -46,7 +50,7 @@ vim.cmd([[
 
 vim.api.nvim_create_autocmd("TextYankPost", {
 	group = vim.api.nvim_create_augroup("highlight_yank", {}),
-	desc = "Hightlight selection on yank",
+	desc = "Highlight selection on yank",
 	pattern = "*",
 	callback = function()
 		vim.highlight.on_yank({ higroup = "IncSearch", timeout = 300 })
@@ -55,3 +59,6 @@ vim.api.nvim_create_autocmd("TextYankPost", {
 
 vim.g.omni_sql_no_default_maps = 1
 
+-- spellchecking
+vim.opt.spelllang = 'en_us'
+vim.opt.spell = true
