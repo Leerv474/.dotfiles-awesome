@@ -28,12 +28,14 @@ glut-compile() {
 # directories
 alias bmstu="cd ~/Documents/bmstu"
 alias downloads="cd ~/Downloads"
-alias documents="cd ~/Documents"
-alias javacourse="cd ~/Documents/LeeRV-JAVA314"
+alias docs="cd ~/Documents"
+alias course="cd ~/Documents/LeeRV-JAVA314"
 alias config="cd ~/.config"
 alias home="cd ~"
 alias dotfiles="cd ~/.dotfiles"
-alias projects="cd ~/Documents/Projects"
+alias projects="cd ~/Documents/projects"
+alias practice="cd ~/Documents/practice"
+alias notes="cd ~/Documents/Notes"
 
 # directory management
 alias la='ls -lahq --color=auto --no-group'
@@ -64,6 +66,7 @@ neovim() {
 alias nvim="neovim"
 alias vim="neovim"
 alias nv="neovim"
+alias v="neovim"
 
 cdmkdir() {
     mkdir "$1"
