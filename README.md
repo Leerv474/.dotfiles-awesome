@@ -24,3 +24,4 @@ Ensure to install:
 - kitty
 - tmux
 - zsh / bash
+- pulse audio
