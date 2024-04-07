@@ -12,6 +12,7 @@ promptinit
 
 
 export LC_ALL=en_US.UTF-8
+export EDITOR=nvim
 
 eval "$(zoxide init --cmd cd zsh)"
 ### ALIASES
@@ -29,7 +30,7 @@ glut-compile() {
 alias bmstu="cd ~/Documents/bmstu"
 alias downloads="cd ~/Downloads"
 alias docs="cd ~/Documents"
-alias course="cd ~/Documents/LeeRV-JAVA314"
+alias courses="cd ~/Documents/LeeRV-JAVA314"
 alias config="cd ~/.config"
 alias home="cd ~"
 alias dotfiles="cd ~/.dotfiles"
