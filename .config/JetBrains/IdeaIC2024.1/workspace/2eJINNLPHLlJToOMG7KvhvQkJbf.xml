@@ -1,0 +1,165 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Synchronized" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="186">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SyncSortList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="317">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ParallelCollectionSearch.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="775">
+              <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="9" lastUsed="1712074920082" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/ParallelCollectionSearch.java" />
+      <option value="$PROJECT_DIR$/src/SyncSortList.java" />
+      <option value="$PROJECT_DIR$/src/Main.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="9" lastUsage="1712074920082" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Pull Requests" weight="0.33025342" />
+      <window_info content_ui="combo" id="Project" internal_type="SLIDING" order="0" type="SLIDING" weight="0.33044165" />
+      <window_info id="Commit" order="1" weight="0.33025342" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.33025342" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32990196" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32961166" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" weight="0.32961166" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <unified_weights bottom="0.32961166" left="0.33044165" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="557" y="253" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1711616229603">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="557" y="253" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1711616229603" />
+    <state width="1836" height="307" key="GridCell.Tab.0.bottom" timestamp="1711631276086">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1711631276086" />
+    <state width="1836" height="307" key="GridCell.Tab.0.center" timestamp="1711631276085">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="307" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1711631276085" />
+    <state width="1836" height="307" key="GridCell.Tab.0.left" timestamp="1711631276084">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="307" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1711631276084" />
+    <state width="1836" height="307" key="GridCell.Tab.0.right" timestamp="1711631276086">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="307" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1711631276086" />
+    <state x="693" y="264" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1711630775466">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="264" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1711630775466" />
+    <state x="623" y="261" width="718" height="681" key="search.everywhere.popup" timestamp="1711631189846">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="261" width="718" height="681" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1711631189846" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ParallelCollectionSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="775">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SyncSortList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

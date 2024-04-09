@@ -1,0 +1,153 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Files" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="JAVA">
+      <summary usageCount="2" lastUsed="1710782953415" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="2" lastUsed="1710782954323" />
+    </fileType>
+    <fileType name="textmate">
+      <summary usageCount="1" lastUsed="1710782982462" />
+    </fileType>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>data/txt</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src</dir>
+    </dirStrings>
+  </component>
+  <component name="FindInProjectScope">
+    <option name="directoryName" value="$PROJECT_DIR$/src" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/data/data.txt" />
+      <option value="$PROJECT_DIR$/src/Main.java" />
+      <option value="$USER_HOME$/.ideavimrc" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="2" lastUsage="1710782953418" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="2" lastUsage="1710782954323" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1710782982462" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" side_tool="true" weight="0.33025342" />
+      <window_info auto_hide="true" content_ui="combo" id="Project" internal_type="SLIDING" order="0" type="SLIDING" weight="0.33025342" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Find" weight="0.32990196" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32990196" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.32990196" left="0.33025342" />
+    </layoutV2>
+    <recentWindows>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Find</value>
+      <value>Bookmarks</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1828" height="304" key="GridCell.Tab.0.bottom" timestamp="1710440960229">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1828" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710440960229" />
+    <state width="1828" height="304" key="GridCell.Tab.0.center" timestamp="1710440960227">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1828" height="304" key="GridCell.Tab.0.center/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710440960227" />
+    <state width="1828" height="304" key="GridCell.Tab.0.left" timestamp="1710440960226">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1828" height="304" key="GridCell.Tab.0.left/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710440960226" />
+    <state width="1828" height="304" key="GridCell.Tab.0.right" timestamp="1710440960228">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1828" height="304" key="GridCell.Tab.0.right/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710440960228" />
+    <state x="443" y="204" key="SettingsEditor" timestamp="1710433173095">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="443" y="204" key="SettingsEditor/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710433173095" />
+    <state x="702" y="182" width="662" height="786" key="find.popup" timestamp="1710782976672">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="702" y="182" width="662" height="786" key="find.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1710782976672" />
+    <state x="621" y="258" key="run.anything.popup" timestamp="1710433471838">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="621" y="258" key="run.anything.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710433471838" />
+    <state x="623" y="264" width="744" height="701" key="search.everywhere.popup" timestamp="1710433469848">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="264" width="744" height="701" key="search.everywhere.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1710433469848" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/data.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="11" selection-start-column="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="20" column="45" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#130#131#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.ideavimrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="40" column="43" selection-start-line="40" selection-start-column="43" selection-end-line="40" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

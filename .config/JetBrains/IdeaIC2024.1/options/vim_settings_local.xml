@@ -1,0 +1,776 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search>
+        <entry encoding="base64">RmlsZQ==</entry>
+        <entry encoding="base64">ZnVsbA==</entry>
+        <entry encoding="base64">ZGlyUGF0aA==</entry>
+        <entry encoding="base64">bmFtZQ==</entry>
+        <entry encoding="base64">b3V0</entry>
+        <entry encoding="base64">Zm9sbG93cw==</entry>
+        <entry encoding="base64">aXMuRG9jdW1lbnQ=</entry>
+        <entry encoding="base64">Y3JlYXRlRmlsZQ==</entry>
+        <entry encoding="base64">Z2V0Q3JlYXRpb25n</entry>
+        <entry encoding="base64">Z2V0Q3JlYXRvaW5n</entry>
+        <entry encoding="base64">Z2V0</entry>
+        <entry encoding="base64">bmV4dFBhZ2U=</entry>
+        <entry encoding="base64">YXBwZW5kRG9jdW1ldA==</entry>
+        <entry encoding="base64">YXBwZW5kRG9j</entry>
+        <entry encoding="base64">c3Vicw==</entry>
+        <entry encoding="base64">ZWRpdERvY3VtZW50</entry>
+        <entry encoding="base64">ZmlsZXdyaXQ=</entry>
+        <entry encoding="base64">c2F2ZQ==</entry>
+        <entry encoding="base64">c3RhcnQ=</entry>
+        <entry encoding="base64">b3Blbg==</entry>
+        <entry encoding="base64">Y3JlYXRl</entry>
+        <entry encoding="base64">cHJpbnREb2N1bWVudA==</entry>
+        <entry encoding="base64">Mg==</entry>
+        <entry encoding="base64">dGFzazM=</entry>
+        <entry encoding="base64">cmVhZGVy</entry>
+        <entry encoding="base64">ag==</entry>
+        <entry encoding="base64">YW1pbg==</entry>
+        <entry encoding="base64">cmVzdWx0</entry>
+        <entry encoding="base64">bWFpbg==</entry>
+        <entry encoding="base64">aGVsbG9MYWJlbA==</entry>
+        <entry encoding="base64">dXNlcmlk</entry>
+        <entry encoding="base64">dXNlclBhbmVs</entry>
+        <entry encoding="base64">dXNlcm5hbWU=</entry>
+        <entry encoding="base64">dmFsdWU=</entry>
+        <entry encoding="base64">0L/QvtC60LDQt9Cw0L3QuNGP</entry>
+        <entry encoding="base64">c2E=</entry>
+        <entry encoding="base64">YWRkRGF0YQ==</entry>
+        <entry encoding="base64">bmV3SWQ=</entry>
+        <entry encoding="base64">cys=</entry>
+        <entry encoding="base64">ZWRpdA==</entry>
+        <entry encoding="base64">cmVhZA==</entry>
+        <entry encoding="base64">ZWRpdGRvY3VtZQ==</entry>
+        <entry encoding="base64">YWdl</entry>
+        <entry encoding="base64">ZXdvcg==</entry>
+        <entry encoding="base64">ZXdvcms=</entry>
+        <entry encoding="base64">bXlkYQ==</entry>
+        <entry encoding="base64">ZGF0ZQ==</entry>
+        <entry encoding="base64">Y2FzaGllcg==</entry>
+        <entry encoding="base64">c3RlYW0=</entry>
+      </history-search>
+      <history-cmd>
+        <entry encoding="base64">JzwsJz5zL0ZpbGUvRmlsZVJlYWRlci9n</entry>
+        <entry encoding="base64">VGVsZXNjb3BlIGZpbmRfZmlsZXM=</entry>
+        <entry encoding="base64">ZQ==</entry>
+        <entry encoding="base64">c3BsaXQ=</entry>
+        <entry encoding="base64">c3BsaXQgcmlnaHQ=</entry>
+        <entry encoding="base64">cnNwbGl0</entry>
+        <entry encoding="base64">Ync=</entry>
+        <entry encoding="base64">c2F2ZQ==</entry>
+        <entry encoding="base64">JzwsJz5zLzIvMy9n</entry>
+        <entry encoding="base64">JzwsJz5zLzIvNC9n</entry>
+        <entry encoding="base64" />
+        <entry encoding="base64">c291cmNl</entry>
+        <entry encoding="base64">YWN0aW9ubGlzdA==</entry>
+        <entry encoding="base64">YWN0aW9u</entry>
+        <entry encoding="base64">YWN0aW9uIE5ld0phdmFDbGFzcw==</entry>
+        <entry encoding="base64">YWN0aW9uIEphdmFDbGFzcw==</entry>
+        <entry encoding="base64">JzwsJz5zL2ovaS8=</entry>
+        <entry encoding="base64">JzwsJz5zL2hlbGxvTGFiZWwvdXNlckxhYmxlL2c=</entry>
+        <entry encoding="base64">JzwsJz5zL2hlbGxvTGFiZWwvZGF0ZUxhYmVsL2c=</entry>
+        <entry encoding="base64">cy9jYXNoaWVyL0ZhY2lsaXRpZXNTdGFmZi9n</entry>
+        <entry encoding="base64">cy9jYXNoaWVyL0ludmVudG9yeU1hbmFnZXIvZw==</entry>
+        <entry encoding="base64">cy9jYXNoaWVyL01hbmFnZXIvZw==</entry>
+        <entry encoding="base64">Vw==</entry>
+        <entry encoding="base64">d3E=</entry>
+        <entry encoding="base64">cQ==</entry>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda">
+      <jump line="2" column="13" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Main.java" />
+      <jump line="6" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Main.java" />
+      <jump line="3" column="39" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Main.java" />
+      <jump line="5" column="28" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Robot.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Robot.java" />
+      <jump line="44" column="27" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Robot.java" />
+      <jump line="39" column="34" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Robot.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Robot.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Robot.java" />
+      <jump line="29" column="7" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Robot.java" />
+      <jump line="2" column="12" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Direction.java" />
+      <jump line="21" column="27" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Direction.java" />
+      <jump line="26" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Robot.java" />
+      <jump line="4" column="38" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Main.java" />
+      <jump line="5" column="37" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Main.java" />
+      <jump line="105" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Robot.java" />
+      <jump line="46" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Robot.java" />
+      <jump line="47" column="16" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Robot.java" />
+      <jump line="8" column="24" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Main.java" />
+      <jump line="65" column="1" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda/src/Robot/Robot.java" />
+    </project>
+    <project id="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files">
+      <jump line="3" column="42" filename="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files/src/Main.java" />
+      <jump line="7" column="40" filename="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files/src/Main.java" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files/src/Main.java" />
+      <jump line="4" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files/src/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files/src/Main.java" />
+      <jump line="11" column="31" filename="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files/src/Main.java" />
+      <jump line="18" column="21" filename="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files/src/Main.java" />
+      <jump line="0" column="11" filename="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files/data/data.txt" />
+      <jump line="21" column="33" filename="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files/src/Main.java" />
+      <jump line="20" column="45" filename="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files/src/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
+    </project>
+    <project id="$USER_HOME$/Documents/Projects/comics-store-project/Project">
+      <jump line="176" column="16" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="169" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="134" column="39" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="107" column="75" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="114" column="31" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="177" column="39" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="93" column="39" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="172" column="36" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="181" column="51" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="136" column="9" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="179" column="38" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="1651" column="18" filename="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/Scanner.java" />
+      <jump line="142" column="12" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="148" column="8" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="146" column="45" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="145" column="40" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="144" column="28" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="140" column="18" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="14" column="14" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="94" column="40" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="95" column="38" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="103" column="16" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="125" column="16" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="126" column="33" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="96" column="39" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="106" column="47" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="105" column="20" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="214" column="8" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="209" column="32" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="212" column="16" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="183" column="72" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="187" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="30" column="16" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="117" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="73" column="16" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="4" column="13" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="1" column="15" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="11" column="8" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="4" column="23" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="25" column="12" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="111" column="11" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="20" column="12" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="31" column="22" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="35" column="32" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="238" column="21" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="225" column="31" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="7" column="4" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" />
+      <jump line="17" column="144" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="28" column="32" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="68" column="35" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="64" column="46" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="19" column="29" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/newFile.txt" />
+      <jump line="31" column="8" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="23" column="24" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="78" column="40" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="63" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="90" column="17" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="37" column="25" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="38" column="22" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="118" column="15" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="98" column="51" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="1" column="10" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/data/test.txt" />
+      <jump line="123" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="92" column="64" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="119" column="16" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="165" column="10" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="91" column="4" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="56" column="24" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="22" column="15" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="79" column="31" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="85" column="58" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="102" column="46" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="36" column="32" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="112" column="17" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="124" column="12" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="152" column="12" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="206" column="12" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="44" column="15" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="21" column="29" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="16" column="26" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="18" column="29" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="54" column="14" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="55" column="12" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="26" column="15" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="23" column="21" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="259" column="23" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="33" column="36" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="16" column="26" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="104" column="19" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="100" column="16" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="70" column="24" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="72" column="8" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="125" column="26" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="136" column="0" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="8" column="22" filename="$USER_HOME$/Documents/Projects/comics-store-project/Project/src/Main.java" />
+    </project>
+    <project id="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream">
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="8" column="28" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Person.java" />
+      <jump line="4" column="23" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="7" column="47" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="21" column="51" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="18" column="26" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Person.java" />
+      <jump line="5" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="187" column="31" filename="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/stream/ReferencePipeline.java" />
+      <jump line="44" column="46" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="46" column="32" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="17" column="26" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Person.java" />
+      <jump line="80" column="7" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/data/data.txt" />
+      <jump line="83" column="25" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="85" column="48" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="84" column="48" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="87" column="42" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="92" column="29" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/data/data.txt" />
+      <jump line="94" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="101" column="22" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="105" column="20" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="22" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="111" column="16" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="32" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="104" column="85" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream/src/Main.java" />
+      <jump line="1083" column="47" filename="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/stream/IntStream.java" />
+    </project>
+    <project id="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files">
+      <jump line="18" column="45" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="40" column="34" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="6" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text.txt" />
+      <jump line="16" column="47" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="25" column="23" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="56" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="63" column="47" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="60" column="46" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="67" column="28" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="7" column="33" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="79" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="9" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text.txt" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="73" column="41" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="80" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="91" column="12" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="94" column="10" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="93" column="31" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="96" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="95" column="31" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="3266" column="25" filename="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/nio/file/Files.java" />
+      <jump line="103" column="54" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="113" column="23" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="88" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="12" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="62" column="27" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text4.txt" />
+      <jump line="106" column="36" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text4.txt" />
+      <jump line="105" column="36" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="120" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="110" column="37" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="112" column="16" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text4.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text3.txt" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text4.txt" />
+      <jump line="123" column="49" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="124" column="26" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text1.txt" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text4.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text2.txt" />
+      <jump line="59" column="26" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="97" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="130" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="131" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text.txt" />
+      <jump line="74" column="31" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="72" column="35" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="87" column="52" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="2" column="58" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/data/text.txt" />
+      <jump line="86" column="22" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="261" column="14" filename="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/io/OutputStreamWriter.java" />
+      <jump line="85" column="20" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files/src/Main.java" />
+      <jump line="265" column="14" filename="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/io/OutputStreamWriter.java" />
+      <jump line="227" column="17" filename="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/sun/nio/cs/StreamEncoder.java" />
+    </project>
+    <project id="$USER_HOME$/Documents/projects/comics-store-project">
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/README.md" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/README.md" />
+      <jump line="5" column="15" filename="$USER_HOME$/Documents/projects/comics-store-project/README.md" />
+      <jump line="9" column="51" filename="$USER_HOME$/Documents/projects/comics-store-project/README.md" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/README.md" />
+      <jump line="7" column="13" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/out/production/Project/Main.class" />
+      <jump line="12" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/out/production/Project/Main.class" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/out/production/Project/Main.class" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/out/production/Project/Main.class" />
+      <jump line="3" column="1" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/out/production/Project/Main.class" />
+    </project>
+    <project id="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding">
+      <jump line="2" column="12" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="12" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="41" column="27" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="43" column="23" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="28" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="6" column="17" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="4" column="17" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="16" column="21" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="21" column="21" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="17" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="20" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="15" column="41" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="7" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="24" column="21" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="30" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="13" column="102" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="35" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="0" column="28" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Sum.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Sum.java" />
+      <jump line="5" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/ParallelSearch.java" />
+      <jump line="14" column="26" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Sum.java" />
+      <jump line="17" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Sum.java" />
+      <jump line="2" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Sum.java" />
+      <jump line="47" column="30" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="22" column="30" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="16" column="20" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Sum.java" />
+      <jump line="61" column="26" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="33" column="13" filename="$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/lang/ArrayIndexOutOfBoundsException.java" />
+      <jump line="4" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+      <jump line="48" column="50" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding/src/Main.java" />
+    </project>
+    <project id="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized">
+      <jump line="8" column="46" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="4" column="110" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="18" column="18" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="15" column="13" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="8" column="19" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="5" column="10" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="12" column="95" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="15" column="11" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="21" column="41" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="25" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="34" column="7" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="27" column="22" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="14" column="24" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="41" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="40" column="7" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="1" column="3" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/SyncSortList.java" />
+      <jump line="25" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/ParallelCollectionSearch.java" />
+      <jump line="3" column="6" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/SyncSortList.java" />
+      <jump line="7" column="34" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/SyncSortList.java" />
+      <jump line="15" column="66" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/SyncSortList.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="16" column="12" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/SyncSortList.java" />
+      <jump line="39" column="31" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/Main.java" />
+      <jump line="8" column="23" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized/src/SyncSortList.java" />
+    </project>
+    <project id="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App">
+      <jump line="8" column="29" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="6" column="29" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="16" column="43" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="23" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="22" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="26" column="24" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="25" column="15" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="10" column="48" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="46" column="60" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="80" column="11" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="9" column="48" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="13" column="14" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Main.java" />
+      <jump line="47" column="16" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="15" column="26" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="16" column="25" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="3" column="26" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="17" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="36" column="12" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="19" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="22" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="38" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="37" column="65" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="49" column="51" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="48" column="9" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="18" column="11" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="66" column="21" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="72" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="91" column="10" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="96" column="13" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="43" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="42" column="8" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="60" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="87" column="24" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="56" column="92" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="13" column="10" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="70" column="4" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="88" column="32" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="78" column="16" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="64" column="22" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="65" column="22" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="89" column="12" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="11" column="18" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Test.java" />
+      <jump line="18" column="16" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Main.java" />
+      <jump line="96" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Main.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Main.java" />
+      <jump line="0" column="21" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/data/usersData.txt" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Main.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/data/usersData.txt" />
+      <jump line="47" column="52" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="81" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Main.java" />
+      <jump line="84" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Users.java" />
+      <jump line="37" column="17" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Main.java" />
+      <jump line="79" column="38" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Main.java" />
+      <jump line="68" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Main.java" />
+    </project>
+    <project id="$USER_HOME$/Documents/projects/comics-store-project/Project">
+      <jump line="8" column="4" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/Main.java" />
+      <jump line="1" column="10" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/data/test.txt" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/data/supernewfile" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/data/test.txt" />
+      <jump line="22" column="13" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="237" column="19" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="16" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="87" column="58" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="104" column="46" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="19" column="100" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="37" column="37" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="262" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="40" column="41" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="261" column="38" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="7" column="18" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employee.java" />
+      <jump line="9" column="5" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employee.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employee.java" />
+      <jump line="5" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employee.java" />
+      <jump line="3" column="11" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Cashier.java" />
+      <jump line="5" column="41" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Cashier.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Cashier.java" />
+      <jump line="11" column="4" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employee.java" />
+      <jump line="9" column="4" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Cashier.java" />
+      <jump line="18" column="8" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employee.java" />
+      <jump line="15" column="8" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employee.java" />
+      <jump line="10" column="10" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Cashier.java" />
+      <jump line="11" column="8" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Cashier.java" />
+      <jump line="3" column="24" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/EWorkRate.java" />
+      <jump line="21" column="50" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employee.java" />
+      <jump line="12" column="20" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Cashier.java" />
+      <jump line="6" column="34" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Cashier.java" />
+      <jump line="13" column="1" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/InvertoryManager.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/InvertoryManager.java" />
+      <jump line="12" column="28" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/FacilitiesStaff.java" />
+      <jump line="11" column="4" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/InvertoryManager.java" />
+      <jump line="6" column="39" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Manager.java" />
+      <jump line="13" column="39" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Manager.java" />
+      <jump line="14" column="4" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employees/InvertoryManager.java" />
+      <jump line="2" column="29" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employees/InventoryManager.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employees/InvertoryManager.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employees/InventoryManager.java" />
+      <jump line="3" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employees/EmployeeAPI.java" />
+      <jump line="0" column="20" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/data/newFile" />
+      <jump line="13" column="39" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employees/Manager.java" />
+      <jump line="4" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employees/InventoryManager.java" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/EmployeeSystem/Employees/InventoryManager.java" />
+      <jump line="257" column="31" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/TextDocument/DocumentAPI.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/Main.java" />
+      <jump line="46" column="16" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/TextDocument/Document.java" />
+      <jump line="1" column="13" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/Main.java" />
+      <jump line="4" column="42" filename="$USER_HOME$/Documents/projects/comics-store-project/Project/src/Main.java" />
+    </project>
+    <project id="$USER_HOME$/Documents/projects/comics-store/comics-store-project">
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/Main.java" />
+      <jump line="0" column="20" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/TextDocument/Document.java" />
+      <jump line="134" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/TextDocument/Document.java" />
+      <jump line="136" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/TextDocument/Document.java" />
+      <jump line="3" column="4" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/Main.java" />
+      <jump line="2" column="25" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/TextDocument/DocumentAPI.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/TextDocument/DocumentAPI.java" />
+      <jump line="2" column="13" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" />
+      <jump line="16" column="29" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" />
+      <jump line="20" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" />
+      <jump line="17" column="5" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" />
+      <jump line="7" column="26" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" />
+      <jump line="18" column="51" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" />
+      <jump line="5" column="6" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/InventoryManager.java" />
+      <jump line="6" column="75" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Cashier.java" />
+      <jump line="6" column="75" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/InventoryManager.java" />
+      <jump line="7" column="75" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Manager.java" />
+      <jump line="7" column="75" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/FacilitiesStaff.java" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="22" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" />
+      <jump line="4" column="6" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/FacilitiesStaff.java" />
+      <jump line="21" column="5" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" />
+      <jump line="4" column="6" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Cashier.java" />
+      <jump line="16" column="7" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="15" column="23" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="17" column="62" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="22" column="71" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="7" column="23" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="46" column="30" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="60" column="42" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="68" column="62" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="33" column="64" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="57" column="27" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="61" column="115" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="12" column="22" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" />
+      <jump line="5" column="26" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Cashier.java" />
+      <jump line="4" column="26" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/InventoryManager.java" />
+      <jump line="1" column="22" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/InventoryManager.java" />
+      <jump line="3" column="80" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/InventoryManager.java" />
+      <jump line="5" column="76" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Manager.java" />
+      <jump line="71" column="32" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="76" column="23" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="77" column="12" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="6" column="76" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Manager.java" />
+      <jump line="5" column="7" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="83" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="66" column="135" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+      <jump line="8" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/FacilitiesStaff.java" />
+      <jump line="19" column="12" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" />
+      <jump line="8" column="28" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" />
+      <jump line="11" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" />
+      <jump line="5" column="77" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/FacilitiesStaff.java" />
+      <jump line="6" column="77" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/FacilitiesStaff.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/TextDocument/Document.java" />
+      <jump line="37" column="3" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/TextDocument/DocumentAPI.java" />
+      <jump line="64" column="0" filename="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" />
+    </project>
+    <project id="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Javadoc">
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Javadoc/src/Main.java" />
+      <jump line="12" column="27" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Javadoc/src/Calculator.java" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Javadoc/src/Calculator.java" />
+      <jump line="16" column="6" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Javadoc/src/Calculator.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Javadoc/src/Calculator.java" />
+    </project>
+    <project id="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/MavenProject">
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/MavenProject/src/main/java/org/example/Main.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/MavenProject/pom.xml" />
+      <jump line="7" column="33" filename="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/MavenProject/pom.xml" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/FacilitiesStaff.java" timestamp="1712575724291">
+        <mark key="&quot;" line="5" column="84" />
+        <mark key="'" line="5" column="26" />
+        <mark key="[" line="5" column="75" />
+        <mark key="]" line="5" column="85" />
+        <mark key="." line="5" column="84" />
+        <mark key="^" line="5" column="85" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1712414925875">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Employee.java" timestamp="1712583754132">
+        <mark key="&quot;" line="14" column="22" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Manager.java" timestamp="1712575722889">
+        <mark key="&quot;" line="6" column="76" />
+        <mark key="'" line="5" column="26" />
+        <mark key="[" line="5" column="67" />
+        <mark key="]" line="5" column="77" />
+        <mark key="." line="5" column="76" />
+        <mark key="^" line="5" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/Cashier.java" timestamp="1712575725186">
+        <mark key="&quot;" line="5" column="26" />
+        <mark key="'" line="5" column="6" />
+        <mark key="[" line="2" column="12" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="26" />
+        <mark key="^" line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/TextDocument/DocumentAPI.java" timestamp="1712599494909">
+        <mark key="&quot;" line="309" column="0" />
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="239" column="5" />
+        <mark key="]" line="240" column="4" />
+        <mark key="." line="240" column="3" />
+        <mark key="^" line="240" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/comics-store-project/Project/src/Main.java" timestamp="1712413994914">
+        <mark key="&quot;" line="6" column="4" />
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="1" column="32" />
+        <mark key="." line="1" column="31" />
+        <mark key="^" line="1" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/EmployeeAPI.java" timestamp="1712599760278">
+        <mark key="p" line="29" column="4" />
+        <mark key="&quot;" line="83" column="0" />
+        <mark key="'" line="64" column="0" />
+        <mark key="[" line="80" column="5" />
+        <mark key="]" line="83" column="8" />
+        <mark key="^" line="83" column="8" />
+        <mark key="." line="83" column="7" />
+      </file>
+      <file name="/" timestamp="1712599722777">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1712573630075">
+        <mark key="&quot;" line="16" column="0" />
+        <mark key="[" line="14" column="10" />
+        <mark key="]" line="16" column="21" />
+        <mark key="^" line="16" column="21" />
+        <mark key="." line="16" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Javadoc/src/Calculator.java" timestamp="1712503109919">
+        <mark key="'" line="16" column="6" />
+        <mark key="[" line="17" column="47" />
+        <mark key="]" line="17" column="46" />
+        <mark key="." line="17" column="45" />
+        <mark key="^" line="17" column="46" />
+      </file>
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App/src/Main.java" timestamp="1712413979372">
+        <mark key="&quot;" line="12" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/TextDocument/Document.java" timestamp="1712415140981">
+        <mark key="&quot;" line="38" column="0" />
+        <mark key="'" line="136" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/Main.java" timestamp="1712415288341">
+        <mark key="&quot;" line="2" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/MavenProject/src/main/java/org/example/Main.java" timestamp="1712598506867">
+        <mark key="&quot;" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/InventoryManager.java" timestamp="1712575723703">
+        <mark key="&quot;" line="3" column="80" />
+        <mark key="'" line="1" column="22" />
+        <mark key="[" line="3" column="76" />
+        <mark key="]" line="3" column="81" />
+        <mark key="." line="3" column="80" />
+        <mark key="^" line="3" column="81" />
+      </file>
+      <file name="/Dummy.sh" timestamp="1712596181682">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1712575680980">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="14" />
+        <mark key="^" line="0" column="14" />
+        <mark key="." line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/MavenProject/pom.xml" timestamp="1712598507991">
+        <mark key="&quot;" line="7" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees/EWorkRate.java" timestamp="1712419906188">
+        <mark key="&quot;" line="2" column="12" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="+" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oIkVudGVyIGVtcGxveWVlIGRhdGE6Iik7CiAgICAgICAgU3lzdGVtLm91dC5wcmludCgiU3VybmFtZTogIik7CiAgICAgICAgZG8gewogICAgICAgICAgICBpbnB1dFN0cmluZyA9IHNjYW5uZXIubmV4dCgpOwogICAgICAgICAgICBlbXBsb3llZUlucHV0RGF0YVswXSA9IGlucHV0U3RyaW5nOwogICAgICAgIH0gd2hpbGUgKGlucHV0U3RyaW5nLmlzRW1wdHkoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludCgiTmFtZTogIik7CiAgICAgICAgZG8gewogICAgICAgICAgICBpbnB1dFN0cmluZyA9IHNjYW5uZXIubmV4dCgpOwogICAgICAgICAgICBlbXBsb3llZUlucHV0RGF0YVsxXSA9IGlucHV0U3RyaW5nOwogICAgICAgIH0gd2hpbGUgKGlucHV0U3RyaW5nLmlzRW1wdHkoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludCgiUGF0cm9ueW1pYzogIik7CiAgICAgICAgZG8gewogICAgICAgICAgICBpbnB1dFN0cmluZyA9IHNjYW5uZXIubmV4dCgpOwogICAgICAgICAgICBlbXBsb3llZUlucHV0RGF0YVsyXSA9IGlucHV0U3RyaW5nOwogICAgICAgIH0gd2hpbGUgKGlucHV0U3RyaW5nLmlzRW1wdHkoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludCgiQmlydGggZGF0ZTogIik7CiAgICAgICAgZG8gewogICAgICAgICAgICBpbnB1dFN0cmluZyA9IHNjYW5uZXIubmV4dCgpOwogICAgICAgICAgICBlbXBsb3llZUlucHV0RGF0YVszXSA9IGlucHV0U3RyaW5nOwogICAgICAgIH0gd2hpbGUgKGlucHV0U3RyaW5nLmlzRW1wdHkoKSk7CiAgICAgICAgU3lzdGVtLm91dC5wcmludCgiR2VuZGVyOiAiKTsKICAgICAgICBkbyB7CiAgICAgICAgICAgIGlucHV0U3RyaW5nID0gc2Nhbm5lci5uZXh0KCk7CiAgICAgICAgICAgIGVtcGxveWVlSW5wdXREYXRhWzRdID0gaW5wdXRTdHJpbmc7CiAgICAgICAgfSB3aGlsZSAoaW5wdXRTdHJpbmcuaXNFbXB0eSgpKTsKICAgICAgICBTeXN0ZW0ub3V0LnByaW50KCJCYW5rIGFjY291bnQgbnVtYmVyOiAiKTsKICAgICAgICBkbyB7CiAgICAgICAgICAgIGlucHV0U3RyaW5nID0gc2Nhbm5lci5uZXh0KCk7CiAgICAgICAgICAgIGVtcGxveWVlSW5wdXREYXRhWzVdID0gaW5wdXRTdHJpbmc7CiAgICAgICAgfSB3aGlsZSAoaW5wdXRTdHJpbmcuaXNFbXB0eSgpKTsKCiAgICAgICAgaWYgKG9wdGlvbklucHV0ID09ICcxJykgewogICAgICAgICAgICAKICAgICAgICAgICAgQ2FzaGllciBuZXdDYXNoaWVyID0gbmV3IENhc2hpZXIoKTsKICAgICAgICB9Cg==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+      <register name="/" type="CHARACTER_WISE">
+        <text encoding="base64">c3RlYW0=</text>
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgZW1wbG95ZWVMaXN0LmFkZChuZXdDYXNoaWVyKTsK</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldElkKGludCBpZCkgewogICAgICAgIHRoaXMuaWQgPSBpZDsKICAgIH0KICAgIAogICAgcHVibGljIHZvaWQgc2V0RW1wbG95bWVudERhdGUoTG9jYWxEYXRlIGVtcGxveW1lbnREYXRlKSB7CiAgICAgICAgdGhpcy5lbXBsb3ltZW50RGF0ZSA9IGVtcGxveW1lbnREYXRlOwogICAgfQoKICAgIHB1YmxpYyAK</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBlbXBsb3llZUxpc3QuYWRkKAo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9wdGlvbklucHV0ID09ICcxJykgewo=</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIENhc2hpZXIgbmV3Q2FzaGllciA9IG5ldyBDYXNoaWVyKGVtcGxveWVlSW5wdXREYXRhWzBdLCBlbXBsb3llZUlucHV0RGF0YVsxXSwgZW1wbG95ZWVJbnB1dERhdGFbMl0sIGJpcnRoRGF0ZSwKICAgICAgICAgICAgICAgICAgICAgICAgZW1wbG95ZWVJbnB1dERhdGFbNF0sIGJhbmtBY2NvdW50TnVtYmVyKTsKICAgICAgICAgICAgfQo=</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG9wdGlvbklucHV0ID09ICcxJykgewogICAgICAgICAgICAgICAgQ2FzaGllciBuZXdDYXNoaWVyID0gbmV3IENhc2hpZXIoZW1wbG95ZWVJbnB1dERhdGFbMF0sIGVtcGxveWVlSW5wdXREYXRhWzFdLCBlbXBsb3llZUlucHV0RGF0YVsyXSwgYmlydGhEYXRlLAogICAgICAgICAgICAgICAgICAgICAgICBlbXBsb3llZUlucHV0RGF0YVs0XSwgYmFua0FjY291bnROdW1iZXIpOwogICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgZW1wbG95ZWVJbnB1dERhdGFbNF0sIGJhbmtBY2NvdW50TnVtYmVyKTsK</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgTG9jYWxEYXRlIGJpcnRoRGF0ZTsKICAgICAgICAgICAgdHJ5IHsKICAgICAgICAgICAgICAgIGJpcnRoRGF0ZSA9IExvY2FsRGF0ZS5wYXJzZShlbXBsb3llZUlucHV0RGF0YVszXSk7CiAgICAgICAgICAgIH0gY2F0Y2ggKEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBTeXN0ZW0uZXJyLnByaW50bG4oIkZhaWxlZCB0byBjb252ZXJ0IGRhdGUiKTsKICAgICAgICAgICAgICAgIHJldHVybjsKICAgICAgICAgICAgfQoKICAgICAgICAgICAgaW50IGJhbmtBY2NvdW50TnVtYmVyOwogICAgICAgICAgICB0cnkgewogICAgICAgICAgICAgICAgYmFua0FjY291bnROdW1iZXIgPSBJbnRlZ2VyLnBhcnNlSW50KGVtcGxveWVlSW5wdXREYXRhWzVdKTsKICAgICAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIFN5c3RlbS5lcnIucHJpbnRsbigiRmFpbGVkIHRvIGNvbnZlcnQgQmFuayBhY2NvdW50IG51bWJlciIpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">aW1wb3J0IGphdmEudXRpbC5EYXRlOwo=</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

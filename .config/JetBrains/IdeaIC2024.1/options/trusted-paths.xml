@@ -1,0 +1,31 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App" value="true" />
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Files" value="true" />
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Javadoc" value="true" />
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Lambda" value="true" />
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Multithreding" value="true" />
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream" value="true" />
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Synchronized" value="true" />
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Files" value="true" />
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/MavenProject" value="true" />
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons/Threads" value="true" />
+        <entry key="$USER_HOME$/Documents/Projects/comics-store-project/Project" value="true" />
+        <entry key="$USER_HOME$/Documents/projects/comics-store-project" value="true" />
+        <entry key="$USER_HOME$/Documents/projects/comics-store-project/Project" value="true" />
+        <entry key="$USER_HOME$/Documents/projects/comics-store-project/comics-store-project" value="true" />
+        <entry key="$USER_HOME$/Documents/projects/comics-store/comics-store-project" value="true" />
+      </map>
+    </option>
+  </component>
+  <component name="Trusted.Paths.Settings">
+    <option name="TRUSTED_PATHS">
+      <list>
+        <option value="$USER_HOME$/Documents/LeeRV-JAVA314/HW" />
+        <option value="$USER_HOME$/Documents/projects" />
+      </list>
+    </option>
+  </component>
+</application>

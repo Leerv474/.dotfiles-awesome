@@ -1,0 +1,176 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="MavenProject" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="10epfifo97ftk" SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 2,
+      "lastUsed": 1712596104528
+    },
+    "XML": {
+      "usageCount": 2,
+      "lastUsed": 1712596104868
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="2" lastUsage="1712596104531" />
+    </language>
+    <language id="XML">
+      <summary usageCount="2" lastUsage="1712596104868" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/Lessons/MavenProject}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/Lessons/MavenProject}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/Lessons/MavenProject/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/Lessons/MavenProject}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/Lessons/MavenProject/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/Lessons/MavenProject/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/Lessons/MavenProject}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/Lessons/MavenProject/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/Lessons/MavenProject/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/Lessons/MavenProject/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MavenProject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/Lessons/MavenProject}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/Lessons/MavenProject/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/Lessons/MavenProject/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/Lessons/MavenProject/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/Lessons/MavenProject/src/main/java/org/example}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Pull Requests" weight="0.33025342" />
+      <window_info content_ui="combo" id="Project" internal_type="SLIDING" order="0" type="SLIDING" weight="0.33044165" />
+      <window_info id="Commit" order="1" weight="0.33025342" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.33025342" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32961166" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.32961166" />
+      <window_info anchor="bottom" id="Services" order="5" />
+      <window_info anchor="bottom" id="Build" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <unified_weights bottom="0.32961166" left="0.33044165" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1836" height="307" key="GridCell.Tab.0.bottom" timestamp="1712595958670">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1712595958670" />
+    <state width="1836" height="307" key="GridCell.Tab.0.center" timestamp="1712595958669">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="307" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1712595958669" />
+    <state width="1836" height="307" key="GridCell.Tab.0.left" timestamp="1712595958668">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="307" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1712595958668" />
+    <state width="1836" height="307" key="GridCell.Tab.0.right" timestamp="1712595958669">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="307" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1712595958669" />
+    <state x="451" y="203" key="SettingsEditor" timestamp="1712596172836">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="451" y="203" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1712596172836" />
+    <state x="560" y="236" width="800" height="639" key="new project wizard" timestamp="1712595894431">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="236" width="800" height="639" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1712595894431" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

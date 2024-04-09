@@ -1,0 +1,138 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Javadoc" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Calculator.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/docs/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-389" />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="HTML">
+      <summary usageCount="1" lastUsed="1712503132042" />
+    </fileType>
+    <fileType name="JAVA">
+      <summary usageCount="2" lastUsed="1712502740758" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Calculator.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="HTML">
+      <summary usageCount="1" lastUsage="1712503132042" />
+    </language>
+    <language id="JAVA">
+      <summary usageCount="2" lastUsage="1712502740758" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Javadoc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/HW/Javadoc}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javadoc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/HW/Javadoc}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/HW/Javadoc/docs}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Javadoc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/HW/Javadoc}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/HW/Javadoc/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Pull Requests" weight="0.33025342" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info content_ui="combo" id="Project" internal_type="SLIDING" order="0" type="SLIDING" weight="0.33025342" />
+      <window_info id="Commit" order="1" weight="0.33025342" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.33025342" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32990196" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" id="documentation.v2" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="4" side_tool="true" />
+      <unified_weights bottom="0.32990196" left="0.33025342" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-389" />
+      </provider>
+    </entry>
+  </component>
+</project>

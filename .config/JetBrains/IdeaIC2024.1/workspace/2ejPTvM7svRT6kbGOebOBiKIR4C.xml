@@ -1,0 +1,275 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="comics-store-project" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="10epfifo97ftk" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EmployeeSystem/Employees/FacilitiesStaff.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TextDocument/Document.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret line="65" selection-start-line="65" selection-end-line="65" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TextDocument/DocumentAPI.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="216">
+              <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/EmployeeSystem/EmployeeAPI.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="81">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/EmployeeSystem/Employees/Employee.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 5,
+      "lastUsed": 1712599758100
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration"><![CDATA[{}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/TextDocument/Document.java" />
+      <option value="$PROJECT_DIR$/src/Main.java" />
+      <option value="$USER_HOME$/.ideavimrc" />
+      <option value="$PROJECT_DIR$/src/EmployeeSystem/Employees/Cashier.java" />
+      <option value="$PROJECT_DIR$/src/EmployeeSystem/Employees/InventoryManager.java" />
+      <option value="$PROJECT_DIR$/src/EmployeeSystem/Employees/Manager.java" />
+      <option value="$PROJECT_DIR$/src/EmployeeSystem/EmployeeAPI.java" />
+      <option value="$PROJECT_DIR$/src/EmployeeSystem/Employees/FacilitiesStaff.java" />
+      <option value="$PROJECT_DIR$/src/EmployeeSystem/Employees/Employee.java" />
+      <option value="$PROJECT_DIR$/src/TextDocument/DocumentAPI.java" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="33" lastUsage="1712599758100" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1712573526251" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="comics-store-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comics-store-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comics-store-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comics-store-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project/src/EmployeeSystem/Employees}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comics-store-project" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project/src/TextDocument}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Pull Requests" weight="0.33025342" />
+      <window_info content_ui="combo" id="Project" internal_type="SLIDING" order="0" type="SLIDING" weight="0.33044165" />
+      <window_info id="Commit" order="1" weight="0.33025342" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.33025342" />
+      <window_info anchor="bottom" id="Find" weight="0.32961166" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.32961166" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32990196" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <unified_weights bottom="0.32961166" left="0.33044165" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Problems View</value>
+      <value>Find</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="695" y="316" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1712419906129">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="695" y="316" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1712419906129" />
+    <state x="745" y="325" key="FileChooserDialogImpl" timestamp="1712502716912">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="745" y="325" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1712502716912" />
+    <state x="449" y="191" key="SettingsEditor" timestamp="1712599722783">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="449" y="191" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1712599722783" />
+    <state x="1173" y="276" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1712571433453">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1173" y="276" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1712571433453" />
+    <state x="560" y="224" width="800" height="663" key="new project wizard" timestamp="1712502721839">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="224" width="800" height="663" key="new project wizard/0.0.1920.1080@0.0.1920.1080" timestamp="1712502721839" />
+    <state x="623" y="261" width="718" height="700" key="search.everywhere.popup" timestamp="1712599353885">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="261" width="718" height="700" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1712599353885" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EmployeeSystem/Employees/EWorkRate.java" />
+    <entry file="file://$USER_HOME$/.ideavimrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EmployeeSystem/Employees/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="6" column="76" selection-start-line="6" selection-start-column="76" selection-end-line="6" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EmployeeSystem/Employees/InventoryManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="3" column="80" selection-start-line="3" selection-start-column="80" selection-end-line="3" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EmployeeSystem/Employees/Cashier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EmployeeSystem/Employees/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EmployeeSystem/Employees/FacilitiesStaff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="6" column="77" selection-start-line="6" selection-start-column="77" selection-end-line="6" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextDocument/Document.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TextDocument/DocumentAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="37" column="3" selection-start-line="37" selection-start-column="3" selection-end-line="37" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/EmployeeSystem/EmployeeAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

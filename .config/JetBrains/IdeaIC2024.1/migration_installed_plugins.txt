@@ -1,0 +1,2 @@
+izhangzhihao.rainbow.brackets
+com.intellij.marketplace
