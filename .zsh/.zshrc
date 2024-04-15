@@ -79,6 +79,7 @@ alias :q="exit"
 alias cdate='date "+%Y-%m-%d %A %H:%M"'
 alias sd='shutdown now'
 alias cls='clear'
+alias ssh='kitten ssh'
 
 ### INFO: ZSH settings
 HISTFILE=~/.zsh_history
