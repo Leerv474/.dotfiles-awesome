@@ -1,0 +1,456 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="comics-store-project-maven" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="xcsccuj2g39p" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/EmployeeAPI.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="1269">
+              <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/store/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="54">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/EmployeeDAO.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="378">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/store/TextDocument/DocumentAPI.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="540">
+              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="123">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 72,
+      "lastUsed": 1713124267873
+    },
+    "XML": {
+      "usageCount": 6,
+      "lastUsed": 1713124266687
+    },
+    "PLAIN_TEXT": {
+      "usageCount": 14,
+      "lastUsed": 1713122242902
+    },
+    "textmate": {
+      "usageCount": 1,
+      "lastUsed": 1712954397315
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/Employees/Cashier.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/Employees/FacilitiesStaff.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/Employees/Manager.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/Employees/InventoryManager.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/Employees/EmployeeDAO.java" />
+      <option value="$USER_HOME$/.ideavimrc" />
+      <option value="$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/Employees/Employee.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/store/EmployeeData/642450.txt" />
+      <option value="$PROJECT_DIR$/src/main/java/org/store/EmployeeData/652985.txt" />
+      <option value="$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/EmployeeDAO.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/store/TextDocument/Document.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/store/TextDocument/DocumentAPI.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/EmployeeAPI.java" />
+      <option value="$PROJECT_DIR$/src/main/java/org/store/Main.java" />
+      <option value="$PROJECT_DIR$/pom.xml" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="JAVA">
+      <summary usageCount="72" lastUsage="1713124267873" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="14" lastUsage="1713122242902" />
+    </language>
+    <language id="XML">
+      <summary usageCount="6" lastUsage="1713124266690" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1712954397318" />
+    </language>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="comics-store-project-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comics-store-project-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comics-store-project-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comics-store-project-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comics-store-project-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java/org/store}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comics-store-project-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java/org/store}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java/org/store/EmployeeData}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comics-store-project-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java/org/store}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java/org/store/EmployeeSystem}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comics-store-project-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java/org/store}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java/org/store/EmployeeSystem}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java/org/store/EmployeeSystem/Employees}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comics-store-project-maven" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java/org/store}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/projects/comics-store/comics-store-project-maven/src/main/java/org/store/TextDocument}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting="Application.Main" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/target">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" internal_type="SLIDING" order="0" type="SLIDING" weight="0.6648265" />
+      <window_info id="Commit" order="1" weight="0.6648265" />
+      <window_info id="Pull Requests" order="2" weight="0.6648265" />
+      <window_info id="Structure" order="3" side_tool="true" weight="0.33025342" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.6092233" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.6092233" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.6092233" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Run" order="5" show_stripe_button="false" weight="0.6092233" />
+      <window_info anchor="bottom" id="Messages" order="6" weight="0.6092233" />
+      <window_info anchor="bottom" id="Build" order="7" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
+      <unified_weights bottom="0.6092233" left="0.6648265" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Problems View</value>
+      <value>Project</value>
+      <value>Commit</value>
+      <value>Messages</value>
+      <value>Pull Requests</value>
+      <value>Run</value>
+      <value>Version Control</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="555" y="217" width="849" height="653" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1713030121850">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="555" y="217" width="849" height="653" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1713030121850" />
+    <state width="1836" height="595" key="GridCell.Tab.0.bottom" timestamp="1713122511170">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="595" key="GridCell.Tab.0.bottom/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1713043289301" />
+    <state width="1836" height="595" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1713122511170" />
+    <state width="1836" height="595" key="GridCell.Tab.0.center" timestamp="1713122511169">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="595" key="GridCell.Tab.0.center/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1713043289300" />
+    <state width="1836" height="595" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1713122511169" />
+    <state width="1836" height="595" key="GridCell.Tab.0.left" timestamp="1713122511169">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="595" key="GridCell.Tab.0.left/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1713043289300" />
+    <state width="1836" height="595" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1713122511169" />
+    <state width="1836" height="595" key="GridCell.Tab.0.right" timestamp="1713122511170">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1836" height="595" key="GridCell.Tab.0.right/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1713043289301" />
+    <state width="1836" height="595" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1713122511170" />
+    <state x="495" y="226" key="Maven.ArtifactSearchDialog" timestamp="1712696267623">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="495" y="226" key="Maven.ArtifactSearchDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1712696267623" />
+    <state width="640" height="276" key="ShowBookmarks" timestamp="1713120938294">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="640" height="276" key="ShowBookmarks/0.0.1920.1080@0.0.1920.1080" timestamp="1713120938294" />
+    <state x="557" y="304" key="Vcs.Push.Dialog.v2" timestamp="1713122204666">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="557" y="304" key="Vcs.Push.Dialog.v2/0.0.1920.1080@0.0.1920.1080" timestamp="1713122204666" />
+    <state x="693" y="264" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1713124661409">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="693" y="264" width="530" height="560" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1713124661409" />
+    <state width="600" height="400" key="javadoc.popup" timestamp="1713106886214">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="400" key="javadoc.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1713106886214" />
+    <state x="623" y="261" width="719" height="701" key="search.everywhere.popup" timestamp="1713101318347">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="261" width="719" height="701" key="search.everywhere.popup/0.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1713042900283" />
+    <state x="623" y="261" width="719" height="701" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1713101318347" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/Employees/FacilitiesStaff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/Employees/InventoryManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.ideavimrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/Employees/Manager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/store/EmployeeData/-1906764888.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/Employees/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/1.txt" />
+    <entry file="jar://$USER_HOME$/.jdks/openjdk-21.0.2/lib/src.zip!/java.base/java/util/ConcurrentModificationException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="69" column="13" selection-start-line="69" selection-start-column="13" selection-end-line="69" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/testing.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/store/EmployeeData/652985.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/store/EmployeeData/642450.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/Employees/Cashier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/store/TextDocument/Document.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/newtest.txt" />
+    <entry file="file://$PROJECT_DIR$/data/test.txt" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/EmployeeAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1269">
+          <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/store/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/store/EmployeeSystem/EmployeeDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/store/TextDocument/DocumentAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

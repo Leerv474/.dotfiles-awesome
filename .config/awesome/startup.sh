@@ -12,9 +12,9 @@ picom &
 killall -q polybar &
 
 if [[ $(xrandr -q | grep -w 'DP-1 connected') ]]; then
-    xrandr --output eDP-1 --off &
     xrandr --output DP-1 --auto &
     xrandr -r 75 &
+    xrandr --output eDP-1 --off &
     polybar main &
 fi
 if [[ $(xrandr -q | grep -w 'DP-1 disconnected') ]]; then

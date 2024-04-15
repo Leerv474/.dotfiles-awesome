@@ -7,22 +7,29 @@
     </option>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+    <leaf ideFingerprint="xcsccuj2g39p" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Main.java">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="361">
+              <caret line="104" column="52" selection-start-line="104" selection-start-column="52" selection-end-line="104" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
-  <component name="FileTypeUsageLocalSummary">
-    <fileType name="CLASS">
-      <summary usageCount="1" lastUsed="1710866965455" />
-    </fileType>
-    <fileType name="JAVA">
-      <summary usageCount="8" lastUsed="1712413027444" />
-    </fileType>
-    <fileType name="PLAIN_TEXT">
-      <summary usageCount="2" lastUsed="1712413028857" />
-    </fileType>
-    <fileType name="textmate">
-      <summary usageCount="2" lastUsed="1712413028782" />
-    </fileType>
-  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "JAVA": {
+      "usageCount": 1,
+      "lastUsed": 1713122597429
+    }
+  }
+}]]></component>
   <component name="IdeDocumentHistory">
     <changedPaths>
       <option value="$PROJECT_DIR$/data/data.txt" />
@@ -39,7 +46,7 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="JAVA">
-      <summary usageCount="8" lastUsage="1712413027448" />
+      <summary usageCount="9" lastUsage="1713122597430" />
     </language>
     <language id="TEXT">
       <summary usageCount="2" lastUsage="1712413028857" />
@@ -49,12 +56,31 @@
     </language>
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1" />
-    <panes />
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/HW/Stream}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Stream" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/HW/Stream}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/roman/Documents/LeeRV-JAVA314/HW/Stream/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.33025342" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.33044165" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -69,11 +95,11 @@
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
       <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.32990196" left="0.33025342" />
+      <unified_weights bottom="0.32990196" left="0.33044165" />
     </layoutV2>
     <recentWindows>
-      <value>Run</value>
       <value>Project</value>
+      <value>Run</value>
       <value>Build</value>
     </recentWindows>
   </component>
@@ -152,16 +178,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="371">
-          <caret line="104" column="85" selection-start-line="104" selection-start-column="85" selection-end-line="104" selection-end-column="85" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
@@ -180,6 +196,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="62">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="104" column="52" selection-start-line="104" selection-start-column="52" selection-end-line="104" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

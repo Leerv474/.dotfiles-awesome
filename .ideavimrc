@@ -13,8 +13,6 @@ let mapleader=" "
 " Moving indent as much as you want
 vmap < <gv
 vmap > >gv
-" split screen
-nmap <leader>s vsplit
 " Moving selected text up and down
 vmap J :m '>+1<CR>gv=gv
 vmap K :m '<-2<CR>gv=gv

@@ -98,22 +98,6 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream">
-          <value>
-            <RecentProjectMetaInfo frameTitle="Stream" projectWorkspaceId="2dueAyK5qErRsAQnwqmxG9FUQou">
-              <option name="activationTimestamp" value="1712413053280" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-233.15026.9" />
-              <option name="buildTimestamp" value="1711962840000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="1" />
-              </option>
-              <frame x="963" y="38" width="951" height="1036" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1712413029028" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/App">
           <value>
             <RecentProjectMetaInfo frameTitle="App – Main.java" projectWorkspaceId="2eMllPSI0PLaF97v3YTd4uBzQcu">
@@ -127,22 +111,6 @@
               <frame x="6" y="38" width="1908" height="1036" />
               <option name="productionCode" value="IC" />
               <option name="projectOpenTimestamp" value="1712414889129" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Javadoc">
-          <value>
-            <RecentProjectMetaInfo frameTitle="Javadoc – index.html" projectWorkspaceId="2emHEVfLX7qM61tmEBw0CFsgRZK">
-              <option name="activationTimestamp" value="1712503189678" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="IC-233.15026.9" />
-              <option name="buildTimestamp" value="1711962840000" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="6" />
-              </option>
-              <frame x="6" y="38" width="1908" height="1036" />
-              <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1712502722692" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -164,8 +132,8 @@
         </entry>
         <entry key="$USER_HOME$/Documents/projects/comics-store/comics-store-project">
           <value>
-            <RecentProjectMetaInfo frameTitle="comics-store-project – FacilitiesStaff.java" projectWorkspaceId="2ejPTvM7svRT6kbGOebOBiKIR4C">
-              <option name="activationTimestamp" value="1712599996838" />
+            <RecentProjectMetaInfo frameTitle="comics-store-project – Main.java" projectWorkspaceId="2ejPTvM7svRT6kbGOebOBiKIR4C">
+              <option name="activationTimestamp" value="1712696088500" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-241.14494.240" />
               <option name="buildTimestamp" value="1712566020000" />
@@ -174,13 +142,61 @@
               </option>
               <frame x="6" y="38" width="1908" height="1036" />
               <option name="productionCode" value="IC" />
-              <option name="projectOpenTimestamp" value="1712599188897" />
+              <option name="projectOpenTimestamp" value="1712689276838" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Javadoc">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Javadoc – index.html" projectWorkspaceId="2emHEVfLX7qM61tmEBw0CFsgRZK">
+              <option name="activationTimestamp" value="1713122582518" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.14494.240" />
+              <option name="buildTimestamp" value="1712566020000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="6" y="38" width="1908" height="1036" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1713122573499" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/LeeRV-JAVA314/HW/Stream">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Stream – Main.java" projectWorkspaceId="2dueAyK5qErRsAQnwqmxG9FUQou">
+              <option name="activationTimestamp" value="1713122666849" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.14494.240" />
+              <option name="buildTimestamp" value="1712566020000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="6" y="38" width="1908" height="1036" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1713122590255" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/projects/comics-store/comics-store-project-maven">
+          <value>
+            <RecentProjectMetaInfo frameTitle="comics-store-project-maven – pom.xml (comics-store-project-maven)" opened="true" projectWorkspaceId="2esbATmUlwAU1S5tVkh84OneBCU">
+              <option name="activationTimestamp" value="1713124732653" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-241.14494.240" />
+              <option name="buildTimestamp" value="1712566020000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="6" y="38" width="1908" height="1036" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1713124267966" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Documents/projects/comics-store/comics-store-project" />
-    <option name="lastProjectLocation" value="$USER_HOME$/Documents/LeeRV-JAVA314/Lessons" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/projects/comics-store/comics-store-project-maven" />
+    <option name="lastProjectLocation" value="$USER_HOME$/Documents/projects/comics-store" />
   </component>
 </application>
