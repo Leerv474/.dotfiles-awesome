@@ -3,7 +3,6 @@
 Includes:
 - Awesome WM (includes polybar, picom and rofi)
 - [neovim](https://github.com/Leerv474/.dotfiles/tree/master/.config/nvim)
-- JetBrains 
 - [lf](https://github.com/Leerv474/.dotfiles/tree/master/.config/lf) (terminal file manager)
 - [kitty](https://github.com/Leerv474/.dotfiles/blob/master/.config/kitty/kitty.conf) (terminal emulator)
 - xbindkeys (for keybindings)
