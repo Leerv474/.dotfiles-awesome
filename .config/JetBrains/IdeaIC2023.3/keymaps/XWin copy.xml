@@ -1,5 +1,0 @@
-<keymap version="1" name="XWin copy" parent="Default for XWin">
-  <action id="SearchEverywhere">
-    <keyboard-shortcut first-keystroke="ctrl back_slash" />
-  </action>
-</keymap>
