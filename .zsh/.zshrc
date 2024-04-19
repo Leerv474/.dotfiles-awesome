@@ -30,7 +30,7 @@ glut-compile() {
 alias bmstu="cd ~/Documents/bmstu"
 alias downloads="cd ~/Downloads"
 alias docs="cd ~/Documents"
-alias courses="cd ~/Documents/LeeRV-JAVA314"
+alias javacourse="cd ~/Documents/LeeRV-JAVA314"
 alias config="cd ~/.config"
 alias home="cd ~"
 alias dotfiles="cd ~/.dotfiles"

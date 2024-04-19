@@ -61,4 +61,4 @@ vim.g.omni_sql_no_default_maps = 1
 
 -- spellchecking
 vim.opt.spelllang = 'en_us'
-vim.opt.spell = true
+vim.opt.spell = false 
