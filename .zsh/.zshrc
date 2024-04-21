@@ -9,6 +9,7 @@
 autoload -Uz compinit promptinit
 compinit
 promptinit
+neofetch
 
 
 export LC_ALL=en_US.UTF-8
@@ -80,6 +81,7 @@ alias cdate='date "+%Y-%m-%d %A %H:%M"'
 alias sd='shutdown now'
 alias cls='clear'
 alias ssh='kitten ssh'
+alias cat='bat -p'
 
 ### INFO: ZSH settings
 HISTFILE=~/.zsh_history
