@@ -85,6 +85,7 @@ alias sd='shutdown now'
 alias cls='clear'
 alias ssh='kitten ssh'
 alias cat='bat -p'
+alias lg='lazygit'
 
 ### INFO: ZSH settings
 HISTFILE=~/.zsh_history
