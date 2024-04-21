@@ -28,16 +28,16 @@ glut-compile() {
 }
 
 # directories
-alias bmstu="cd ~/Documents/bmstu"
-alias downloads="cd ~/Downloads"
-alias docs="cd ~/Documents"
-alias javacourse="cd ~/Documents/LeeRV-JAVA314"
-alias config="cd ~/.config"
+alias bmstu="cd ~/Documents/bmstu && la"
+alias downloads="cd ~/Downloads && la"
+alias docs="cd ~/Documents && la"
+alias javacourse="cd ~/Documents/LeeRV-JAVA314 && la"
+alias config="cd ~/.config && la"
 alias home="cd ~"
-alias dotfiles="cd ~/.dotfiles"
-alias projects="cd ~/Documents/projects"
-alias practice="cd ~/Documents/practice"
-alias notes="cd ~/Documents/Notes"
+alias dotfiles="cd ~/.dotfiles && la"
+alias projects="cd ~/Documents/projects && la"
+alias practice="cd ~/Documents/practice && la"
+alias notes="cd ~/Documents/Notes && la"
 
 # directory management
 alias la='ls -lahq --color=auto --no-group'
@@ -48,7 +48,10 @@ alias сы='cd'
 
 # file management
 alias mkf='touch'
-alias open='xdg-open'
+
+open() {
+    xdg-open $1 &
+}
 
 neovim() {
     if [ -n "$1" ]; then

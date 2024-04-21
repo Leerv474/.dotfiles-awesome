@@ -6,7 +6,7 @@
 # Version: 1.8.7
 #
 
-# INFO: VOLUME CONTROL
+## INFO: VOLUME CONTROL
 #
 # Use XF86AudioMute to mute volume
 "pactl set-sink-mute 0 toggle"
@@ -27,7 +27,7 @@
 "~/.dotfiles/scripts/brightness.sh -"
     XF86MonBrightnessDown
 
-##INFO: SCREENSHOTS
+## INFO: SCREENSHOTS
 "flameshot gui"
     Control + Shift + s
 ##################################
