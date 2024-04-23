@@ -1,8 +1,9 @@
 #!/bin/sh
 
-echo -e "--- MAKE SURE .config EXISTS ---"
+echo -e "DO NOT RUN THIS FILE"
+exit
 
-read exitst
+read exists
 
 if [[ $exists = 'no' ]]; then
     exit

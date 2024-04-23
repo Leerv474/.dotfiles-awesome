@@ -53,7 +53,7 @@ open() {
     xdg-open $1 &
 }
 
-neovim() {
+cdv() {
     if [ -n "$1" ]; then
         if [ -d "$1" ]; then
             cd "$1" || exit 
@@ -68,10 +68,9 @@ neovim() {
     fi
 }
 
-alias nvim="neovim"
-alias vim="neovim"
-alias nv="neovim"
-alias v="neovim"
+alias vim="nvim"
+alias nv="nvim"
+alias v="nvim"
 
 cdmkdir() {
     mkdir "$1"
@@ -86,11 +85,13 @@ alias cls='clear'
 alias ssh='kitten ssh'
 alias cat='bat -p'
 alias lg='lazygit'
+alias py='python'
 
 ### INFO: ZSH settings
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
 SAVEHIST=1000
+
 ## History command configuration
 setopt extended_history       # record timestamp of command in HISTFILE
 setopt hist_expire_dups_first # delete duplicates first when HISTFILE size exceeds HISTSIZE
@@ -105,6 +106,10 @@ setopt globdots
 setopt nomatch 
 setopt menucomplete
 setopt interactive_comments
+
+# ctrl backspace
+bindkey '^H' backward-kill-word
+bindkey '5~' kill-word
 
 stty stop undef
 zle_highlight=('paste:none')

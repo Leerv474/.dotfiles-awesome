@@ -7,7 +7,7 @@ Includes:
 - [kitty](https://github.com/Leerv474/.dotfiles/blob/master/.config/kitty/kitty.conf) (terminal emulator)
 - xbindkeys (for keybindings)
 - firefox (user.js and chrome folder for personalizatoin)
-- [bash](https://github.com/Leerv474/.dotfiles/tree/master/.bash) (pure)
+- bash (pure)
 
 
 Ensure to install:
@@ -24,3 +24,4 @@ Ensure to install:
 - tmux
 - zsh / bash
 - pulse audio
+- neofetch

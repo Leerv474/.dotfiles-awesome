@@ -16,7 +16,6 @@ return {
                 "xmlformatter",
                 -- Linters
                 "cpplint",
-                "pylint",
                 "eslint_d",
             },
             automatic_installation = false,
