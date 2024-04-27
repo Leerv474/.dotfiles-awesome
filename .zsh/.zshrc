@@ -15,7 +15,6 @@ neofetch
 export LC_ALL=en_US.UTF-8
 export EDITOR=nvim
 
-eval "$(zoxide init --cmd cd zsh)"
 ### ALIASES
 # scripts
 alias psd="${HOME}/.dotfiles/scripts/psd.sh"
@@ -28,7 +27,7 @@ glut-compile() {
 }
 
 # directories
-alias bmstu="cd ~/Documents/bmstu && la"
+alias bmstu="cd ~/Documents/BMSTU && la"
 alias downloads="cd ~/Downloads && la"
 alias docs="cd ~/Documents && la"
 alias javacourse="cd ~/Documents/LeeRV-JAVA314 && la"
