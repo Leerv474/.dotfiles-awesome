@@ -1,9 +1,10 @@
 vim.g.mapleader = " "
 -- netwrd
-vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
+vim.keymap.set("n", "<leader>pv", vim.cmd.Ex, {desc = "Open file explorer"})
 
 -- split screen
-vim.keymap.set("n", "<leader>s", vim.cmd.vsplit)
+vim.keymap.set("n", "<leader>sv", vim.cmd.vsplit, {desc = "split vertically"})
+vim.keymap.set("n", "<leader>sh", vim.cmd.split, {desc = "scpit horizontally"})
 
 -- moving indent as much as you want
 vim.keymap.set("v", "<", "<gv")
@@ -22,7 +23,7 @@ vim.keymap.set("n", "<leader>d", '"_d')
 vim.keymap.set("v", "<leader>d", '"_d')
 
 -- better yap
-vim.keymap.set("v", "<leader>y", '"+y')
+vim.keymap.set("v", "<leader>y", '"+y', {desc = "copy to clipboard"})
 
 -- paste over without buffering
 vim.api.nvim_set_keymap("x", "p", '"_dP', { noremap = true })

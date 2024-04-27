@@ -23,9 +23,9 @@ return {
         local diff = {
             "diff",
             icon = "",
-            colored = true, -- displays a colored diff status if set to true
-            symbols = { added = " ", modified = "󰛿 ", removed = " " }, -- changes the symbols used by the diff.
-            source = nil, -- a function that works as a data source for diff.
+            colored = true,
+            symbols = { added = " ", modified = "󰛿 ", removed = " " },
+            source = nil,
         }
 
         local filetype = {
@@ -37,17 +37,16 @@ return {
         }
         local filename = {
             "filename",
-            file_status = false, -- Displays file status (readonly status, modified status)
-            newfile_status = false, -- Display new file status (new file means no write after created)
+            file_status = false,
+            newfile_status = false,
             path = 0,      -- 0: Just the filename
 
-            shorting_target = 40, -- Shortens path to leave 40 spaces in the window
-            -- for other components. (terrible name, any suggestions?)
+            shorting_target = 40,
             symbols = {
-                modified = "  ", -- Text to show when the file is modified.
-                readonly = "  ", -- Text to show when the file is non-modifiable or readonly.
-                unnamed = "[No Name]", -- Text to show for unnamed buffers.
-                newfile = "[New]", -- Text to show for newly created file before first write
+                modified = "  ",
+                readonly = "  ",
+                unnamed = "[No Name]",
+                newfile = "[New]",
             },
             padding = { right = 2 },
         }
@@ -57,13 +56,12 @@ return {
             on_update = function()
                 require("lualine").refresh()
             end,
-            -- formatter = "extended", -- configure the default formatter
             formatter_opts = {
-                extended = { -- remove all spaces...
-                    indicators = { "1", "2", "3", "4" },
-                    empty_slot = " ·",
-                    more_marks_indicator = "…", -- horizontal elipsis. Disable with empty string
-                    more_marks_active_indicator = "[…]", -- Disable with empty string
+                extended = {
+                    indicators = { " 1 ", " 2 ", " 3 ", " 4 " },
+                    empty_slot = " · ",
+                    more_marks_indicator = "…",
+                    more_marks_active_indicator = "[…]",
                 },
             },
         })
@@ -92,7 +90,7 @@ return {
                 lualine_b = { "branch", diff, "diagnostics" },
                 lualine_c = {},
                 lualine_x = { filetype, filename },
-                lualine_y = { { harpoonline.format, padding = { right = 2 } } },
+                lualine_y = { harpoonline.format },
                 lualine_z = { location },
             },
             inactive_sections = {

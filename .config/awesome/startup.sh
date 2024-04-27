@@ -9,7 +9,7 @@ function run {
 
 ## Startup apps
 picom &
-killall -q polybar &
+killall -q polybar
 
 if [[ $(xrandr -q | grep -w 'DP-1 connected') ]]; then
     xrandr --output DP-1 --auto &

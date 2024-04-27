@@ -47,7 +47,25 @@ vim.cmd([[
     sign define DiagnosticSignInfo text=  linehl= texthl=DiagnosticSignInfo numhl= 
     sign define DiagnosticSignHint text=  linehl= texthl=DiagnosticSignHint numhl= 
     ]])
+vim.diagnostic.config({
+	virtual_text = {
+		source = "if_many",
+		prefix = "  ",
+	},
+	update_in_insert = true,
+	underline = true,
+	severity_sort = true,
+	float = {
+		focusable = false,
+		style = "minimal",
+		border = "rounded",
+		source = "if_many",
+		header = "",
+		prefix = "",
+	},
+})
 
+-- highlight yank
 vim.api.nvim_create_autocmd("TextYankPost", {
 	group = vim.api.nvim_create_augroup("highlight_yank", {}),
 	desc = "Highlight selection on yank",
@@ -60,5 +78,5 @@ vim.api.nvim_create_autocmd("TextYankPost", {
 vim.g.omni_sql_no_default_maps = 1
 
 -- spellchecking
-vim.opt.spelllang = 'en_us'
-vim.opt.spell = false 
+vim.opt.spelllang = "en_us"
+vim.opt.spell = false
