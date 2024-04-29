@@ -22,26 +22,17 @@ return {
 
 		mason_config.setup({
 			ensure_installed = {
-				-- cpp
 				"cmake",
 				"clangd",
-				-- python
 				"pyright",
-				-- lua
 				"lua_ls",
-				-- java
 				"jdtls",
-				-- web
 				"html",
 				"cssls",
-				-- xml
 				"lemminx",
 				"jsonls",
-				-- bash
 				"bashls",
-				-- markdown
 				"marksman",
-				"sqls",
 				"tsserver",
 			},
 		})
@@ -54,11 +45,12 @@ return {
                 "black",
                 "clang-format",
                 "beautysh",
-                "sql-formatter",
                 -- linters
                 "cpplint",
                 "eslint_d",
                 "checkstyle",
+                "pylint",
+                "luacheck",
             }
         })
 	end,

@@ -22,6 +22,7 @@ return {
 						"yaml",
 						"html",
 						"css",
+                        "cpp",
 					},
 					config = {
 						tabwidth = 2,

@@ -39,7 +39,7 @@ return {
             "filename",
             file_status = false,
             newfile_status = false,
-            path = 0,      -- 0: Just the filename
+            path = 0, -- 0: Just the filename
 
             shorting_target = 40,
             symbols = {
@@ -96,10 +96,10 @@ return {
             inactive_sections = {
                 lualine_a = {},
                 lualine_b = {},
-                lualine_c = { filename },
-                lualine_x = { location },
+                lualine_c = {},
+                lualine_x = {},
                 lualine_y = {},
-                lualine_z = {},
+                lualine_z = { filetype, filename },
             },
             tabline = {},
             winbar = {},

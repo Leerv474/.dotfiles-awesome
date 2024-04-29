@@ -5,9 +5,6 @@ vim.keymap.set("n", "<leader>sv", vim.cmd.vsplit, { desc = "split vertically" })
 vim.keymap.set("n", "<leader>sh", vim.cmd.split, { desc = "split horizontally" })
 vim.keymap.set("n", "<leader>sx", vim.cmd.close, {desc = "close scplit"})
 
---clear highlight
-vim.keymap.set("n", "<leaver>ch", ":nohl<CR>", { desc = "clear highlights"})
-
 -- moving indent as much as you want
 vim.keymap.set("v", "<", "<gv")
 vim.keymap.set("v", ">", ">gv")
