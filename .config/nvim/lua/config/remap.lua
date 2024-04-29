@@ -1,10 +1,12 @@
 vim.g.mapleader = " "
--- netwrd
-vim.keymap.set("n", "<leader>pv", vim.cmd.Ex, {desc = "Open file explorer"})
-
+vim.keymap.set("i", "<C-;>", "<ESC>", { desc = "exit insert mode" })
 -- split screen
-vim.keymap.set("n", "<leader>sv", vim.cmd.vsplit, {desc = "split vertically"})
-vim.keymap.set("n", "<leader>sh", vim.cmd.split, {desc = "scpit horizontally"})
+vim.keymap.set("n", "<leader>sv", vim.cmd.vsplit, { desc = "split vertically" })
+vim.keymap.set("n", "<leader>sh", vim.cmd.split, { desc = "split horizontally" })
+vim.keymap.set("n", "<leader>sx", vim.cmd.close, {desc = "close scplit"})
+
+--clear highlight
+vim.keymap.set("n", "<leaver>ch", ":nohl<CR>", { desc = "clear highlights"})
 
 -- moving indent as much as you want
 vim.keymap.set("v", "<", "<gv")
@@ -19,11 +21,11 @@ vim.keymap.set("n", "n", "nzzzv")
 vim.keymap.set("n", "N", "Nzzzv")
 
 -- so paste over doesn't change buffer
-vim.keymap.set("n", "<leader>d", '"_d')
-vim.keymap.set("v", "<leader>d", '"_d')
+vim.keymap.set("n", "<leader>d", '"_d', {desc = "delete without registering"})
+vim.keymap.set("v", "<leader>d", '"_d', {desc = "delete without registering"})
 
 -- better yap
-vim.keymap.set("v", "<leader>y", '"+y', {desc = "copy to clipboard"})
+vim.keymap.set("v", "<leader>y", '"+y', { desc = "copy to clipboard" })
 
 -- paste over without buffering
 vim.api.nvim_set_keymap("x", "p", '"_dP', { noremap = true })
@@ -35,4 +37,4 @@ vim.keymap.set("n", "<C-h>", ":wincmd h<CR>")
 vim.keymap.set("n", "<C-l>", ":wincmd l<CR>")
 
 --normal backspace in insert mode
-vim.api.nvim_set_keymap('i', '<C-BS>', '<Esc>caw', {noremap = true})
+vim.api.nvim_set_keymap("i", "<C-BS>", "<Esc>caw", { noremap = true })

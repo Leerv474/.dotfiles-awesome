@@ -1,5 +1,8 @@
 vim.opt.guicursor = "n-v-c-sm:block,i-ci-ve:ver30,r-cr-o:hor20"
 
+vim.g.loaded_netrw = 1
+vim.g.loaded_netrwPlugin = 1
+
 vim.opt.nu = true
 vim.opt.relativenumber = true
 
@@ -19,7 +22,7 @@ vim.wo.cursorline = true
 vim.opt.wrap = true
 
 vim.opt.incsearch = true
-vim.opt.hlsearch = false
+vim.opt.hlsearch = true
 vim.opt.swapfile = false
 vim.opt.backup = false
 vim.opt.undodir = os.getenv("HOME") .. "/.vim/undodir"
