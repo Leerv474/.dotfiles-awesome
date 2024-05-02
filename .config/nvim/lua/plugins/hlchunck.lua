@@ -22,7 +22,7 @@ return {
                     { fg = "#f38ba8" }, -- this fg is used to highlight wrong chunk
                 },
                 textobject = "",
-                max_file_size = 1024 * 1024,
+                max_file_size = 1024 * 1024 * 1024,
                 error_sign = true,
             },
 

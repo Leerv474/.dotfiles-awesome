@@ -3,14 +3,15 @@ vim.opt.guicursor = "n-v-c-sm:block,i-ci-ve:ver30,r-cr-o:hor20"
 vim.g.loaded_netrw = 1
 vim.g.loaded_netrwPlugin = 1
 
-vim.opt.nu = true
+vim.opt.number = true
 vim.opt.relativenumber = true
 
 vim.opt.tabstop = 4
-vim.opt.softtabstop = 4
 vim.opt.shiftwidth = 4
+vim.opt.expandtab = true
 vim.opt.autoindent = true
 vim.opt.smartindent = true
+vim.opt.smarttab = true
 vim.opt.showtabline = 0
 vim.opt.mouse = ""
 
@@ -19,8 +20,10 @@ vim.opt.cmdheight = 1
 
 vim.wo.cursorline = true
 
-vim.opt.wrap = true
+vim.opt.wrap = false
 
+vim.opt.ignorecase = true
+vim.opt.smartcase = true
 vim.opt.incsearch = true
 vim.opt.hlsearch = false
 vim.opt.swapfile = false
@@ -37,11 +40,6 @@ vim.opt.updatetime = 50
 -- so split focuses new window
 vim.opt.splitright = true
 vim.opt.splitbelow = true
-
--- xml formatting
-vim.api.nvim_command("autocmd FileType xml set equalprg=xmllint\\ --format\\ -")
--- ignore case
-vim.opt.ic = true
 
 -- change diagnostic signs
 vim.cmd([[ 
@@ -79,7 +77,3 @@ vim.api.nvim_create_autocmd("TextYankPost", {
 })
 
 vim.g.omni_sql_no_default_maps = 1
-
--- spellchecking
-vim.opt.spelllang = "en_us"
-vim.opt.spell = false

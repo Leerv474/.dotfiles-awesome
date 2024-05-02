@@ -8,45 +8,24 @@ return {
         { "folke/neodev.nvim", opts = {} },
     },
     config = function()
-        vim.api.nvim_create_autocmd("LspAttach", {
-            group = vim.api.nvim_create_augroup("UserLspConfig", {}),
-            callback = function(ev)
-                -- Buffer local mappings.lspconf
-                -- See `:help vim.lsp.*` for documentation on any of the below functions
-                local opts = { buffer = ev.buf, silent = true }
+        -- set keybinds
+        vim.keymap.set("n", "gr", vim.lsp.buf.references, { desc = "list references", silent = true })
 
-                -- set keybinds
-                opts.desc = "Show LSP references"
-                vim.keymap.set("n", "gR", "<cmd>Telescope lsp_references<CR>", opts)
+        vim.keymap.set("n", "gD", vim.lsp.buf.declaration, { desc = "go to declaration", silent = true })
 
-                opts.desc = "Go to declaration"
-                vim.keymap.set("n", "gD", vim.lsp.buf.declaration, opts)
+        vim.keymap.set("n", "gd", vim.lsp.buf.definition, { desc = "go to definition", silent = true })
 
-                opts.desc = "Show LSP definitions"
-                vim.keymap.set("n", "gd", "<cmd>Telescope lsp_definitions<CR>", opts)
+        vim.keymap.set("n", "gi", vim.lsp.buf.implementation, { desc = "go to implementations", silent = true })
 
-                opts.desc = "Show LSP implementations"
-                vim.keymap.set("n", "gi", "<cmd>Telescope lsp_implementations<CR>", opts)
+        vim.keymap.set({ "n", "v" }, "<leader>ca", vim.lsp.buf.code_action, { desc = "code action", silent = true })
 
-                opts.desc = "Show LSP type definitions"
-                vim.keymap.set("n", "gt", "<cmd>Telescope lsp_type_definitions<CR>", opts)
+        vim.keymap.set("n", "<leader>rr", vim.lsp.buf.rename, { desc = "smart rename", silent = true })
 
-                opts.desc = "See available code actions"
-                vim.keymap.set({ "n", "v" }, "<leader>ca", vim.lsp.buf.code_action, opts)
+        vim.keymap.set("n", "[d", vim.diagnostic.goto_prev, { desc = "go to previous diagnostic", silent = true })
 
-                opts.desc = "Smart rename"
-                vim.keymap.set("n", "<leader>rr", vim.lsp.buf.rename, opts)
+        vim.keymap.set("n", "]d", vim.diagnostic.goto_next, { desc = "go to next diagnostic", silent = true })
 
-                opts.desc = "Go to previous diagnostic"
-                vim.keymap.set("n", "[d", vim.diagnostic.goto_prev, opts)
-
-                opts.desc = "Go to next diagnostic"
-                vim.keymap.set("n", "]d", vim.diagnostic.goto_next, opts)
-
-                opts.desc = "Show documentation for what is under cursor"
-                vim.keymap.set("n", "K", vim.lsp.buf.hover, opts)
-            end,
-        })
+        vim.keymap.set("n", "K", vim.lsp.buf.hover, { desc = "show information under the cursor", silent = true })
 
         local lspconfig = require("lspconfig")
         local mason_lspconfig = require("mason-lspconfig")
