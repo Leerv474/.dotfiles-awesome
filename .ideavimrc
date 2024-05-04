@@ -1,11 +1,19 @@
 " --- SET
 set scrolloff=8
 set incsearch
-set nu
+set number
 set relativenumber
 set ignorecase
 set smartcase
 set NERDTree
+set splitright
+set splitbelow
+
+imap <C-;> <ESC>
+
+nmap <leader>sv vsplit
+nmap <leader>sh split
+nmap <leader>sx close
 
 
 " --- REMAPS
@@ -41,6 +49,7 @@ nmap <leader>fs :action FindInPath<CR>
 nmap <leader>ff :action SearchEverywhere<CR>
 map <leader>pv :NERDTree<CR>
 nmap <leader>nf :action NewFile<CR>
+nmap <leader>gf :action ReformatCode<CR>
 
 " Highlight copied text
 Plug 'machakann/vim-highlightedyank'

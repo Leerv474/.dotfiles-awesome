@@ -9,7 +9,7 @@
 autoload -Uz compinit promptinit
 compinit
 promptinit
-neofetch
+fastfetch
 
 
 export LC_ALL=en_US.UTF-8
