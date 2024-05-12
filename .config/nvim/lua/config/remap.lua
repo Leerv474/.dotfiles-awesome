@@ -21,9 +21,6 @@ vim.keymap.set("n", "N", "Nzzzv")
 vim.keymap.set("n", "<leader>d", '"_d', { desc = "delete without registering" })
 vim.keymap.set("v", "<leader>d", '"_d', { desc = "delete without registering" })
 
--- better yap
-vim.keymap.set("v", "<leader>y", '"+y', { desc = "copy to clipboard" })
-
 -- paste over without buffering
 vim.api.nvim_set_keymap("x", "p", '"_dP', { noremap = true })
 
@@ -32,3 +29,4 @@ vim.keymap.set("n", "<C-k>", ":wincmd k<CR>")
 vim.keymap.set("n", "<C-j>", ":wincmd j<CR>")
 vim.keymap.set("n", "<C-h>", ":wincmd h<CR>")
 vim.keymap.set("n", "<C-l>", ":wincmd l<CR>")
+

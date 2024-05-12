@@ -22,6 +22,7 @@ eval "$(zoxide init --cmd cd zsh)"
 alias psd="${HOME}/.dotfiles/scripts/psd.sh"
 alias trash="${HOME}/.dotfiles/scripts/trash.sh"
 alias quick-git="${HOME}/.dotfiles/scripts/quick-git.sh"
+alias dupterm="${HOME}/.dotfiles/scripts/dupterm.sh"
 
 ### INFO: for freeglut
 glut-compile() {
