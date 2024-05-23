@@ -51,6 +51,12 @@ alias сы='cd'
 # file management
 alias mkf='touch'
 
+note() {
+    touch ~/quick_note
+    rm ~/quick_note
+    nvim ~/quick_note
+}
+
 open() {
     xdg-open $1 &
 }
