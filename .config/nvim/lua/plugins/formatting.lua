@@ -21,7 +21,6 @@ return {
                 java = { "clang-format" },
                 sh = { "beautysh" },
                 zsh = { "beautysh" },
-                sql = { "sqls" },
             },
         })
 

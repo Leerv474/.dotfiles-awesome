@@ -8,7 +8,6 @@ return {
         "DBUI",
         "DBUIToggle",
         "DBUIAddConnection",
-        "DBUIFindBuffer",
     },
     init = function()
         -- Your DBUI configuration

@@ -45,10 +45,11 @@ return {
 				["<CR>"] = cmp.mapping.confirm({ select = false }),
 			}),
 			sources = {
-				{ name = "nvim_lsp" },
-				{ name = "luasnip" },
-				{ name = "buffer" },
-				{ name = "path" },
+				{ name = "nvim_lsp", priority = 40 },
+				{ name = "luasnip", priority = 30 },
+				{ name = "buffer", priority = 20},
+				{ name = "path", priority = 10},
+                { name = "vim-dadbod-completion", priority = 50},
 			},
 			formatting = {
 				format = lspkind.cmp_format({
