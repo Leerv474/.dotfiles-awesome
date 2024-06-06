@@ -11,7 +11,6 @@ compinit
 promptinit
 fastfetch
 
-
 export LC_ALL=en_US.UTF-8
 export EDITOR=nvim
 
@@ -52,9 +51,9 @@ alias сы='cd'
 alias mkf='touch'
 
 note() {
-    touch ~/quick_note
-    rm ~/quick_note
-    nvim ~/quick_note
+    touch ~/quick_note.md
+    rm ~/quick_note.md
+    nvim ~/quick_note.md
 }
 
 open() {

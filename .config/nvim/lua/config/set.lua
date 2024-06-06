@@ -1,9 +1,10 @@
 vim.opt.guicursor = "n-v-c-sm:block,i-ci-ve:ver30,r-cr-o:hor20"
 
--- disable netrw
-vim.g.loaded_netrw = 1
-vim.g.loaded_netrwPlugin = 1
+-- netrw
+vim.g.netrw_localcopydircmd = 'cp -r'
 
+
+--
 vim.opt.backspace = "indent,eol,start"
 vim.opt.clipboard:append("unnamedplus")
 
@@ -17,7 +18,7 @@ vim.opt.isfname:append("@-@")
 vim.opt.number = true
 vim.opt.relativenumber = true
 
--- enable if not using tabset.nvim
+-- -- enable if not using tabset.nvim
 -- vim.opt.tabstop = 4
 -- vim.opt.shiftwidth = 4
 vim.opt.expandtab = true

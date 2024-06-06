@@ -31,5 +31,5 @@ setxkbmap -option caps:ctrl_modifier
 setxkbmap -option altwin:swap_alt_win
 
 # set sleep times
-xautolock -locker "systemctl suspend" -time 10 &
+# xautolock -locker "systemctl suspend" -time 10 &
 

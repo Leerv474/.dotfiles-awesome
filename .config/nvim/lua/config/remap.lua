@@ -1,4 +1,5 @@
 vim.g.mapleader = " "
+vim.keymap.set("n", "<leader>pv", vim.cmd.Ex)
 vim.keymap.set("i", "<C-;>", "<ESC>", { desc = "exit insert mode" })
 -- split screen
 vim.keymap.set("n", "<leader>sv", vim.cmd.vsplit, { desc = "split vertically" })

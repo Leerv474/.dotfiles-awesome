@@ -1,3 +1,4 @@
+---@diagnostic disable: missing-fields
 return {
     "shellraining/hlchunk.nvim",
     event = { "BufReadPre", "BufNewFile" },

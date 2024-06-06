@@ -9,7 +9,7 @@ return {
             },
             languages = {
                 {
-                    filetypes = { "cpp", "javascript", "typescript", "javascriptreact", "typescriptreact", "json", "yaml" },
+                    filetypes = { "cpp", "html", "css", "javascript", "typescript", "javascriptreact", "typescriptreact", "json", "yaml" },
                     config = {
                         tabwidth = 2,
                     },
