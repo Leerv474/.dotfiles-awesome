@@ -94,6 +94,12 @@ alias cat='bat -p'
 alias lg='lazygit'
 alias py='python'
 
+mkhtml() {
+    mkdir -p project/css
+    touch project/index.html
+    touch project/css/style.css
+}
+
 ### INFO: ZSH settings
 HISTFILE=~/.zsh_history
 HISTSIZE=10000
