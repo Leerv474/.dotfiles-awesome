@@ -22,6 +22,7 @@ alias psd="${HOME}/.dotfiles/scripts/psd.sh"
 alias trash="${HOME}/.dotfiles/scripts/trash.sh"
 alias quick-git="${HOME}/.dotfiles/scripts/quick-git.sh"
 alias dupterm="${HOME}/.dotfiles/scripts/dupterm.sh"
+alias note="${HOME}/.dotfiles/scripts/note.sh"
 
 ### INFO: for freeglut
 glut-compile() {
@@ -38,7 +39,6 @@ alias home="cd ~"
 alias dotfiles="cd ~/.dotfiles && la"
 alias projects="cd ~/Documents/projects && la"
 alias practice="cd ~/Documents/practice && la"
-alias notes="cd ~/Documents/Notes && la"
 
 # directory management
 alias la='ls -lahq --color=auto --no-group'
@@ -49,12 +49,6 @@ alias сы='cd'
 
 # file management
 alias mkf='touch'
-
-note() {
-    touch ~/quick_note.md
-    rm ~/quick_note.md
-    nvim ~/quick_note.md
-}
 
 open() {
     xdg-open $1 &
