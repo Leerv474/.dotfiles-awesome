@@ -26,6 +26,7 @@ ${GREEN}operations:${NORMAL}
     note (open note)
     note -n [filename] (new note)
     note -r (remove note)
+    note -g (save to git)
     "
     exit 0
 fi
@@ -39,6 +40,12 @@ if [ "$1" = '-r' ]; then
         echo -e "${BLUE}info:${NORMAL} no file selected" 
     fi
     exit 0
+fi
+
+if [ "$1" = '-g' ]; then
+    git -C ~/Documents/Notes commit -m "update"
+    git -C ~/Documents/Notes push
+    exit
 fi
 
 if [ "$#" -ne 2 ]; then

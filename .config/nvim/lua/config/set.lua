@@ -1,8 +1,7 @@
 vim.opt.guicursor = "n-v-c-sm:block,i-ci-ve:ver30,r-cr-o:hor20"
 
 -- netrw
-vim.g.netrw_localcopydircmd = 'cp -r'
-
+vim.g.netrw_localcopydircmd = "cp -r"
 
 --
 vim.opt.backspace = "indent,eol,start"
@@ -43,7 +42,6 @@ vim.opt.swapfile = false
 vim.opt.backup = false
 vim.opt.undodir = os.getenv("HOME") .. "/.vim/undodir"
 vim.opt.undofile = true
-
 
 vim.opt.updatetime = 50
 

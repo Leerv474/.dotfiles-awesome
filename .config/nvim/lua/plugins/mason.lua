@@ -27,13 +27,13 @@ return {
 				"pyright",
 				"lua_ls",
 				"jdtls",
-				"html",
 				"cssls",
 				"lemminx",
 				"jsonls",
 				"bashls",
 				"marksman",
 				"tsserver",
+                "emmet_ls",
 			},
 		})
 

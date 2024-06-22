@@ -89,9 +89,9 @@ alias lg='lazygit'
 alias py='python'
 
 mkhtml() {
-    mkdir -p project/css
-    touch project/index.html
-    touch project/css/style.css
+    mkdir -p $1/css
+    touch $1/index.html
+    touch $1/css/style.css
 }
 
 ### INFO: ZSH settings
